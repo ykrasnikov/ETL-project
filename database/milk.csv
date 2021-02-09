@@ -1,0 +1,1001 @@
+,product_id,category,Brand,size,Store_Id,image,Type_ID
+0,1111040101,['Dairy'],Kroger,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111040101,1
+1,1111041600,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041600,1
+2,1111041660,['Dairy'],Kroger,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041660,1
+3,1111040601,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111040601,1
+4,1111042315,['Dairy'],Kroger,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042315,1
+5,1111042852,"['Natural & Organic', 'Dairy']",Simple Truth Organic,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042852,1
+6,1111041661,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041661,1
+7,1111042305,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042305,1
+8,1111050323,['Dairy'],Kroger,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050323,1
+9,85631200277,"['Natural & Organic', 'Dairy']",Fairlife,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085631200277,1
+10,1111042850,"['Dairy', 'Natural & Organic']",Simple Truth Organic,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042850,1
+11,1111042854,"['Natural & Organic', 'Dairy']",Simple Truth Organic,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042854,1
+12,1111042908,"['Dairy', 'Natural & Organic']",Simple Truth Organic,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042908,1
+13,81326702000,['Dairy'],A2 Milk,59 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081326702000,1
+14,81326702007,['Dairy'],A2 Milk,59 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081326702007,1
+15,1111040121,['Dairy'],Springdale,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111040121,1
+16,1111041720,['Dairy'],Springdale,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041720,1
+17,1111050274,['Dairy'],Kroger,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050274,1
+18,1111050322,['Dairy'],Kroger,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050322,1
+19,1111050277,['Dairy'],Kroger,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050277,1
+20,1111082556,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111082556,1
+21,85631200275,"['Dairy', 'Natural & Organic']",Fairlife,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085631200275,1
+22,2800051575,['Dairy'],Nesquik,14 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800051575,1
+23,4138309072,['Dairy'],Lactaid,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309072,1
+24,85631200279,['Dairy'],Fairlife,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085631200279,1
+25,1111085333,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111085333,1
+26,1111081818,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111081818,1
+27,81162002016,"['Natural & Organic', 'Dairy']",Fairlife,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002016,1
+28,4138309010,['Dairy'],Lactaid,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309010,1
+29,4138309036,['Dairy'],Lactaid,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309036,1
+30,4138309073,['Dairy'],Lactaid,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309073,1
+31,1111085314,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111085314,1
+32,4138309022,['Dairy'],Lactaid,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309022,1
+33,1111008303,['Dairy'],Kroger,59 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008303,1
+34,1111089282,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089282,1
+35,1111041650,['Dairy'],Springdale,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041650,1
+36,1111050325,['Dairy'],Kroger,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050325,1
+37,1111050324,['Dairy'],Kroger,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050324,1
+38,81162002138,"['Natural & Organic', 'Dairy']",Fairlife,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002138,1
+39,1111004989,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004989,1
+40,1111042345,['Dairy'],Springdale,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042345,1
+41,1111079809,['Dairy'],Kroger,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111079809,1
+42,4138309070,['Dairy'],Lactaid,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309070,1
+43,1111050278,['Dairy'],Kroger,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050278,1
+44,4138309043,['Dairy'],Lactaid,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309043,1
+45,85508800546,"['Dairy', 'Natural & Organic']",Maple Hill,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0085508800546,1
+46,1111004990,"['Dairy', 'Natural & Organic']",Simple Truth Organic,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004990,1
+47,76352800022,['Dairy'],Promised Land,28 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800022,1
+48,81547301032,['Dairy'],Borden,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301032,1
+49,1111042111,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042111,1
+50,81547301037,['Dairy'],Borden,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301037,1
+51,68692400160,['Dairy'],Kroger,gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400160,1
+52,68692400076,['Dairy'],Kroger,gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400076,1
+53,68692400071,['Dairy'],Kroger,half gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400071,1
+54,68692400037,['Dairy'],Kroger,1/2 gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400037,1
+55,68692400077,['Dairy'],Kroger,half gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400077,1
+56,68692400005,['Dairy'],Kroger,gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400005,1
+57,68692400157,['Dairy'],Kroger,half gallon,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400157,1
+58,81547301047,['Dairy'],Borden,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301047,1
+59,81547301042,['Dairy'],Borden,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301042,1
+60,3663207112,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207112,1
+61,4190007986,['Dairy'],Dairy Pure,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004190007986,1
+62,3663207127,"['Beverages', 'Dairy']",Horizon Organic,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207127,1
+63,1111042051,['Dairy'],Springdale,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042051,1
+64,81547301038,['Dairy'],Borden,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301038,1
+65,81547301033,['Dairy'],Borden,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301033,1
+66,81547301043,['Dairy'],Borden,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301043,1
+67,81547301048,['Dairy'],Borden,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301048,1
+68,76352800006,['Dairy'],Promised Land,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800006,1
+69,81162002205,"['Dairy', 'Beverages']",Fairlife,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002205,1
+70,76352800020,['Dairy'],Promised Land,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800020,1
+71,81162002253,['Dairy'],Good Moo'd,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002253,1
+72,81547301688,['Dairy'],Borden,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301688,1
+73,81162002254,['Dairy'],Good Moo'd,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002254,1
+74,81547301689,['Dairy'],Borden,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301689,1
+75,88303800001,['Dairy'],LaLa,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0088303800001,1
+76,81547301044,['Dairy'],Borden,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301044,1
+77,81547301045,['Dairy'],Borden,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301045,1
+78,88303800050,['Dairy'],,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0088303800050,1
+79,81547301719,['Dairy'],Borden,16 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301719,1
+80,81003226002,['Dairy'],Sproud,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226002,1
+81,4164807985,"['Dairy', 'Natural & Organic']",Better Than Milk,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807985,1
+82,4164807988,"['Dairy', 'Natural & Organic']",Better Than Milk,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807988,1
+83,4164807986,"['Natural & Organic', 'Dairy']",Better Than Milk,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807986,1
+84,4164807984,['Dairy'],Better Than Milk,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807984,1
+85,4164807987,['Dairy'],Better Than Milk,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807987,1
+86,1111042856,"['Dairy', 'Natural & Organic']",Simple Truth Organic,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042856,1
+87,1111042902,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042902,1
+88,1111042861,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042861,1
+89,1111042858,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042858,1
+90,74236526445,"['Natural & Organic', 'Dairy']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526445,1
+91,1111050438,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050438,1
+92,74236526425,"['Dairy', 'Natural & Organic']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526425,1
+93,1111050434,"['Dairy', 'Natural & Organic']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050434,1
+94,74236526447,"['Dairy', 'Natural & Organic']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526447,1
+95,7290400003,"['Dairy', 'Natural & Organic']",Meyenberg,1 quart,3400312,https://www.kroger.com/product/images/xlarge/front/0007290400003,1
+96,74236526435,"['Dairy', 'Natural & Organic']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526435,1
+97,74236500707,"['Dairy', 'Natural & Organic']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500707,1
+98,74236526405,"['Dairy', 'Natural & Organic']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526405,1
+99,1111050075,"['Natural & Organic', 'Dairy']",Simple Truth Organic,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050075,1
+100,74236520885,"['Natural & Organic', 'Dairy']",Horizon Organic,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236520885,1
+101,74236500675,"['Dairy', 'Natural & Organic']",Horizon Organic,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500675,1
+102,74236500708,"['Dairy', 'Natural & Organic']",Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500708,1
+103,1111042862,"['Dairy', 'Natural & Organic']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042862,1
+104,1111042906,"['Dairy', 'Natural & Organic']",Simple Truth Organic,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042906,1
+105,74236520865,"['Dairy', 'Natural & Organic']",Horizon Organic,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236520865,1
+106,74236500416,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500416,1
+107,74236500674,"['Dairy', 'Natural & Organic']",Horizon Organic,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500674,1
+108,74236526480,"['Dairy', 'Natural & Organic']",Horizon Organic,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526480,1
+109,74236500432,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500432,1
+110,74236500420,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500420,1
+111,74236500270,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,12 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500270,1
+112,85508800568,"['Natural & Organic', 'Dairy']",Maple Hill,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0085508800568,1
+113,74236500417,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500417,1
+114,74236500421,"['Beverages', 'Dairy', 'Natural & Organic']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500421,1
+115,74236500434,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,12 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500434,1
+116,3663207113,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,12 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207113,1
+117,74236500318,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,12 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500318,1
+118,74236500431,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500431,1
+119,74236500437,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,12 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500437,1
+120,2529300099,"['Natural & Organic', 'Dairy']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300099,1
+121,1111089536,"['Dairy', 'Natural & Organic']",Simple Truth,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089536,1
+122,2529300275,"['Dairy', 'Natural & Organic']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300275,1
+123,4157005413,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005413,1
+124,2529300242,"['Natural & Organic', 'Dairy']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300242,1
+125,85290900342,"['Dairy', 'Natural & Organic']",Califia Farms,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900342,1
+126,2529300451,"['Natural & Organic', 'Dairy']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300451,1
+127,2529300380,"['Dairy', 'Natural & Organic']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300380,1
+128,2529300377,"['Natural & Organic', 'Dairy']",Silk,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300377,1
+129,2529300379,"['Dairy', 'Natural & Organic']",Silk,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300379,1
+130,4157005416,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005416,1
+131,1111084185,"['Natural & Organic', 'Dairy']",Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084185,1
+132,4157006836,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157006836,1
+133,1111081557,"['Natural & Organic', 'Dairy']",Simple Truth Organic,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111081557,1
+134,4157006827,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157006827,1
+135,85564300604,"['Natural & Organic', 'Dairy']",Ripple,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085564300604,1
+136,85564300605,"['Dairy', 'Natural & Organic']",Ripple,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085564300605,1
+137,4157006837,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157006837,1
+138,1111083449,"['Dairy', 'Natural & Organic']",Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111083449,1
+139,1111081558,"['Natural & Organic', 'Dairy']",Simple Truth Organic,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111081558,1
+140,82946200117,"['Dairy', 'Natural & Organic']",Good Karma,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0082946200117,1
+141,4157008977,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157008977,1
+142,7487396015,"['Dairy', 'Natural & Organic']",WestSoy,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007487396015,1
+143,4157008976,"['Dairy', 'Natural & Organic']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157008976,1
+144,2529300272,"['Dairy', 'Natural & Organic']",Silk,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300272,1
+145,5260306600,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306600,1
+146,2529300273,"['Natural & Organic', 'Dairy']",Silk,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300273,1
+147,85788200801,"['Dairy', 'Natural & Organic']",Better Body Foods,1 l,3400312,https://www.kroger.com/product/images/xlarge/front/0085788200801,1
+148,2529300169,"['Natural & Organic', 'Dairy']",Silk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300169,1
+149,2529300170,"['Natural & Organic', 'Dairy']",Silk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300170,1
+150,1894400102,['Dairy'],Elmhurst,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001894400102,1
+151,87538600040,"['Dairy', 'Natural & Organic']",Living Harvest,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600040,1
+152,5260306503,"['Natural & Organic', 'Dairy']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306503,1
+153,87538600032,"['Natural & Organic', 'Dairy']",Living Harvest,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600032,1
+154,87538600041,"['Dairy', 'Natural & Organic']",Living Harvest,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600041,1
+155,4157008974,"['Dairy', 'Natural & Organic']",Blue Diamond,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157008974,1
+156,81363602024,"['Natural & Organic', 'Dairy']",Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602024,1
+157,87538600030,"['Natural & Organic', 'Dairy']",Living Harvest,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600030,1
+158,87538600031,"['Natural & Organic', 'Dairy']",Living Harvest,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600031,1
+159,7487396025,"['Dairy', 'Natural & Organic']",Westsoy,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007487396025,1
+160,4157005791,"['Dairy', 'Natural & Organic']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005791,1
+161,74447391231,"['Dairy', 'Natural & Organic']",SO Delicious,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447391231,1
+162,85177000364,"['Dairy', 'Natural & Organic']",Orgain,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085177000364,1
+163,7487396200,"['Dairy', 'Natural & Organic']",West Soy,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007487396200,1
+164,8425326020,"['Natural & Organic', 'Dairy']",Dream,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425326020,1
+165,85290900377,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900377,1
+166,7487397083,"['Dairy', 'Natural & Organic']",WestSoy,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007487397083,1
+167,4318200206,"['Natural & Organic', 'Dairy']",Native Forest,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004318200206,1
+168,5260306500,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306500,1
+169,1111050573,['Dairy'],Kroger,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050573,1
+170,1111050574,['Dairy'],Kroger,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050574,1
+171,2800077212,['Dairy'],Nesquik,14 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800077212,1
+172,1111050279,['Dairy'],Kroger,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050279,1
+173,1111043266,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111043266,1
+174,76352800008,['Dairy'],Promised Land,28 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800008,1
+175,1111008300,['Dairy'],Kroger,59 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008300,1
+176,76352800017,['Dairy'],Promised Land,28 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800017,1
+177,81547301041,['Dairy'],Borden,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301041,1
+178,81547301051,['Dairy'],Borden,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301051,1
+179,2800073309,['Dairy'],Nesquik,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800073309,1
+180,81162002206,"['Dairy', 'Beverages']",Fairlife,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002206,1
+181,81547301046,['Dairy'],Borden,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301046,1
+182,81003226003,['Dairy'],Sproud,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226003,1
+183,85804500429,['Dairy'],Milkadamia,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085804500429,1
+184,85804500451,['Dairy'],Milkadamia,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085804500451,1
+185,85804500428,['Dairy'],Milkadamia,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085804500428,1
+186,73762801150,"['International', 'Dairy']",Thai Kitchen,13.66 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073762801150,1
+187,81829001703,['Dairy'],Chobani,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001703,1
+188,1111090414,"['International', 'Dairy']",Kroger,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111090414,1
+189,81829001698,['Dairy'],Chobani,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001698,1
+190,4473801843,"['International', 'Dairy']",Chaokoh,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004473801843,1
+191,1111078505,"['Natural & Organic', 'Dairy']",Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111078505,1
+192,3663207269,['Dairy'],Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207269,1
+193,1111090415,"['International', 'Dairy']",Kroger,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111090415,1
+194,2500012008,"['Natural & Organic', 'Dairy']",Simply,46 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002500012008,1
+195,4133102164,"['International', 'Dairy']",Goya,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004133102164,1
+196,73762801160,"['International', 'Dairy']",Thai Kitchen,13.66 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073762801160,1
+197,2500012006,"['Natural & Organic', 'Dairy']",Simply,46 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002500012006,1
+198,2500012004,"['Dairy', 'Natural & Organic']",Simply,46 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002500012004,1
+199,3663207614,['Dairy'],Silk,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207614,1
+200,1111009223,['Dairy'],Simple Truth,1.89 l,3400312,https://www.kroger.com/product/images/xlarge/front/0001111009223,1
+201,3663207615,['Dairy'],Silk,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207615,1
+202,7065006025,['Dairy'],Andre Prost,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007065006025,1
+203,7065080012,"['Dairy', 'International']",A Taste of Thai,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007065080012,1
+204,63919250152,['Dairy'],Laguna,10.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0063919250152,1
+205,2529360090,['Dairy'],Silk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360090,1
+206,1894400050,['Natural & Organic'],Elmhurst,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001894400050,1
+207,1894400106,['Dairy'],Elmhurst,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001894400106,1
+208,4133102165,"['International', 'Dairy']",Goya,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004133102165,1
+209,86452400010,['Dairy'],Mooala,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086452400010,1
+210,73762801094,"['International', 'Dairy', 'Natural & Organic']",Thai Kitchen,13.66 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073762801094,1
+211,2418202506,['Dairy'],Eden,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202506,1
+212,81824302865,['Natural & Organic'],BareOrganics,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081824302865,1
+213,81363602164,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602164,1
+214,2418202515,['Dairy'],Eden,33 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202515,1
+215,2418202545,['Dairy'],Eden Foods,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202545,1
+216,73762806050,"['Dairy', 'International']",Thai Kitchen,5.46 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073762806050,1
+217,81003226007,['Dairy'],Sproud,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226007,1
+218,81363602165,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602165,1
+219,1111042712,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042712,1
+220,1111042707,['Dairy'],Kroger,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042707,1
+221,1111042705,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042705,1
+222,1111042701,['Dairy'],Kroger,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042701,1
+223,7235000001,['Dairy'],Yoo-hoo,10 ct / 6.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007235000001,1
+224,81547301402,['Dairy'],Borden,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301402,1
+225,81547301218,['Dairy'],Borden,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301218,1
+226,81547301213,['Dairy'],Borden,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301213,1
+227,81363602044,['Dairy'],Califia Farms,25 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602044,1
+228,74447394124,['Dairy'],SO Delicious,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447394124,1
+229,74447394120,['Dairy'],SO Delicious,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447394120,1
+230,81363602022,['Dairy'],Califia Farms,16.9 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602022,1
+231,81363602090,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602090,1
+232,1996270343,['Dairy'],Coconut Cloud,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001996270343,1
+233,1996270333,['Dairy'],Coconut Cloud,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001996270333,1
+234,81363602084,['Dairy'],Califia Farms,16.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602084,1
+235,1111050068,"['Natural & Organic', 'Dairy']",Simple Truth Organic,16 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050068,1
+236,86452400013,"['Dairy', 'Natural & Organic']",Mooala,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086452400013,1
+237,2529300149,"['Dairy', 'Natural & Organic']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300149,1
+238,2529300136,"['Natural & Organic', 'Dairy']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300136,1
+239,4157005670,"['Dairy', 'Natural & Organic']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005670,1
+240,2529300098,"['Dairy', 'Natural & Organic']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300098,1
+241,4157005618,"['Dairy', 'Natural & Organic']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005618,1
+242,1111089569,"['Dairy', 'Natural & Organic']",Simple Truth,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089569,1
+243,4157005617,"['Natural & Organic', 'Dairy']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005617,1
+244,4410015618,"['Natural & Organic', 'Dairy']",Planet Oat,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004410015618,1
+245,2529300119,"['Natural & Organic', 'Dairy']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300119,1
+246,2529360039,"['Dairy', 'Natural & Organic']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360039,1
+247,1111089577,"['Natural & Organic', 'Dairy']",Simple Truth,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089577,1
+248,2529360023,"['Natural & Organic', 'Dairy']",Silk,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360023,1
+249,1111089562,"['Natural & Organic', 'Dairy']",Simple Truth,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089562,1
+250,1111042950,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042950,1
+251,1111087980,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087980,1
+252,4157011019,"['Natural & Organic', 'Dairy']",Almond Breeze,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011019,1
+253,2529300228,"['Dairy', 'Natural & Organic']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300228,1
+254,1111084597,"['Dairy', 'Natural & Organic']",Simple Truth,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084597,1
+255,4410015621,"['Dairy', 'Natural & Organic']",Planet Oat,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004410015621,1
+256,4157011008,"['Dairy', 'Natural & Organic']",Almond Breeze,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011008,1
+257,2529360027,"['Dairy', 'Natural & Organic']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360027,1
+258,4157010993,"['Natural & Organic', 'Dairy']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157010993,1
+259,85290900330,"['Natural & Organic', 'Dairy']",Califia Farms,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900330,1
+260,3663207126,"['Dairy', 'Natural & Organic']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207126,1
+261,81363602188,"['Natural & Organic', 'Dairy']",Califia Farms,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602188,1
+262,1111087981,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087981,1
+263,4157010964,"['Natural & Organic', 'Dairy']",Almond Breeze,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157010964,1
+264,1111089578,"['Natural & Organic', 'Dairy']",Simple Truth,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089578,1
+265,2529300122,"['Dairy', 'Natural & Organic']",Silk,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300122,1
+266,4157005772,"['Dairy', 'Natural & Organic']",Almond Breeze,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005772,1
+267,85290900369,"['Natural & Organic', 'Dairy']",Califia Farms,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900369,1
+268,3663207459,"['Natural & Organic', 'Dairy']",Silk,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207459,1
+269,4157009915,"['Dairy', 'Natural & Organic']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157009915,1
+270,4157005770,"['Natural & Organic', 'Dairy']",Almond Breeze,96 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005770,1
+271,8425327117,"['Natural & Organic', 'Dairy']",Rice Dream,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0008425327117,1
+272,4157050001,"['Dairy', 'Natural & Organic']",Blue Diamond,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157050001,1
+273,1111088806,"['Natural & Organic', 'Dairy']",Simple Truth Organic,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088806,1
+274,4157005418,"['Natural & Organic', 'Dairy']",Almond Breeze,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005418,1
+275,8425322213,"['Natural & Organic', 'Dairy']",Rice Dream,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322213,1
+276,8425322230,"['Dairy', 'Natural & Organic']",Rice Dream,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322230,1
+277,5260306570,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306570,1
+278,86052100010,"['Natural & Organic', 'Dairy']",nutpods,11.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086052100010,1
+279,2529300139,"['Dairy', 'Natural & Organic']",Silk,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300139,1
+280,85992200720,"['Dairy', 'Natural & Organic']",nutpods,11.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085992200720,1
+281,4157005260,"['Natural & Organic', 'Dairy']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005260,1
+282,4157011097,"['Natural & Organic', 'Dairy']",Blue Diamond,4 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011097,1
+283,2529300137,"['Dairy', 'Natural & Organic']",Silk,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300137,1
+284,4157011095,"['Natural & Organic', 'Dairy']",Blue Diamond,4 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011095,1
+285,2529300270,"['Natural & Organic', 'Dairy']",Silk,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300270,1
+286,5260308200,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260308200,1
+287,85788200849,"['Natural & Organic', 'Dairy']",Better Body Foods,1 l,3400312,https://www.kroger.com/product/images/xlarge/front/0085788200849,1
+288,5260306601,"['Natural & Organic', 'Dairy']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306601,1
+289,86000148838,"['Natural & Organic', 'Dairy']",Malk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086000148838,1
+290,86000148832,"['Dairy', 'Natural & Organic']",Malk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086000148832,1
+291,5260306580,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306580,1
+292,5260306752,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306752,1
+293,85788200811,"['Dairy', 'Natural & Organic']",Better Body Foods,1 l,3400312,https://www.kroger.com/product/images/xlarge/front/0085788200811,1
+294,8425322231,"['Dairy', 'Natural & Organic']",Dream,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322231,1
+295,85290900381,"['Natural & Organic', 'Dairy']",Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900381,1
+296,5260306510,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306510,1
+297,5260306750,"['Natural & Organic', 'Dairy']",Pacific Foods,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306750,1
+298,5260308300,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260308300,1
+299,5260306504,"['Dairy', 'Natural & Organic']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306504,1
+300,2418202535,"['Dairy', 'Natural & Organic']",Eden,32 fo,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202535,1
+301,5260306751,"['Natural & Organic', 'Dairy']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306751,1
+302,8425322215,"['Natural & Organic', 'Dairy']",Dream,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322215,1
+303,5260306550,"['Natural & Organic', 'Dairy']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306550,1
+304,2418202505,"['Dairy', 'Natural & Organic']",Eden Foods,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202505,1
+305,4157010991,"['Natural & Organic', 'Dairy']",Almond Breeze,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0004157010991,1
+306,74447391234,"['Natural & Organic', 'Dairy', 'Beverages']",SO Delicious,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447391234,1
+307,8425322571,"['Natural & Organic', 'Dairy']",Coconut Dream,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322571,1
+308,5260306603,"['Natural & Organic', 'Dairy']",Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306603,1
+309,8425322216,"['Dairy', 'Natural & Organic']",Imagine,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322216,1
+310,5260306507,"['Dairy', 'Natural & Organic']",Pacific,4 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306507,1
+311,7235002056,['Dairy'],Yoo-hoo,12 cans / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007235002056,1
+312,81547301388,['Dairy'],Borden,1 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301388,1
+313,4410015619,['Dairy'],Planet Oat,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004410015619,1
+314,1111003844,"['Natural & Organic', 'Dairy']",Simple Truth,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003844,1
+315,2529300489,"['Dairy', 'Natural & Organic']",Silk,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300489,1
+316,1111042952,"['Natural & Organic', 'Dairy']",Simple Truth Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042952,1
+317,1111003850,['Dairy'],Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003850,1
+318,85992200739,"['Dairy', 'Natural & Organic']",nutpods,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085992200739,1
+319,81829001747,"['Dairy', 'Natural & Organic']",Chobani,52 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001747,1
+320,85992200758,"['Dairy', 'Natural & Organic']",nutpods,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085992200758,1
+321,85992200759,"['Natural & Organic', 'Dairy']",nutpods,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085992200759,1
+322,81002977011,"['Dairy', 'Natural & Organic']",Ripple,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081002977011,1
+323,19064664101,['Dairy'],Oatly,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0019064664101,1
+324,2529360089,['Dairy'],Silk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360089,1
+325,19064664102,['Dairy'],Oatly,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0019064664102,1
+326,1111008234,"['Natural & Organic', 'Dairy']",Simple Truth,6 bottles / 2.7 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008234,1
+327,75417783054,"['Dairy', 'International']",Klass,14.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0075417783054,1
+328,75417750164,"['Dairy', 'International']",Klass,0.58 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0075417750164,1
+329,85539500704,['Dairy'],Mooala,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085539500704,1
+330,8425326832,['Dairy'],Imagine,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425326832,1
+331,5260306604,['Dairy'],Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306604,1
+332,5260308320,['Dairy'],Pacific,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260308320,1
+333,5260306756,['Dairy'],Pacific,4 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306756,1
+334,81003226001,['Dairy'],Sproud,33.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226001,1
+335,81363602161,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602161,1
+336,81363602233,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602233,1
+337,5260306593,['Dairy'],Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306593,1
+338,2418202510,['Dairy'],Eden Foods,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202510,1
+339,8425322211,['Dairy'],Imagine,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008425322211,1
+340,5260308330,['Dairy'],Pacific,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260308330,1
+341,5260308340,['Dairy'],Pacific,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260308340,1
+342,5260306100,['Dairy'],Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306100,1
+343,5260306652,['Dairy'],Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306652,1
+344,5260306650,['Dairy'],Pacific,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306650,1
+345,5000032275,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000032275,1
+346,4127102564,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102564,1
+347,5000032290,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000032290,1
+348,1111088104,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088104,1
+349,4127100955,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127100955,1
+350,1111088150,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088150,1
+351,4127101788,['Dairy'],Dunkin' Donuts,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127101788,1
+352,5000030302,['Dairy'],Coffee-mate,35.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000030302,1
+353,5000088680,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000088680,1
+354,5000080164,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000080164,1
+355,1111088151,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088151,1
+356,1111088126,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088126,1
+357,1111008334,['Dairy'],Kroger,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008334,1
+358,1111088120,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088120,1
+359,5000039879,['Dairy'],Coffee-mate,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000039879,1
+360,1111088093,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088093,1
+361,4127102275,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102275,1
+362,4127101997,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127101997,1
+363,3663207173,['Dairy'],International Delight,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207173,1
+364,5000099334,['Dairy'],Starbucks,28 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000099334,1
+365,1111001058,['Dairy'],Kroger,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111001058,1
+366,81829001692,['Dairy'],Chobani,24 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001692,1
+367,1111050065,['Dairy'],Simple Truth Organic,16 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050065,1
+368,5000040367,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000040367,1
+369,4127102590,['Dairy'],International Delight,24 ct / 10.55 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102590,1
+370,5000034101,['Dairy'],Coffee-mate,24 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0005000034101,1
+371,3450063156,['Dairy'],Land O' Lakes,24 ct / 7.3 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003450063156,1
+372,5000031474,['Dairy'],Coffee-mate,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000031474,1
+373,5000020708,['Dairy'],Coffee-mate,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000020708,1
+374,4127102591,['Dairy'],International Delight,24 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102591,1
+375,4127100974,['Dairy'],International Delight,10.55 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127100974,1
+376,5000034934,['Dairy'],Coffee-mate,10.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000034934,1
+377,5000004595,['Dairy'],Coffee-mate,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000004595,1
+378,5000034102,['Dairy'],Coffee-mate,24 ct / 0.37 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000034102,1
+379,1111002822,['Dairy'],Simple Truth Organic,16 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111002822,1
+380,5000060236,['Dairy'],Coffee-mate,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000060236,1
+381,7245711033,['Dairy'],Walden Farms,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007245711033,1
+382,7245711055,['Dairy'],Walden Farms,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007245711055,1
+383,7245711022,['Dairy'],Walden Farms,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007245711022,1
+384,86140600012,['Dairy'],Leaner Creamer,9.87 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086140600012,1
+385,7245711044,['Dairy'],Walden Farms,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007245711044,1
+386,18614060141,['Dairy'],Leaner Creamer,20 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0018614060141,1
+387,86140600018,['Dairy'],Leaner Creamer,9.87 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086140600018,1
+388,86140600011,['Dairy'],Leaner Creamer,9.87 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086140600011,1
+389,86140600019,['Dairy'],Leaner Creamer,9.87 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086140600019,1
+390,5000034103,['Dairy'],Coffee-mate,24 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0005000034103,1
+391,5000035022,['Dairy'],Coffee-mate,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000035022,1
+392,5000084811,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000084811,1
+393,1111050074,['Dairy'],Kroger,0.5 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050074,1
+394,4127100472,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127100472,1
+395,5000025117,['Dairy'],Coffee-mate,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000025117,1
+396,4127102568,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102568,1
+397,1111088111,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088111,1
+398,1111088140,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088140,1
+399,1111088109,['Dairy'],Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088109,1
+400,4127102502,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102502,1
+401,5000030262,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000030262,1
+402,5000012766,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000012766,1
+403,4127102253,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102253,1
+404,4127101993,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127101993,1
+405,5000084808,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000084808,1
+406,2529300462,['Dairy'],Silk,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300462,1
+407,5000032852,['Dairy'],Coffee-mate,64 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000032852,1
+408,5000038276,['Dairy'],Starbucks,28 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000038276,1
+409,81829001693,['Dairy'],Chobani,24 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001693,1
+410,2529300464,['Dairy'],Silk,1 qt,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300464,1
+411,1111001161,['Dairy'],Kroger,35.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111001161,1
+412,5000072784,['Dairy'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000072784,1
+413,4127102488,['Dairy'],International Delight,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004127102488,1
+414,1111087756,['Dairy'],Kroger,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087756,1
+415,1111087764,['Dairy'],Kroger,10.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087764,1
+416,2529360217,['Dairy'],Silk,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360217,1
+417,1111086544,['Dairy'],One of the Perks,22 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111086544,1
+418,1111087760,['Dairy'],Kroger,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087760,1
+419,1111087761,['Dairy'],Kroger,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087761,1
+420,81363602222,['Dairy'],Califia Farms,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602222,1
+421,5000030622,['Dairy'],Coffee-mate,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000030622,1
+422,1111001160,['Dairy'],Kroger,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111001160,1
+423,1111087762,['Dairy'],Kroger,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087762,1
+424,86052100012,['Dairy'],nutpods,11.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086052100012,1
+425,85569400601,['Dairy'],Laird Superfood,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085569400601,1
+426,85023200505,"['Natural & Organic', 'Dairy']",Vital Proteins,11.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085023200505,1
+427,81363602083,['Dairy'],Califia Farms,16.9 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602083,1
+428,81363602023,['Dairy'],Califia Farms,16.9 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602023,1
+429,85569400643,"['Dairy', 'Natural & Organic']",Laird Superfood,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085569400643,1
+430,85290900382,['Dairy'],Califia Farms,25 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900382,1
+431,86000055443,['Dairy'],Unicreamer,6 ct / 0.27 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086000055443,1
+432,86000055445,['Dairy'],Unicreamer,6 ct / 0.27 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086000055445,1
+433,86000055446,['Dairy'],Unicreamer,12 ct / 0.27 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086000055446,1
+434,86000055444,['Dairy'],Unicreamer,6 ct / 0.27 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086000055444,1
+435,86840800024,['Dairy'],nutpods,12 ct / 11.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086840800024,1
+436,7245711011,['Dairy'],Walden Farms,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007245711011,1
+437,86840800026,['Dairy'],nutpods,12 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0086840800026,1
+438,86840800025,['Dairy'],nutpods,12 ct / 11.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086840800025,1
+439,85569400639,['Dairy'],Laird Superfood,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085569400639,1
+440,81363602227,['Dairy'],Califia Farms,16.9 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602227,1
+441,81363602226,['Dairy'],Califia Farms,16.9 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602226,1
+442,85290900383,['Dairy'],Califia Farms,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900383,1
+443,1111008299,['Natural & Organic'],Kroger,59 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008299,1
+444,3663207190,['Natural & Organic'],Horizon Organic,1/2 gal,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207190,1
+445,5000022489,['Natural & Organic'],Coffee-mate,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000022489,1
+446,74447391235,['Natural & Organic'],SO Delicious,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447391235,1
+447,7290400002,"['Natural & Organic', 'Beverages']",Meyenberg,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007290400002,1
+448,4759360204,"['Natural & Organic', 'Beverages']",Shiloh Farms,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004759360204,1
+449,1111088301,['Baking Goods'],Kroger,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088301,1
+450,5000001011,['Baking Goods'],Carnation,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000001011,1
+451,1111088310,['Baking Goods'],Kroger,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088310,1
+452,65272910113,['Baking Goods'],Eagle Brand,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0065272910113,1
+453,1111085735,"['Natural & Organic', 'Baking Goods']",Simple Truth Organic,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111085735,1
+454,2800051780,['Baking Goods'],La Lechera,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800051780,1
+455,5000001051,['Baking Goods'],Nestle,5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000001051,1
+456,5000015991,['Baking Goods'],Carnation,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000015991,1
+457,1111088312,['Baking Goods'],Kroger,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088312,1
+458,1111085732,"['Natural & Organic', 'Baking Goods']",Simple Truth Organic,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111085732,1
+459,65272901124,['Baking Goods'],Pet,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0065272901124,1
+460,5000016011,['Baking Goods'],Carnation,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000016011,1
+461,1111008733,['Baking Goods'],Kroger,3 ct / 3.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008733,1
+462,1111088313,['Baking Goods'],Kroger,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088313,1
+463,9568430082,['Baking Goods'],California Farms,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009568430082,1
+464,1111084964,"['Baking Goods', 'Natural & Organic']",Simple Truth Organic,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084964,1
+465,5000095895,['Baking Goods'],Carnation,17 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000095895,1
+466,1111008736,['Baking Goods'],Kroger,25.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008736,1
+467,1111084986,"['Baking Goods', 'Natural & Organic']",Simple Truth Organic,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084986,1
+468,2800003317,"['Baking Goods', 'International', 'Beverages']",Nestle,12.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800003317,1
+469,5000041134,['Baking Goods'],Nestle,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000041134,1
+470,2800070611,['Baking Goods'],Nestle,11.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800070611,1
+471,65272910313,['Baking Goods'],Eagle Brand,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0065272910313,1
+472,7290400012,['Baking Goods'],Meyenberg,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007290400012,1
+473,1111008735,['Baking Goods'],Kroger,10 ct / 3.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008735,1
+474,1111008739,['Baking Goods'],Kroger,64 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008739,1
+475,4318200208,"['Natural & Organic', 'Baking Goods']",Native Forest,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004318200208,1
+476,2800082317,"['International', 'Baking Goods']",Nestle,3.52 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0002800082317,1
+477,73762807950,"['International', 'Baking Goods']",Thai Kitchen,14 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073762807950,1
+478,1111088466,['Baking Goods'],Kroger,10 ct / 3.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088466,1
+479,1111083297,['Baking Goods'],Kroger,25.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111083297,1
+480,9568430012,"['Natural & Organic', 'Baking Goods']",Santini,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009568430012,1
+481,9568430010,"['Natural & Organic', 'Baking Goods']",Santini,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009568430010,1
+482,4274325077,"['Baking Goods', 'International']",El Mexicano,14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004274325077,1
+483,89839200012,['Natural & Organic'],Wildly Organic,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089839200012,1
+484,3997811520,['Baking Goods'],Bob's Red Mill,22 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003997811520,1
+485,89839200769,['Natural & Organic'],Wildly Organic,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089839200769,1
+486,89839200019,['Natural & Organic'],Wildly Organic,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089839200019,1
+487,73373905832,['Natural & Organic'],NOW Foods,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073373905832,1
+488,4318200209,"['Baking Goods', 'Natural & Organic']",Native Forest,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004318200209,1
+489,4318200525,['Baking Goods'],Let's Do Organic,7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004318200525,1
+490,4318200101,"['Natural & Organic', 'Beverages']",Native Forest,5.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004318200101,1
+491,1070002152,['Candy'],Milk Duds,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070002152,1
+492,7910090237,['Pet Care'],Milk-Bone,24 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910090237,1
+493,7910051410,['Pet Care'],Milk-Bone,24 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910051410,1
+494,7910090202,['Pet Care'],Milk-Bone,24 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910090202,1
+495,7910051411,['Pet Care'],Milk-Bone,24 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910051411,1
+496,7910050856,['Pet Care'],Milk-Bone,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910050856,1
+497,1070053100,['Candy'],Milk Duds,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070053100,1
+498,18053000081,"['Beverages', 'Health']",Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0018053000081,1
+499,7910051305,['Pet Care'],Milk-Bone,9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910051305,1
+500,18053000089,"['Beverages', 'Health']",Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0018053000089,1
+501,7910090207,['Pet Care'],Milk-Bone,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910090207,1
+502,18053000082,"['Health', 'Beverages']",Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0018053000082,1
+503,7910078566,['Pet Care'],Milk-Bone,8.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078566,1
+504,87606300315,['Beverages'],Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300315,1
+505,87606300579,"['Health', 'Beverages']",Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300579,1
+506,7910090212,['Pet Care'],Milk-Bone,5.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910090212,1
+507,7910078555,['Pet Care'],Milk-Bone,18 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078555,1
+508,87606300642,"['Health', 'Beverages']",Muscle Milk,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300642,1
+509,7910092502,['Pet Care'],Milk-Bone,10 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0007910092502,1
+510,7910000811,['Pet Care'],Milk-Bone,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910000811,1
+511,7910092327,['Pet Care'],Milk-Bone,40 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910092327,1
+512,87606300578,"['Beverages', 'Health']",Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300578,1
+513,7910000810,['Pet Care'],Milk-Bone,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910000810,1
+514,7910078558,['Pet Care'],Milk-Bone,19.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078558,1
+515,7910075990,['Pet Care'],Milk-Bone,6 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910075990,1
+516,18053000096,"['Beverages', 'Health']",Muscle Milk,12 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0018053000096,1
+517,30087834960,['Beverages'],Choco Milk,14.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087834960,1
+518,66072650317,['Health'],Muscle Milk,30.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072650317,1
+519,66072650327,['Health'],Muscle Milk,30.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072650327,1
+520,7910075994,['Pet Care'],Milk-Bone,9.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910075994,1
+521,7910075991,['Pet Care'],Milk-Bone,6 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910075991,1
+522,7910078557,['Pet Care'],Milk-Bone,18.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078557,1
+523,18053000097,"['Health', 'Beverages']",Muscle Milk,12 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0018053000097,1
+524,7910075813,['Pet Care'],Milk-Bone,18.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910075813,1
+525,7910000555,['Pet Care'],Milk-Bone,1 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910000555,1
+526,66072653421,['Health'],Muscle Milk,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072653421,1
+527,89086400110,['Breakfast'],Milk & Honey,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089086400110,1
+528,89086400114,['Breakfast'],Milk & Honey,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089086400114,1
+529,7910000556,['Pet Care'],Milk-Bone,1 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910000556,1
+530,7910022018,['Pet Care'],Milk-Bone,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910022018,1
+531,7910022053,['Pet Care'],Milk-Bone,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910022053,1
+532,7910022160,['Pet Care'],Milk-Bone,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910022160,1
+533,7910022105,['Pet Care'],Milk-Bone,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910022105,1
+534,7910078564,['Pet Care'],Milk-Bone,68 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078564,1
+535,7910092504,['Pet Care'],Milk-Bone,7 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0007910092504,1
+536,87606300646,['Health'],Muscle Milk,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300646,1
+537,66072659510,['Health'],Muscle Milk,26.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072659510,1
+538,1007434513372,"['Breakfast', 'Health']",Tiger's Milk,5,3400312,https://www.kroger.com/product/images/xlarge/front/1007434513372,1
+539,7910051860,['Pet Care'],Milk-Bone,20 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910051860,1
+540,7910077250,['Pet Care'],Milk-Bone,2 ct / 36 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910077250,1
+541,7910092501,['Pet Care'],Milk-Bone,10 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0007910092501,1
+542,7910072094,['Pet Care'],Milk-Bone,2 ct / 25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910072094,1
+543,7910052169,['Pet Care'],Milk-Bone,2 ct / 4 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0007910052169,1
+544,66072653420,"['Natural & Organic', 'Health']",Muscle Milk,40.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072653420,1
+545,1007434557220,"['Health', 'Breakfast']",Tiger's Milk,5,3400312,https://www.kroger.com/product/images/xlarge/front/1007434557220,1
+546,87606300645,['Health'],Muscle Milk,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300645,1
+547,87606300412,['Health'],Muscle Milk,11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300412,1
+548,66072656316,"['Health', 'Natural & Organic']",Muscle Milk,84.64 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072656316,1
+549,66072650355,['Health'],Muscle Milk,30.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072650355,1
+550,87606300411,['Beverages'],Muscle Milk,11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300411,1
+551,66072659520,['Health'],Muscle Milk,26.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072659520,1
+552,7910078561,['Pet Care'],Milk-Bone,38 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078561,1
+553,89086400301,['Breakfast'],Milk & Honey,2.65 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089086400301,1
+554,7910050580,['Pet Care'],Milk-Bone,58 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910050580,1
+555,87606300119,['Health'],Muscle Milk,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300119,1
+556,66072650358,['Health'],Muscle Milk,30.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072650358,1
+557,7910000815,['Pet Care'],Milk-Bone,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910000815,1
+558,7910072093,['Pet Care'],Milk-Bone,2 ct / 25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007910072093,1
+559,66072656326,"['Natural & Organic', 'Health']",Muscle Milk,84.64 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072656326,1
+560,87606300647,['Health'],Muscle Milk,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087606300647,1
+561,7910078563,['Pet Care'],Milk-Bone,25 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007910078563,1
+562,89086400111,['Breakfast'],Milk & Honey,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0089086400111,1
+563,66072653410,"['Natural & Organic', 'Health']",Muscle Milk,40.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066072653410,1
+564,7910053268,['Pet Care'],Milk-Bone,7 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0007910053268,1
+565,4000042206,['Candy'],Milky Way,1.84 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000042206,1
+566,4000000032,['Candy'],M&M's,1.74 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000000032,1
+567,3400000440,['Candy'],Reese's,1.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000440,1
+568,1111001798,['Dairy'],Kroger,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111001798,1
+569,3400000246,['Candy'],Kit Kat,1.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000246,1
+570,3400000241,['Candy'],Hershey's,1.45 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000241,1
+571,3400000240,['Candy'],Hershey's,1.55 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000240,1
+572,7456200100,"['Dairy', 'International']",Cacique,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007456200100,1
+573,4000000031,['Candy'],M&M's,1.69 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000000031,1
+574,1070002440,['Candy'],Whoppers,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070002440,1
+575,9990090836,['Candy'],Crunch,1.55 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009990090836,1
+576,4000051121,['Candy'],M&M's,19.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051121,1
+577,3400000221,['Candy'],Hershey's,2.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000221,1
+578,4000051305,['Candy'],M&M's,10.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051305,1
+579,1111048888,['Dairy'],Kroger,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111048888,1
+580,5000039758,['Beverages'],Nestle,4.27 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000039758,1
+581,7092047633,['Beverages'],Swiss Miss,11.04 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007092047633,1
+582,3400000220,['Candy'],Hershey's,2.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000220,1
+583,3400017038,['Candy'],Hershey's,4.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400017038,1
+584,2800021760,['Baking Goods'],Nestle Toll House,11.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800021760,1
+585,4000000263,['Candy'],Snickers,3.29 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000000263,1
+586,3400007015,['Candy'],Hershey's,8 ct / 0.45,3400312,https://www.kroger.com/product/images/xlarge/front/0003400007015,1
+587,4000051294,['Candy'],M&M's,10.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051294,1
+588,2100002483,['Dairy'],Kraft,16 ct / 10.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002100002483,1
+589,1111048987,['Dairy'],Kroger,30 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111048987,1
+590,3400029005,['Candy'],Hershey's,6 ct / 1.55 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400029005,1
+591,4000051123,['Candy'],M&M's,19.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051123,1
+592,9990060198,['Candy'],Raisinets,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009990060198,1
+593,1111004748,['Baking Goods'],Kroger,11.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004748,1
+594,30087136542,['Baby'],Enfamil,12.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087136542,1
+595,2529300397,"['Dairy', 'Breakfast', 'Natural & Organic']",Silk,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300397,1
+596,4000041372,['Candy'],Dove Chocolate,8.87 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000041372,1
+597,7403010300,['Dairy'],Galbani,15 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007403010300,1
+598,3400017115,['Candy'],Hershey's,4.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400017115,1
+599,1600043058,['Baking Goods'],Betty Crocker,18.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001600043058,1
+600,4610040010,['Dairy'],Sargento,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004610040010,1
+601,27635000000,['Deli'],Boar's Head,1 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0027635000000,1
+602,30087510069,['Baby'],Enfamil,12.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087510069,1
+603,3400043227,['Candy'],Reese's,10.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400043227,1
+604,5215970336,"['Natural & Organic', 'Dairy']",Stonyfield Organic,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970336,1
+605,5000016826,['Pet Care'],Fancy Feast,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000016826,1
+606,5215900001,"['Natural & Organic', 'Dairy']",Stonyfield Organic,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215900001,1
+607,1070006080,['Candy'],Heath,1.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070006080,1
+608,3746605625,['Candy'],Lindt,1.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003746605625,1
+609,2529300396,"['Dairy', 'Natural & Organic']",Silk,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300396,1
+610,4000051301,['Candy'],M&M's,9.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051301,1
+611,2700041916,['Baking Goods'],Snack Pack,4 ct / 3.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002700041916,1
+612,5000016824,['Pet Care'],Fancy Feast,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000016824,1
+613,7726000268,['Candy'],Russell Stover,1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726000268,1
+614,27634100000,['Deli'],Boar's Head,1 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0027634100000,1
+615,74447300046,"['Dairy', 'Natural & Organic']",SO Delicious,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447300046,1
+616,3400019045,['Candy'],Hershey's,7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400019045,1
+617,3400047837,['Candy'],Reese's,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400047837,1
+618,4000049752,['Candy'],M&M's,3.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000049752,1
+619,7457003310,['Frozen'],Haagen-Dazs,3 ct / 3 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007457003310,1
+620,5215900002,"['Dairy', 'Natural & Organic']",Stonyfield Organic,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215900002,1
+621,3400014058,['Candy'],Hershey's,10.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400014058,1
+622,3400000152,['Candy'],Reese's,1.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000152,1
+623,2529300399,"['Dairy', 'Natural & Organic']",Silk,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300399,1
+624,4000047652,['Candy'],M&M's,1.77 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000047652,1
+625,3400040568,['Candy'],Reese's,8 ct / 0.55 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400040568,1
+626,3400017714,['Candy'],Hershey's,4.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400017714,1
+627,5215970107,"['Dairy', 'Natural & Organic']",Stonyfield Organic,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970107,1
+628,4000055078,['Candy'],M&M's,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000055078,1
+629,2100005439,['Dairy'],Kraft,7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002100005439,1
+630,3400049005,['Candy'],Reese's,6 ct / 1.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400049005,1
+631,3400047604,['Candy'],Reese's,6 ct / 1.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400047604,1
+632,7456200102,['International'],Cacique,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007456200102,1
+633,2529300398,"['Dairy', 'Natural & Organic']",Silk,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300398,1
+634,7092047656,['Beverages'],Swiss Miss,3.12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007092047656,1
+635,3400012080,['Candy'],Hershey's,11 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400012080,1
+636,9990017890,['Candy'],Goobers,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009990017890,1
+637,61124738290,['Beverages'],Swiss Miss,10 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0061124738290,1
+638,4000051299,['Candy'],M&M's,10.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051299,1
+639,3400044265,['Candy'],Reese's,4.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400044265,1
+640,1070006225,['Candy'],Heath,10.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070006225,1
+641,3400017612,['Candy'],Kit Kat,4.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400017612,1
+642,4326880002,['Candy'],Queen Anne,10 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0004326880002,1
+643,4000000431,['Candy'],M&M's,3.14 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000000431,1
+644,1111004287,['Beverages'],Kroger,5.92 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004287,1
+645,7726000244,['Candy'],Russell Stover,1.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726000244,1
+646,2700041924,['Baking Goods'],Snack Pack,39 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002700041924,1
+647,74759964012,['Baking Goods'],Ghirardelli,11.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074759964012,1
+648,7022101111,['Candy'],Toblerone,3.52 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007022101111,1
+649,7418229094,['Personal Care'],Softsoap,7.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007418229094,1
+650,7027249129,['Dairy'],Reddi Wip,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007027249129,1
+651,7675306690,['Kitchen'],Bialetti,1 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007675306690,1
+652,3400046060,['Candy'],Reese's,7.37 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400046060,1
+653,1070006611,['Candy'],Whoppers,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070006611,1
+654,1410009997,['Snacks'],Milano,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410009997,1
+655,3400001871,['Candy'],Hershey's,10.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400001871,1
+656,1111050586,['Dairy'],Kroger,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050586,1
+657,1111004288,['Beverages'],Kroger,5.92 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004288,1
+658,3400024990,['Candy'],Reese's,2.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400024990,1
+659,85648100380,['Candy'],Lily's,2.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085648100380,1
+660,954201643,['Candy'],Lindt,1.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954201643,1
+661,1600045900,['Baking Goods'],Betty Crocker,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001600045900,1
+662,1330076040,['Baking Goods'],Pillsbury,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001330076040,1
+663,1111004587,['Dairy'],Kroger,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004587,1
+664,3400019141,['Candy'],Hershey's,6.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400019141,1
+665,3400047423,['Candy'],Reese's,10.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400047423,1
+666,1111050587,['Dairy'],Kroger,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050587,1
+667,3400012213,['Candy'],Hershey's,11 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400012213,1
+668,3400017514,['Candy'],Hershey's,4.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400017514,1
+669,1410007712,['Snacks'],Pepperidge Farm,7.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410007712,1
+670,3400044709,['Candy'],Reese's,35.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400044709,1
+671,81363602043,['Natural & Organic'],Califia Farms,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602043,1
+672,7457001310,['Frozen'],Haagen-Dazs,3 ct / 3 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007457001310,1
+673,3400001870,['Candy'],Hershey's,10.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400001870,1
+674,3400000243,['Candy'],Mr. Goodbar,1.75 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000243,1
+675,5000053032,['Breakfast'],Carnation Breakfast Essentials,10 ct / 1.26 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000053032,1
+676,1111008466,['Natural & Organic'],Simple Truth,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008466,1
+677,2100062566,['Dairy'],Kraft,24 ct / 16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002100062566,1
+678,3746601584,['Candy'],Lindt,5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003746601584,1
+679,4000055118,['Candy'],M&M's,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000055118,1
+680,954201931,['Candy'],Lindt,8.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954201931,1
+681,4000051656,['Candy'],M&M's,1.08 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000051656,1
+682,1070085843,['Candy'],Heath,4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070085843,1
+683,1111061063,['Candy'],Private Selection,0.83 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111061063,1
+684,3400011016,['Candy'],Hershey's,11 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400011016,1
+685,63748006501,['Health'],Atkins,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0063748006501,1
+686,85648100305,['Candy'],Lily's,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085648100305,1
+687,1111008358,"['Produce', 'Natural & Organic', 'Snacks']",Kroger,13 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008358,1
+688,1410008900,['Snacks'],Pepperidge Farm,8 ct / 8.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410008900,1
+689,81000346057,"['Natural & Organic', 'Candy']",Lily's,2.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081000346057,1
+690,7007440701,['Beverages'],Ensure,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007440701,1
+691,7456200110,['International'],Cacique,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007456200110,1
+692,5000041517,['Breakfast'],Carnation,6 ct / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000041517,1
+693,85997700506,"['Natural & Organic', 'Dairy']",Good Culture,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085997700506,1
+694,81794401249,['Deli'],Murray's,1 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0081794401249,1
+695,3400029105,['Candy'],Hershey's,6 ct / 1.45 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400029105,1
+696,2100061166,['Dairy'],Velveeta,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002100061166,1
+697,3400000258,['Candy'],Hershey's,1.45 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400000258,1
+698,85648100304,"['Natural & Organic', 'Candy']",Lily's,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085648100304,1
+699,3400022670,['Candy'],Kit Kat,10.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400022670,1
+700,5215970119,"['Natural & Organic', 'Dairy']",Stonyfield Organic,6 ct / 4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970119,1
+701,3746608323,['Candy'],Lindt,4.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003746608323,1
+702,64420900439,['Baking Goods'],Duncan Hines,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0064420900439,1
+703,4000053955,['Candy'],M&M's,4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000053955,1
+704,3400019940,['Candy'],Hershey's,6.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400019940,1
+705,5215970115,"['Natural & Organic', 'Baby', 'Dairy']",Stonyfield Organic,6 ct / 4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970115,1
+706,7940011886,"['Personal Care', 'Beauty']",Suave,15 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007940011886,1
+707,7092047657,['Beverages'],Swiss Miss,8 ct / 0.73 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007092047657,1
+708,2100065492,['Canned & Packaged'],Velveeta,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002100065492,1
+709,4126038442,['Candy'],Private Selection,7.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038442,1
+710,3400018346,['Candy'],Hershey's,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400018346,1
+711,1410004743,['Snacks'],Milano,7.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410004743,1
+712,3400007053,['Candy'],Hershey's,10.35 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400007053,1
+713,3400022874,['Candy'],Hershey's,1.55 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400022874,1
+714,74759960764,['Candy'],Ghirardelli,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074759960764,1
+715,1111087775,['Beverages'],Kroger,12 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087775,1
+716,74759940722,['Candy'],Ghirardelli,2 ct / 1.06 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074759940722,1
+717,85290900350,"['Beverages', 'Natural & Organic']",Califia Farms,48 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900350,1
+718,4000052538,['Candy'],Dove Chocolate,8.46 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000052538,1
+719,74759930651,['Candy'],Ghirardelli,5.32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074759930651,1
+720,74349000010,['Frozen'],Diana's,10.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074349000010,1
+721,81000346059,"['Natural & Organic', 'Candy']",Lily's,1.25 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081000346059,1
+722,1410004810,['Snacks'],Pepperidge Farm,6.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410004810,1
+723,5000040695,['Breakfast'],Carnation Breakfast Essentials,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000040695,1
+724,1111050444,['Dairy'],Kroger,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050444,1
+725,3400013480,['Candy'],Hershey's,35.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400013480,1
+726,1111003332,"['Snacks', 'Natural & Organic']",Simple Truth,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003332,1
+727,1111087200,['Snacks'],Private Selection,5.29 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087200,1
+728,3400001875,['Snacks'],Hershey's,10.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400001875,1
+729,4950825018,"['Deli', 'Snacks']",Snack Factory,5.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004950825018,1
+730,3400036336,['Candy'],Hershey's,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400036336,1
+731,5215970116,"['Natural & Organic', 'Dairy', 'Baby']",Stonyfield Organic,6 ct / 4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970116,1
+732,3400099665,['Candy'],Hershey's,7.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400099665,1
+733,3400043224,['Candy'],Reese's,17.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400043224,1
+734,1707707432,"['Breakfast', 'Dairy', 'Natural & Organic']",Lifeway,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001707707432,1
+735,1111004588,['Dairy'],Kroger,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004588,1
+736,81655901302,"['Beauty', 'Personal Care']",V05,12.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081655901302,1
+737,4000052565,['Candy'],Dove Chocolate,15.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000052565,1
+738,1330055539,['Baking Goods'],Pillsbury,18.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001330055539,1
+739,1070050180,['Candy'],Whoppers,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001070050180,1
+740,3400006152,['Baking Goods'],Heath,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400006152,1
+741,4000055113,['Candy'],M&M's,38 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000055113,1
+742,7007440702,['Beverages'],Ensure,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007440702,1
+743,4950825141,['Snacks'],Snack Factory,5.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004950825141,1
+744,7248899840,['Snacks'],Torn & Glasser,13 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007248899840,1
+745,63748007051,['Candy'],Atkins,15 ct / 6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0063748007051,1
+746,4000053968,['Candy'],M&M's,3.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000053968,1
+747,60265228346,['Breakfast'],KIND,1.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0060265228346,1
+748,1111089511,['Dairy'],Kroger,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089511,1
+749,7007464116,['Beverages'],Ensure,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007464116,1
+750,4000053980,['Candy'],M&M's,3.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000053980,1
+751,3400014059,['Candy'],Hershey's,17.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400014059,1
+752,75174603361,['Beverages'],Ovaltine,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0075174603361,1
+753,1410004853,['Snacks'],Pepperidge Farm,6.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410004853,1
+754,1111003769,"['Beverages', 'Natural & Organic']",Simple Truth Organic,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003769,1
+755,1707707232,"['Dairy', 'Natural & Organic', 'Breakfast']",Lifeway,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001707707232,1
+756,5000016822,['Pet Care'],Fancy Feast,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000016822,1
+757,7457053268,['Frozen'],Haagen-Dazs,18 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007457053268,1
+758,81655901303,"['Personal Care', 'Beauty']",V05,12.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081655901303,1
+759,5508600293,['Beauty'],Love Beauty and Planet,6.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005508600293,1
+760,60265228345,['Health'],KIND,1.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0060265228345,1
+761,9990040385,['Candy'],Raisinets,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0009990040385,1
+762,74447300028,"['Natural & Organic', 'Frozen']",SO Delicious,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0074447300028,1
+763,7248899907,['Natural & Organic'],Torn & Glasser,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007248899907,1
+764,30087020142,['Baby'],Enfamil,12.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087020142,1
+765,89445500024,['Candy'],Justin's,2 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0089445500024,1
+766,2240000047,"['Beauty', 'Personal Care']",TRESemme,22 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002240000047,1
+767,834678001,['Health'],SlimFast,8 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000834678001,1
+768,7022100535,['Candy'],Toblerone,3.52 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007022100535,1
+769,31284339324,['Health'],Phillips,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0031284339324,1
+770,954201935,['Candy'],Lindt,8.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954201935,1
+771,3746608324,['Candy'],Lindt,4.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003746608324,1
+772,7457062296,['Frozen'],Haagen-Dazs,14 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007457062296,1
+773,75174603212,['Beverages'],Ovaltine,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0075174603212,1
+774,85662400414,"['Dairy', 'Natural & Organic']",Kite Hill,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400414,1
+775,85662400436,"['Dairy', 'Natural & Organic']",Kite Hill,16 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400436,1
+776,954203591,['Candy'],Lindt,0.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954203591,1
+777,7007466438,['Baby'],Similac,30.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007466438,1
+778,75174603218,['Beverages'],Ovaltine,18 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0075174603218,1
+779,5000035603,['Breakfast'],Carnation Breakfast Essentials,17.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000035603,1
+780,954200419,['Candy'],Lindt,5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954200419,1
+781,7007466897,['Health'],Ensure,4 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007466897,1
+782,4000050596,['Candy'],M&M's,10.53 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000050596,1
+783,4438712401,['Kitchen'],De'Longhi,2 pc,3400312,https://www.kroger.com/product/images/xlarge/front/0004438712401,1
+784,4000054139,['Candy'],Dove Chocolate,3.30 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000054139,1
+785,86823500044,"['Natural & Organic', 'Beverages']",Rise Brewing Co,7 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086823500044,1
+786,7726002207,['Candy'],Russell Stover,5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726002207,1
+787,85024100883,['Frozen'],Tru Fru,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085024100883,1
+788,3400093759,['Candy'],Hershey's,2.24 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400093759,1
+789,86823500048,"['Natural & Organic', 'Beverages']",Rise Brewing Co,7 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0086823500048,1
+790,85662400413,"['Natural & Organic', 'Dairy']",Kite Hill,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400413,1
+791,85662400408,"['Natural & Organic', 'Dairy']",Kite Hill,8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400408,1
+792,4000052542,['Candy'],Dove Chocolate,7.61 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000052542,1
+793,5000011187,['Beverages'],Nestle,27.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000011187,1
+794,7456200115,['International'],Cacique,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007456200115,1
+795,74447349213,"['Frozen', 'Natural & Organic']",SO Delicious,9.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447349213,1
+796,4126930928,['Candy'],Palmer,1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126930928,1
+797,3400093760,['Candy'],Reese's,2.17 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400093760,1
+798,4000049847,['Candy'],M&M's,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000049847,1
+799,4000050846,['Candy'],Dove Chocolate,19.52 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000050846,1
+800,2240000064,"['Beauty', 'Personal Care']",TRESemme,22 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002240000064,1
+801,954201520,['Candy'],Lindt,15.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954201520,1
+802,71627000134,['Candy'],Chocolove,3.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0071627000134,1
+803,63919265314,['International'],Formosa Yay,6.35 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0063919265314,1
+804,4000053974,['Candy'],M&M's,3.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000053974,1
+805,7092047667,['Beverages'],Swiss Miss,22.23 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007092047667,1
+806,7248899776,['Natural & Organic'],Torn & Glasser,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007248899776,1
+807,7684007657,['Frozen'],Ben & Jerry's,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0007684007657,1
+808,3400043054,['Candy'],Reese's,6 ct / 1.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400043054,1
+809,80993907354,"['Beverages', 'International']",Lotte,8.45 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0080993907354,1
+810,4438701205,['Kitchen'],De'Longhi,1 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0004438701205,1
+811,7007453623,['Beverages'],Ensure,16 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007453623,1
+812,81000346056,['Candy'],Lily's,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081000346056,1
+813,4126038444,['Candy'],Private Selection,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038444,1
+814,3400047840,['Candy'],Reese's,6.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400047840,1
+815,7007464275,"['Health', 'Beverages']",Ensure,12 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007464275,1
+816,1410004854,['Snacks'],Pepperidge Farm,8.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410004854,1
+817,3400066634,['Candy'],Reese's,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400066634,1
+818,4126038123,['Baby'],Comforts,33.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038123,1
+819,85662400437,"['Natural & Organic', 'Dairy']",Kite Hill,16 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400437,1
+820,7248899867,['Snacks'],Torn & Glasser,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007248899867,1
+821,7248899860,['Snacks'],Torn & Glasser,12.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007248899860,1
+822,85193200401,['Baking Goods'],Stuffed Puffs,8.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085193200401,1
+823,87624700636,['Candy'],Treat Street,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087624700636,1
+824,1111003823,"['Natural & Organic', 'Dairy']",Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003823,1
+825,4126001014,['Health'],Kroger,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126001014,1
+826,3400099662,['Candy'],Kit Kat,7.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400099662,1
+827,3400012245,['Candy'],Hershey's,11 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400012245,1
+828,954200485,['Candy'],Lindt,3 ct / 5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954200485,1
+829,70865600149,"['Natural & Organic', 'Candy']",Green & Black's,3.17 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0070865600149,1
+830,30087512121,['Baby'],Enfamil,27.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087512121,1
+831,85736000427,"['Natural & Organic', 'Snacks']",Element,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085736000427,1
+832,2800013317,['Baby'],Nestle,3.52 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0002800013317,1
+833,8819434060,"['Dairy', 'Natural & Organic']",Brown Cow,2 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0008819434060,1
+834,7447101504,['Beverages'],Cafe Bustelo,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007447101504,1
+835,8819434061,"['Dairy', 'Natural & Organic']",Brown Cow,2 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0008819434061,1
+836,63748006411,['Health'],Atkins,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0063748006411,1
+837,5000060930,['Breakfast'],Carnation Breakfast Essentials,22 ct / 1.26 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000060930,1
+838,74759940822,['Candy'],Ghirardelli,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074759940822,1
+839,4589310561,"['Beauty', 'Personal Care']",Caress,18 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004589310561,1
+840,5800014037,['Cleaning Products'],Palmolive,20 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005800014037,1
+841,5000060664,['Breakfast'],Carnation Breakfast Essentials,8 ct / 1.31 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000060664,1
+842,1111061070,['Beverages'],Kroger,30 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111061070,1
+843,5000060012,['Beverages'],Carnation,13 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000060012,1
+844,74447300030,"['Natural & Organic', 'Frozen']",SO Delicious,9.2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0074447300030,1
+845,954203189,['Candy'],Lindt,5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954203189,1
+846,7007467563,['Baby'],Similac,12 bottles / 2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007467563,1
+847,2800051191,['Baking Goods'],Nestle Toll House,34.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800051191,1
+848,87251300177,['Candy'],Nestle,1.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087251300177,1
+849,954242788,['Candy'],Lindt,5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954242788,1
+850,8819434062,"['Dairy', 'Natural & Organic']",Brown Cow,2 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0008819434062,1
+851,7447101502,['Beverages'],Cafe Bustelo,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007447101502,1
+852,2279691005,"['Personal Care', 'Beauty']",OGX,13 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002279691005,1
+853,4126038121,['Baby'],Comforts,35 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038121,1
+854,74447347011,"['Natural & Organic', 'Frozen']",SO Delicious,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0074447347011,1
+855,2279691006,"['Beauty', 'Personal Care']",OGX,13 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002279691006,1
+856,7756700162,['Frozen'],Magnum,14.8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007756700162,1
+857,5000016820,['Pet Care'],Fancy Feast,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000016820,1
+858,70865600153,"['Candy', 'Natural & Organic']",Green & Black's,3.17 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0070865600153,1
+859,4126038124,['Baby'],Comforts,33.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038124,1
+860,3701424231,['Candy'],Endangered Species,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003701424231,1
+861,3400021464,['Snacks'],Hershey's,8.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400021464,1
+862,4126930707,['Candy'],Palmer,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126930707,1
+863,5000048722,['Baby'],Gerber,19.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000048722,1
+864,3400007761,['Candy'],Hershey's,6.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400007761,1
+865,4126037975,['Candy'],Private Selection,4.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126037975,1
+866,4126001015,['Health'],Kroger,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126001015,1
+867,4126033242,"['Beauty', 'Personal Care']",Kroger,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126033242,1
+868,3120002966,['Snacks'],Ocean Spray,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003120002966,1
+869,31284335302,['Health'],Phillips,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0031284335302,1
+870,2279691891,"['Beauty', 'Personal Care']",OGX,19.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002279691891,1
+871,4300008510,['Baking Goods'],Hershey's,3.95 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004300008510,1
+872,954242689,['Candy'],Lindt,4.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954242689,1
+873,4000052614,['Candy'],Dove Chocolate,7.61 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000052614,1
+874,7007467218,"['Natural & Organic', 'Baby']",PediaSure,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007467218,1
+875,7007467725,['Health'],Ensure,12 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007467725,1
+876,4126930941,['Candy'],Palmer,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126930941,1
+877,3400099962,['Candy'],Reese's,25.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400099962,1
+878,1111089507,['Dairy'],Kroger,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089507,1
+879,3291700014,"['Beverages', 'Natural & Organic']",Traditional Medicinals,0.99 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003291700014,1
+880,63748009968,['Beverages'],Atkins,8 ct / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0063748009968,1
+881,30087512208,['Baby'],Enfamil,12.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087512208,1
+882,2800033317,['Baby'],Nestle,12.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800033317,1
+883,7007464297,"['Beverages', 'Health']",Ensure,4 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007464297,1
+884,73525701324,"['International', 'Baking Goods']",D'Gari,4.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073525701324,1
+885,7726006683,['Candy'],Russell Stover,9.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726006683,1
+886,954242688,['Candy'],Lindt,4.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954242688,1
+887,954204352,['Candy'],Lindt,5.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954204352,1
+888,3700097478,"['Beauty', 'Personal Care']",Olay,22 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003700097478,1
+889,1111089503,['Dairy'],Kroger,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089503,1
+890,834674061,['Health'],SlimFast,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000834674061,1
+891,5849671226,['Pet Care'],Whiskas,3 ct / 6.75 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005849671226,1
+892,3400099982,['Candy'],Hershey's,35 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400099982,1
+893,19067900001,"['Beauty', 'Personal Care']",Herbal Essences,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0019067900001,1
+894,85361000373,['Candy'],Cocomels,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085361000373,1
+895,79386653002,['Adult Beverage'],Left Hand Brewing Co.,6 bottles / 12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0079386653002,1
+896,73525701323,"['Baking Goods', 'International']",D'Gari,4.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0073525701323,1
+897,33160414032,['Health'],Nature Made,50 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0033160414032,1
+898,3400040280,['Candy'],Hershey's,4.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400040280,1
+899,7431233491,['Health'],Nature's Bounty,100 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0007431233491,1
+900,19067900011,"['Beauty', 'Personal Care']",Herbal Essences,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0019067900011,1
+901,81106801197,"['Beauty', 'Personal Care']",Dr Teal's,3 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0081106801197,1
+902,85518800398,['Candy'],Justin's,4.7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085518800398,1
+903,30087512127,['Baby'],Enfamil,29.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087512127,1
+904,5000026587,['Baby'],Gerber,20 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000026587,1
+905,7726004414,['Candy'],Russell Stover,4.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726004414,1
+906,7007467565,['Baby'],Similac,12 bottles / 2 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007467565,1
+907,3700074365,"['Personal Care', 'Beauty']",Olay,6 bars / 3.75 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003700074365,1
+908,4000048908,['Candy'],Dove Chocolate,3.04 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000048908,1
+909,4126038120,['Baby'],Comforts,21.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038120,1
+910,4000054326,['Candy'],Dove Chocolate,3.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004000054326,1
+911,1111084159,['Snacks'],Kroger,6 ct / 0.92 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084159,1
+912,5833602220,['Baking Goods'],Dr. Oetker,3.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005833602220,1
+913,1111073859,['Beverages'],Kroger,28.8 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111073859,1
+914,7248899909,['Natural & Organic'],Torn & Glasser,9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007248899909,1
+915,1111003822,"['Natural & Organic', 'Dairy']",Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003822,1
+916,7092005012,['Beverages'],Swiss Miss,6 ct / 1.38 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007092005012,1
+917,85518600625,['Beverages'],Stumptown Coffee,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085518600625,1
+918,1111003824,"['Dairy', 'Natural & Organic']",Simple Truth,32 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003824,1
+919,858400403000,['Candy'],Sedita,1.76 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0858400403000,1
+920,87449200080,['Candy'],Theo,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087449200080,1
+921,85361000345,['Candy'],Cocomels,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085361000345,1
+922,1410004983,['Snacks'],Pepperidge Farm,8 ct / 0.98 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001410004983,1
+923,60265228360,"['Health', 'Natural & Organic']",KIND,8.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0060265228360,1
+924,7214002618,"['Personal Care', 'Beauty']",Nivea,20 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007214002618,1
+925,5215900013,"['Dairy', 'Natural & Organic']",Stonyfield Organic,32 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005215900013,1
+926,85714100497,['Health'],Viactiv,60 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0085714100497,1
+927,4126038118,['Baby'],Comforts,22.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038118,1
+928,4126038117,['Baby'],Comforts,23.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038117,1
+929,60308426024,"['Personal Care', 'Beauty']",Garnier Fructis,5.1 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0060308426024,1
+930,19181735007,['Candy'],Treat Street,4.58 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0019181735007,1
+931,4126038122,['Baby'],Comforts,35 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038122,1
+932,4126038288,['Baby'],Comforts,20 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038288,1
+933,30087146741,['Baby'],Enfagrow,24 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087146741,1
+934,30087512452,['Baby'],Enfamil,19.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0030087512452,1
+935,5929031212,"['International', 'Snacks']",McVitie's,10.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005929031212,1
+936,7724510996,['Candy'],Elite,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007724510996,1
+937,3400013453,['Candy'],Hershey's,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400013453,1
+938,7726002208,['Candy'],Russell Stover,5.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726002208,1
+939,7726004400,['Candy'],Russell Stover,9.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726004400,1
+940,5000049498,['Baby'],Gerber,30.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000049498,1
+941,7726004409,['Candy'],Russell Stover,8.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726004409,1
+942,3400001743,['Candy'],Hershey's,14 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0003400001743,1
+943,5000075654,['Health'],Carnation Breakfast Essentials,10 ct / 1.31 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005000075654,1
+944,72474200861,"['Beauty', 'Personal Care']",Alba Botanica,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0072474200861,1
+945,72474200855,"['Natural & Organic', 'Beauty', 'Personal Care']",Alba Botanica,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0072474200855,1
+946,85933600704,"['Beverages', 'Natural & Organic']",Wandering Bear,11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085933600704,1
+947,7007467518,['Baby'],Similac,6 bottles / 8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007467518,1
+948,85933600703,['Beverages'],Wandering Bear,11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085933600703,1
+949,5508600289,"['Beauty', 'Personal Care']",Love Beauty and Planet,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005508600289,1
+950,5508600290,['Personal Care'],Love Beauty and Planet,13.5 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005508600290,1
+951,7726009792,['Candy'],Russell Stover,5.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726009792,1
+952,3746601931,['Candy'],Lindt,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003746601931,1
+953,3400044467,['Candy'],Hershey's,4 ct / 1.45 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400044467,1
+954,76430229024,"['Beauty', 'Personal Care']",Shea Moisture,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0076430229024,1
+955,71627000132,['Candy'],Chocolove,3.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0071627000132,1
+956,83299201004,['Health'],EOS,1 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0083299201004,1
+957,834674001,['Health'],SlimFast,4 bottles / 11 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000834674001,1
+958,4126037162,['Baby'],Comforts,50 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0004126037162,1
+959,7726009796,['Candy'],Russell Stover,16.1 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726009796,1
+960,4126038119,['Baby'],Comforts,22.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126038119,1
+961,7116970009,['Baking Goods'],Betty Crocker,7 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007116970009,1
+962,954242503,['Candy'],Lindt,15.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0000954242503,1
+963,5280067300,"['Personal Care', 'Beauty']",Aveeno,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005280067300,1
+964,3400001971,['Candy'],Hershey's,8.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0003400001971,1
+965,1111091317,['Health'],Simple Truth,60 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0001111091317,1
+966,7726004402,['Candy'],Russell Stover,9.4 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726004402,1
+967,7674007017,['Candy'],Whitman's,12 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007674007017,1
+968,81106801036,"['Beauty', 'Personal Care']",Dr Teal's,34 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0081106801036,1
+969,7726004427,['Candy'],Russell Stover,4.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726004427,1
+970,5280067301,"['Personal Care', 'Beauty']",Aveeno,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005280067301,1
+971,2279691092,['Beauty'],OGX,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002279691092,1
+972,8087819089,['Beauty'],Pantene,3.9 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0008087819089,1
+973,7726002219,['Candy'],Russell Stover,7.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726002219,1
+974,18467800001,"['Natural & Organic', 'Frozen']",Laloo's,1 pt,3400312,https://www.kroger.com/product/images/xlarge/front/0018467800001,1
+975,692110122808,['International'],Larbee,2.54 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0692110122808,1
+976,2800004425,['Baking Goods'],Nestle Toll House,23 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002800004425,1
+977,4126033085,['Baby'],Simple Truth Organic,34 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126033085,1
+978,85122000319,['Natural & Organic'],Chameleon Cold-Brew,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085122000319,1
+979,3367462400,['Health'],Nature's Way,60 ct,3400312,https://www.kroger.com/product/images/xlarge/front/0003367462400,1
+980,2279691091,['Personal Care'],OGX,25.4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002279691091,1
+981,87449200322,['Natural & Organic'],Theo,1.3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0087449200322,1
+982,7726009023,['Candy'],Russell Stover,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726009023,1
+983,7726002215,['Candy'],Russell Stover,10 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726002215,1
+984,79285025999,"['Personal Care', 'Natural & Organic']",Burt's Bees,2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0079285025999,1
+985,7726004425,['Candy'],Russell Stover,4.6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726004425,1
+986,7007467766,['Baby'],Similac,23.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007007467766,1
+987,1182618101,['Deli'],Vermont Creamery,5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001182618101,1
+988,1349511351,"['International', 'Candy']",Klik,2.64 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0001349511351,1
+989,7726009790,['Candy'],Russell Stover,6 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0007726009790,1
+990,2800093487,['Beverages'],Nestle,1.76 lb,3400312,https://www.kroger.com/product/images/xlarge/front/0002800093487,1
+991,18467800032,['Natural & Organic'],Laloo's,16 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0018467800032,1
+992,85122000355,"['Beverages', 'Natural & Organic']",Chameleon Cold-Brew,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0085122000355,1
+993,66320421025,"['Natural & Organic', 'Personal Care', 'Beauty']",Zum,3 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0066320421025,1
+994,5025521400,['Snacks'],Ritter Sport,3.5 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0005025521400,1
+995,4126037569,['Baby'],Simple Truth Organic,23.2 oz,3400312,https://www.kroger.com/product/images/xlarge/front/0004126037569,1
+996,2279691008,"['Beauty', 'Personal Care']",OGX,4 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0002279691008,1
+997,82064522612,"['Beauty', 'Personal Care']",Carol's Daughter,10 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0082064522612,1
+998,79285000664,['Personal Care'],Burt's Bees,12 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0079285000664,1
+999,82064522611,"['Personal Care', 'Beauty']",Carol's Daughter,8 fl oz,3400312,https://www.kroger.com/product/images/xlarge/front/0082064522611,1
