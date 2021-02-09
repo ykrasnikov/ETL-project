@@ -1,0 +1,1001 @@
+,productId,categories,brand,description,size,price.regular,price.promo,Date,Store_Id,image
+0,0001111040101,['Dairy'],Kroger,Kroger® Vitamin D Whole Milk,1 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111040101
+1,0001111041600,['Dairy'],Kroger,Kroger® 2% Reduced Fat Milk,1/2 gal,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111041600
+2,0001111041660,['Dairy'],Kroger,Kroger® 1% Lowfat Milk,1 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111041660
+3,0001111040601,['Dairy'],Kroger,Kroger® Vitamin D Whole Milk,1/2 gal,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111040601
+4,0001111042315,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,1 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042315
+5,0001111042852,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk,0.5 gal,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042852
+6,0001111041661,['Dairy'],Kroger,Kroger® 1% Lowfat Milk,1/2 gal,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111041661
+7,0001111042305,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,1/2 gal,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042305
+8,0001111050323,['Dairy'],Kroger,Kroger® 2% Reduced Fat Milk,1 qt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050323
+9,0085631200277,"['Natural & Organic', 'Dairy']",Fairlife,Fairlife 2% Reduced Fat Ultra Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085631200277
+10,0001111042850,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Whole Milk,0.5 gal,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042850
+11,0001111042854,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® 1% Low Fat Milk,0.5 gal,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042854
+12,0001111042908,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic™ Whole Milk,1 gal,5.69,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042908
+13,0081326702000,['Dairy'],A2 Milk,A2 Ultra-Pasteurized Whole Milk,59 fl oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081326702000
+14,0081326702007,['Dairy'],A2 Milk,A2 Milk 2% Reduced Fat Milk,59 fl oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081326702007
+15,0001111040121,['Dairy'],Springdale,Springdale® Vitamin D Whole Milk,1 gal,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111040121
+16,0001111041720,['Dairy'],Springdale,Springdale 2% Reduced Fat Milk,1 gal,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111041720
+17,0001111050274,['Dairy'],Kroger,Kroger®  Vitamin D Whole Milk,1 pt,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050274
+18,0001111050322,['Dairy'],Kroger,Kroger® Vitamin D Whole Milk,1 qt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050322
+19,0001111050277,['Dairy'],Kroger,Kroger 2% Reduced Fat Milk,1 pt,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050277
+20,0001111082556,['Dairy'],Kroger,Kroger® Lactose Free 2% Reduced Fat Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111082556
+21,0085631200275,"['Dairy', 'Natural & Organic']",Fairlife,Fairlife Fat Free Ultra Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085631200275
+22,0002800051575,['Dairy'],Nesquik,Nesquik Strawberry Lowfat Milk,14 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800051575
+23,0004138309072,['Dairy'],Lactaid,Lactaid 100% Lactose Free 2% Reduced Fat Milk,96 fl oz,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309072
+24,0085631200279,['Dairy'],Fairlife,Fairlife Chocolate 2% Reduced Fat Ultra-Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085631200279
+25,0001111085333,['Dairy'],Kroger,Kroger® Lactose Free Vitamin D Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111085333
+26,0001111081818,['Dairy'],Kroger,Kroger® Lactose Free Calcium Enriched 2% Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111081818
+27,0081162002016,"['Natural & Organic', 'Dairy']",Fairlife,Fairlife Whole Ultra-Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081162002016
+28,0004138309010,['Dairy'],Lactaid,Lactaid Lactose Free 2% Reduced Fat Milk,1/2 gal,4.29,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309010
+29,0004138309036,['Dairy'],Lactaid,Lactaid 100% Lactose Free Whole Milk,1/2 gal,4.29,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309036
+30,0004138309073,['Dairy'],Lactaid,Lactaid 100% Lactose Free Whole Milk,96 fl oz,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309073
+31,0001111085314,['Dairy'],Kroger,Kroger® Lactose Free Calcium Enriched Fat Free Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111085314
+32,0004138309022,['Dairy'],Lactaid,Lactaid 100% Lactose Free 1% Low Fat Milk,1/2 gal,4.29,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309022
+33,0001111008303,['Dairy'],Kroger,Kroger® CARBmaster® Ultra Filtered Non-Fat Original Milk,59 fl oz,4.49,3.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008303
+34,0001111089282,['Dairy'],Kroger,Kroger® Lactose Free 1% Low Fat Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089282
+35,0001111041650,['Dairy'],Springdale,Springdale® 1% Lowfat Milk,1 gal,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111041650
+36,0001111050325,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,1 qt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050325
+37,0001111050324,['Dairy'],Kroger,Kroger® 1% Lowfat Milk,1 qt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050324
+38,0081162002138,"['Natural & Organic', 'Dairy']",Fairlife,Fairlife DHA Omega-3 Ultra-Filtered Whole Milk,52 fl oz,4.59,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081162002138
+39,0001111004989,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Whole Milk,1/2 gal,5.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004989
+40,0001111042345,['Dairy'],Springdale,Springdale® Fat Free Skim Milk,1 gal,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042345
+41,0001111079809,['Dairy'],Kroger,Kroger® Lactose Free 1% Chocolate Milk,0.5 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111079809
+42,0004138309070,['Dairy'],Lactaid,Lactaid 100% Lactose Free Fat Free Milk,96 fl oz,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309070
+43,0001111050278,['Dairy'],Kroger,Kroger® Fat Free Skim Milk Bottle,1 pt,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050278
+44,0004138309043,['Dairy'],Lactaid,Lactaid 100% Lactose Free Fat Free Milk,1/2 gal,4.29,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004138309043
+45,0085508800546,"['Dairy', 'Natural & Organic']",Maple Hill,Maple Hill Organic 100% Grassfed Whole Milk,1/2 gal,7.29,5.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085508800546
+46,0001111004990,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® 100% Grass-Fed 2% Milk,64 fl oz,5.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004990
+47,0076352800022,['Dairy'],Promised Land,Promised Land Dairy Very Berry Strawberry Whole Milk,28 fl oz,3.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0076352800022
+48,0081547301032,['Dairy'],Borden,Borden Whole Vitamin D Milk,1 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301032
+49,0001111042111,['Dairy'],Kroger,Kroger®  .5% Low Fat Milk,1/2 gal,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042111
+50,0081547301037,['Dairy'],Borden,Borden Whole Vitamin D Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301037
+51,0068692400160,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400160
+52,0068692400076,['Dairy'],Kroger,Kroger 1% Lowfat Milk,gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400076
+53,0068692400071,['Dairy'],Kroger,Kroger 2% Reduced Fat Milk,half gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400071
+54,0068692400037,['Dairy'],Kroger,Kroger Vitamin D Whole Milk,1/2 gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400037
+55,0068692400077,['Dairy'],Kroger,Kroger 1% Low Fat Milk,half gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400077
+56,0068692400005,['Dairy'],Kroger,Kroger Vitamin D Whole Milk,gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400005
+57,0068692400157,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,half gallon,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0068692400157
+58,0081547301047,['Dairy'],Borden,Borden Whole Vitamin D Milk,1 pt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301047
+59,0081547301042,['Dairy'],Borden,Borden Whole Vitamin D Milk,1 qt,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301042
+60,0003663207112,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic Whole Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207112
+61,0004190007986,['Dairy'],Dairy Pure,Dairy Pure 2% Reduced Fat Milk,32 fl oz,2.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004190007986
+62,0003663207127,"['Beverages', 'Dairy']",Horizon Organic,Horizon Organic Whole Milk,8 oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207127
+63,0001111042051,['Dairy'],Springdale,Springdale 1/2% Lowfat Milk,1 gal,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042051
+64,0081547301038,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301038
+65,0081547301033,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301033
+66,0081547301043,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1 qt,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301043
+67,0081547301048,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1 pt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301048
+68,0076352800006,['Dairy'],Promised Land,Promised Land Dairy Vitamin D Ultra-Pasteurized Whole Milk,52 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0076352800006
+69,0081162002205,"['Dairy', 'Beverages']",Fairlife,Fairlife 2% Reduced Fat Ultra-Filtered Milk,6 bottles / 8 fl oz,6.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081162002205
+70,0076352800020,['Dairy'],Promised Land,Promised Land Dairy 2% Reduced Fat Milk,52 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0076352800020
+71,0081162002253,['Dairy'],Good Moo'd,Good Moo'd 2% Reduced Fat Milk,64 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081162002253
+72,0081547301688,['Dairy'],Borden,Borden Hi-Protein 2% Reduced Fat Milk,1 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301688
+73,0081162002254,['Dairy'],Good Moo'd,Good Moo'd Whole Milk,64 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081162002254
+74,0081547301689,['Dairy'],Borden,Borden Hi-Protein 2% Reduced Fat Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301689
+75,0088303800001,['Dairy'],LaLa,LALA Vitamin D Whole Milk,1 gal,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0088303800001
+76,0081547301044,['Dairy'],Borden,Borden 1% Lowfat Milk,1 qt,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301044
+77,0081547301045,['Dairy'],Borden,Borden Fat Free Skim Milk,1 qt,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301045
+78,0088303800050,['Dairy'],,Lala 2% Milk,1 gal,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0088303800050
+79,0081547301719,['Dairy'],Borden,Borden State Fair Banana Taffy Whole Milk,16 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301719
+80,0081003226002,['Dairy'],Sproud,Sproud Plant Based Barista Milk,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081003226002
+81,0004164807985,"['Dairy', 'Natural & Organic']",Better Than Milk,Better Than Milk Organic Unsweetened Oat Drink,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004164807985
+82,0004164807988,"['Dairy', 'Natural & Organic']",Better Than Milk,Better Than Milk Organic Unsweetened Almond Drink,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004164807988
+83,0004164807986,"['Natural & Organic', 'Dairy']",Better Than Milk,Better Than Milk Organic Unsweetened Rice Drink,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004164807986
+84,0004164807984,['Dairy'],Better Than Milk,Better Than Milk Organic Almond Drink,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004164807984
+85,0004164807987,['Dairy'],Better Than Milk,Better Than Milk Hazelnut Organic Rice Drink,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004164807987
+86,0001111042856,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Fat Free Milk,0.5 gal,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042856
+87,0001111042902,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ 2% Reduced Fat Milk,1 gal,5.69,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042902
+88,0001111042861,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ 2% Reduced Fat Milk with DHA Omega-3,1/2 gal,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042861
+89,0001111042858,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Whole Milk with DHA Omega-3,1/2 gal,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042858
+90,0074236526445,"['Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic Vitamin D Whole Milk,1/2 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236526445
+91,0001111050438,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Lactose Free 2% Reduced Fat Milk,1/2 gal,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050438
+92,0074236526425,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic 2% Reduced Fat Milk,1/2 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236526425
+93,0001111050434,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Lactose Free Whole Milk,1/2 gal,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050434
+94,0074236526447,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic DHA Omega-3 Whole Milk,1/2 gal,4.99,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236526447
+95,0007290400003,"['Dairy', 'Natural & Organic']",Meyenberg,Meyenberg Vitamin D Goat Milk,1 quart,4.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007290400003
+96,0074236526435,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic DHA Omega-3 2% Reduced Fat Milk,1/2 gal,4.99,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236526435
+97,0074236500707,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Grassfed Whole Vitamin D Milk,1/2 gal,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500707
+98,0074236526405,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Fat-Free Milk,1/2 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236526405
+99,0001111050075,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Whole Chocolate Milk,0.5 gal,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050075
+100,0074236520885,"['Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic Chocolate Lowfat Milk,8 fl oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236520885
+101,0074236500675,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Whole Milk,1 gal,6.09,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500675
+102,0074236500708,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Grassfed 2% Reduced Fat Milk,1/2 gal,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500708
+103,0001111042862,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® 1% Low Fat Chocolate Milk,1/2 gal,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042862
+104,0001111042906,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Fat Free Milk,1 gal,5.69,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042906
+105,0074236520865,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Lowfat Strawberry Milk,8 fl oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236520865
+106,0074236500416,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic 1% Chocolate Lowfat Milk 6 Count,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500416
+107,0074236500674,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic 2% Reduced Fat Milk,1 gal,6.09,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500674
+108,0074236526480,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic DHA Omega-3 1% Chocolate Lowfat Milk,0.5 gal,4.99,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236526480
+109,0074236500432,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic DHA Omega-3 Lowfat Chocolate Milk,6 ct / 8 fl oz,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500432
+110,0074236500420,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,Horizon Organic 1% Lowfat Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500420
+111,0074236500270,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic Lowfat Chocolate Milk 12 Count,12 ct / 8 fl oz,11.99,11.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500270
+112,0085508800568,"['Natural & Organic', 'Dairy']",Maple Hill,Maple Hill Organic 100% Grassfed Reduced Fat Milk,1/2 gal,7.29,5.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085508800568
+113,0074236500417,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,Horizon Organic 1% Vanilla Lowfat Milk 6 Count,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500417
+114,0074236500421,"['Beverages', 'Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Reduced Fat Strawberry Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500421
+115,0074236500434,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,Horizon Organic Lowfat Milk Boxes,12 ct / 8 fl oz,11.99,11.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500434
+116,0003663207113,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic Whole Milk Cartons,12 ct / 8 fl oz,11.99,11.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207113
+117,0074236500318,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic Lowfat Vanilla Milk 12 Count,12 ct / 8 fl oz,11.99,11.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500318
+118,0074236500431,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic DHA Omega-3 Lowfat Vanilla Milk,6 ct / 8 fl oz,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500431
+119,0074236500437,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic DHA Omega-3 Lowfat Chocolate Milk Boxes,12 ct / 8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074236500437
+120,0002529300099,"['Natural & Organic', 'Dairy']",Silk,Silk Vanilla Almond Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300099
+121,0001111089536,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth® Almond Milk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089536
+122,0002529300275,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweetened Cashew Milk,64 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300275
+123,0004157005413,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Unsweetened Almond Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005413
+124,0002529300242,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweetened Almond & Coconut Milk Blend,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300242
+125,0085290900342,"['Dairy', 'Natural & Organic']",Califia Farms,Califia Farms Pure Toasted Coconut Almond Milk Blend,48 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900342
+126,0002529300451,"['Natural & Organic', 'Dairy']",Silk,Silk Chocolate Protein Almond & Cashew Milk,64 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300451
+127,0002529300380,"['Dairy', 'Natural & Organic']",Silk,Silk Original Almond & Cashew Protein Milk,64 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300380
+128,0002529300377,"['Natural & Organic', 'Dairy']",Silk,Silk Original Unsweetened Almond Milk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300377
+129,0002529300379,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweetened Vanilla Almond Milk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300379
+130,0004157005416,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Vanilla Unsweetened Almond Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005416
+131,0001111084185,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth® Unsweetened Coconut Milk,32 fl oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111084185
+132,0004157006836,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Vanilla Almond Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157006836
+133,0001111081557,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Almond Milk,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111081557
+134,0004157006827,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Original Almond Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157006827
+135,0085564300604,"['Natural & Organic', 'Dairy']",Ripple,Ripple Original Unsweetened Plant-Based Milk,48 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085564300604
+136,0085564300605,"['Dairy', 'Natural & Organic']",Ripple,Ripple Original Dairy-Free Pea Milk,48 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085564300605
+137,0004157006837,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Chocolate Almond Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157006837
+138,0001111083449,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth™ Unsweetened Vanilla Almond Milk,32 fl oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111083449
+139,0001111081558,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Vanilla Almond Milk,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111081558
+140,0082946200117,"['Dairy', 'Natural & Organic']",Good Karma,Good Karma Unsweetened Flax Milk,1/2 gal,4.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0082946200117
+141,0004157008977,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Vanilla Unsweetened Coconut Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157008977
+142,0007487396015,"['Dairy', 'Natural & Organic']",WestSoy,WestSoy Organic Unsweetened Plain Soy Milk,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007487396015
+143,0004157008976,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Organic Unsweetened Almond Coconut Milk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157008976
+144,0002529300272,"['Dairy', 'Natural & Organic']",Silk,Silk Dark Chocolate Almond Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300272
+145,0005260306600,"['Dairy', 'Natural & Organic']",Pacific,Pacific Hemp Original Milk Beverage,32 fl oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306600
+146,0002529300273,"['Natural & Organic', 'Dairy']",Silk,Silk Vanilla Almond Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300273
+147,0085788200801,"['Dairy', 'Natural & Organic']",Better Body Foods,Better Body Foods Oatsome Organic Original Oat Milk,1 l,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085788200801
+148,0002529300169,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweetened Vanilla Almond Milk,32 fl oz,2.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300169
+149,0002529300170,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweet Almond Milk,32 fl oz,2.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300170
+150,0001894400102,['Dairy'],Elmhurst,Elmhurst Milked Unsweetened Almond Beverage,32 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001894400102
+151,0087538600040,"['Dairy', 'Natural & Organic']",Living Harvest,Living Harvest Unsweetened Original Hemp Milk,32 fl oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087538600040
+152,0005260306503,"['Natural & Organic', 'Dairy']",Pacific,Pacific Unsweetened Almond Milk Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306503
+153,0087538600032,"['Natural & Organic', 'Dairy']",Living Harvest,Living Harvest Vanilla Hemp Milk,32 fl oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087538600032
+154,0087538600041,"['Dairy', 'Natural & Organic']",Living Harvest,Living Harvest Tempt Unsweetened Vanilla Hemp Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087538600041
+155,0004157008974,"['Dairy', 'Natural & Organic']",Blue Diamond,Blue Diamond Almond Breeze Coconut Milk Blend,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157008974
+156,0081363602024,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Unsweetened Almond Milk Creamer,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602024
+157,0087538600030,"['Natural & Organic', 'Dairy']",Living Harvest,Living Harvest Tempt Original Hemp Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087538600030
+158,0087538600031,"['Natural & Organic', 'Dairy']",Living Harvest,Living Harvest Chocolate Hemp Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087538600031
+159,0007487396025,"['Dairy', 'Natural & Organic']",Westsoy,WestSoy Organic Original Soy Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007487396025
+160,0004157005791,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Vanilla Unsweetened Milk,1/2 gal,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005791
+161,0074447391231,"['Dairy', 'Natural & Organic']",SO Delicious,SO Delicious Original Coconut Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447391231
+162,0085177000364,"['Dairy', 'Natural & Organic']",Orgain,Orgain Organic Protein Unsweetened Vanilla Almond Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085177000364
+163,0007487396200,"['Dairy', 'Natural & Organic']",West Soy,West Soy Organic Plus Plain Soy Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007487396200
+164,0008425326020,"['Natural & Organic', 'Dairy']",Dream,Soy Dream Original Soy Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425326020
+165,0085290900377,['Dairy'],Califia Farms,Califia Farms Barista Blend Almond Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900377
+166,0007487397083,"['Dairy', 'Natural & Organic']",WestSoy,WestSoy Unsweetened Vanilla Soy Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007487397083
+167,0004318200206,"['Natural & Organic', 'Dairy']",Native Forest,Native Forest Organic Unsweetened Coconut Milk Simple,13.5 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004318200206
+168,0005260306500,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Almond Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306500
+169,0001111050573,['Dairy'],Kroger,Kroger® 1% Low Fat Chocolate Milk Jug,1 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050573
+170,0001111050574,['Dairy'],Kroger,Kroger® 1% Lowfat Chocolate Milk,0.5 gal,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050574
+171,0002800077212,['Dairy'],Nesquik,Nesquik Chocolate Flavored Low Fat Milk,14 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800077212
+172,0001111050279,['Dairy'],Kroger,Kroger® 1% Low Fat Chocolate Milk,1 pt,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050279
+173,0001111043266,['Dairy'],Kroger,Kroger® Grade A Chocolate Milk,1/2 gal,2.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111043266
+174,0076352800008,['Dairy'],Promised Land,Promised Land Dairy Midnight Chocolate Ultra-Pasteurized Whole Milk,28 fl oz,3.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0076352800008
+175,0001111008300,['Dairy'],Kroger,Kroger® CARBmaster® Ultra Filtered Non-Fat Chocolate Milk,59 fl oz,4.49,3.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008300
+176,0076352800017,['Dairy'],Promised Land,Promised Land Dairy 2% Reduced Fat Midnight Chocolate Milk,28 fl oz,3.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0076352800017
+177,0081547301041,['Dairy'],Borden,Borden Dutch Chocolate Whole Milk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301041
+178,0081547301051,['Dairy'],Borden,Borden Dutch Chocolate Whole Milk,1 pt,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301051
+179,0002800073309,['Dairy'],Nesquik,Nesquik Chocolate Low Fat Milk,6 bottles / 8 fl oz,5.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800073309
+180,0081162002206,"['Dairy', 'Beverages']",Fairlife,Fairlife 2% Reduced Fat Ultra-Filtered Chocolate Milk,6 bottles / 8 fl oz,6.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081162002206
+181,0081547301046,['Dairy'],Borden,Borden Dutch Chocolate Whole Milk,1 qt,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301046
+182,0081003226003,['Dairy'],Sproud,Sproud Chocolate Flavor Plant-Based Milk,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081003226003
+183,0085804500429,['Dairy'],Milkadamia,Milkadamia Unsweetened Macadamia Milk,32 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085804500429
+184,0085804500451,['Dairy'],Milkadamia,Milkadamia Unsweetened Vanilla Macadamia Milk,32 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085804500451
+185,0085804500428,['Dairy'],Milkadamia,Milkadamia Original Macadamia Milk,32 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085804500428
+186,0073762801150,"['International', 'Dairy']",Thai Kitchen,Thai Kitchen Unsweetened Coconut Milk,13.66 fl oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073762801150
+187,0081829001703,['Dairy'],Chobani,Chobani Oat Plain Extra Creamy Plant-Based Milk,52 fl oz,4.99,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081829001703
+188,0001111090414,"['International', 'Dairy']",Kroger,Kroger® Premium Coconut Milk,13.5 fl oz,2.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111090414
+189,0081829001698,['Dairy'],Chobani,Chobani Oat Plain Plant-Based Milk,52 fl oz,4.99,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081829001698
+190,0004473801843,"['International', 'Dairy']",Chaokoh,Chaokoh Coconut Milk,13.5 fl oz,2.39,2.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004473801843
+191,0001111078505,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Unsweetened Almond Milk,32 fl oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111078505
+192,0003663207269,['Dairy'],Silk,Silk Protein Almond & Cashew Unsweetened Vanilla Milk,64 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207269
+193,0001111090415,"['International', 'Dairy']",Kroger,Kroger® Lite Coconut Milk,13.5 fl oz,2.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111090415
+194,0002500012008,"['Natural & Organic', 'Dairy']",Simply,Simply Vanilla Almond Milk,46 fl oz,3.99,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002500012008
+195,0004133102164,"['International', 'Dairy']",Goya,Goya Gluten Free Coconut Milk,13.5 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004133102164
+196,0073762801160,"['International', 'Dairy']",Thai Kitchen,Thai Kitchen Lite Coconut Milk,13.66 fl oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073762801160
+197,0002500012006,"['Natural & Organic', 'Dairy']",Simply,Simply Original Unsweetened Almond Milk,46 fl oz,3.99,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002500012006
+198,0002500012004,"['Dairy', 'Natural & Organic']",Simply,Simply Original Almond Milk,46 fl oz,3.99,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002500012004
+199,0003663207614,['Dairy'],Silk,Silk Original Almond Milk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207614
+200,0001111009223,['Dairy'],Simple Truth,Simple Truth Chocolate Oat Milk,1.89 l,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111009223
+201,0003663207615,['Dairy'],Silk,Silk Vanilla Almond Milk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207615
+202,0007065006025,['Dairy'],Andre Prost,Andre Prost Dairy Free Unsweetened  Coconut Milk,13.5 fl oz,2.49,2.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007065006025
+203,0007065080012,"['Dairy', 'International']",A Taste of Thai,A Taste of Thai Coconut Milk,13.5 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007065080012
+204,0063919250152,['Dairy'],Laguna,Laguna Coconut Milk Drink,10.5 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0063919250152
+205,0002529360090,['Dairy'],Silk,Silk Original Soy Milk,32 fl oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529360090
+206,0001894400050,['Natural & Organic'],Elmhurst,Elmhurst Unsweetened Milked Oats Beverage,32 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001894400050
+207,0001894400106,['Dairy'],Elmhurst,Elmhurst Unsweetened Milked Cashews Beverage,32 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001894400106
+208,0004133102165,"['International', 'Dairy']",Goya,Goya Light Coconut Milk,13.5 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004133102165
+209,0086452400010,['Dairy'],Mooala,Mooala Organic Original Almond Milk,48 fl oz,5.49,4.27,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086452400010
+210,0073762801094,"['International', 'Dairy', 'Natural & Organic']",Thai Kitchen,Thai Kitchen Organic Coconut Milk,13.66 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073762801094
+211,0002418202506,['Dairy'],Eden,Organic Edensoy Unsweetened Soy Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002418202506
+212,0081824302865,['Natural & Organic'],BareOrganics,BareOrganics Coconut Milk Powder,8 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081824302865
+213,0081363602164,['Dairy'],Califia Farms,Califia Farms No Sugar Added Better Half Coconut Cream & Almond Milk Dairy Free Half-n-Half,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602164
+214,0002418202515,['Dairy'],Eden,Organic Edensoy Carob Soy Milk,33 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002418202515
+215,0002418202545,['Dairy'],Eden Foods,Eden Foods  Organic EdenSoy® Extra Soy Milk   Vanilla,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002418202545
+216,0073762806050,"['Dairy', 'International']",Thai Kitchen,Thai Kitchen Unsweetened Coconut Milk,5.46 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073762806050
+217,0081003226007,['Dairy'],Sproud,Sproud Unsweetened Plant-Based Milk,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081003226007
+218,0081363602165,['Dairy'],Califia Farms,Califia Farms Unsweetened Dairy Free Almond Milk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602165
+219,0001111042712,['Dairy'],Kroger,Kroger® Cultured Whole Buttermilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042712
+220,0001111042707,['Dairy'],Kroger,Kroger® Cultured Low Fat Buttermilk,1 pt,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042707
+221,0001111042705,['Dairy'],Kroger,Kroger® Cultured Lowfat Buttermilk,32 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042705
+222,0001111042701,['Dairy'],Kroger,Kroger® Cultured Lowfat Buttermilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042701
+223,0007235000001,['Dairy'],Yoo-hoo,Yoo-hoo Chocolate Drink,10 ct / 6.5 fl oz,3.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007235000001
+224,0081547301402,['Dairy'],Borden,Borden Country Store Bulgarian Cultured Whole Buttermilk,1/2 gal,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301402
+225,0081547301218,['Dairy'],Borden,Borden Cultured 1% Lowfat Buttermilk,1 qt,2.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301218
+226,0081547301213,['Dairy'],Borden,Borden Cultured 1% Lowfat Buttermilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301213
+227,0081363602044,['Dairy'],Califia Farms,Califia Farms Vanilla Almond Milk Creamer,25 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602044
+228,0074447394124,['Dairy'],SO Delicious,SO Delicious Dairy Free French Vanilla Coconut Milk Creamer,32 fl oz,4.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447394124
+229,0074447394120,['Dairy'],SO Delicious,SO Delicious Dairy Free Original Coconut Milk Creamer,32 fl oz,4.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447394120
+230,0081363602022,['Dairy'],Califia Farms,Califia Farms Dairy Free Better Half Unsweetened Coconut Cream & Almond Milk Creamer,16.9 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602022
+231,0081363602090,['Dairy'],Califia Farms,Califia Farms Dairy Free Barista Blend Almond Milk Creamer,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602090
+232,0001996270343,['Dairy'],Coconut Cloud,Coconut Cloud Dairy Free Vanilla Dried Coconut Milk Creamer,6 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001996270343
+233,0001996270333,['Dairy'],Coconut Cloud,Coconut Cloud Original Coconut Milk Creamer,6 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001996270333
+234,0081363602084,['Dairy'],Califia Farms,Califia Farms  Dairy Free Better Half Hazelnut Flavored Coconut Cream & Almond Milk,16.9 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602084
+235,0001111050068,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Vanilla Coffee Creamer,16 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050068
+236,0086452400013,"['Dairy', 'Natural & Organic']",Mooala,Mooala Organic Original Bananamilk,48 fl oz,5.49,4.27,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086452400013
+237,0002529300149,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweetened Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300149
+238,0002529300136,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweet Vanilla Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300136
+239,0004157005670,"['Dairy', 'Natural & Organic']",Almond Breeze,Almond Breeze Unsweetened Original Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005670
+240,0002529300098,"['Dairy', 'Natural & Organic']",Silk,Silk Original Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300098
+241,0004157005618,"['Dairy', 'Natural & Organic']",Almond Breeze,Almond Breeze Unsweetened Vanilla Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005618
+242,0001111089569,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth™ Unsweetened Almondmilk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089569
+243,0004157005617,"['Natural & Organic', 'Dairy']",Almond Breeze,Blue Diamond Almond Breeze Original Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005617
+244,0004410015618,"['Natural & Organic', 'Dairy']",Planet Oat,Planet Oat Original Oatmilk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004410015618
+245,0002529300119,"['Natural & Organic', 'Dairy']",Silk,Silk Dark Chocolate Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300119
+246,0002529360039,"['Dairy', 'Natural & Organic']",Silk,Silk Protein Original Soymilk,64 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529360039
+247,0001111089577,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth® Unsweetened Vanilla Almondmilk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089577
+248,0002529360023,"['Natural & Organic', 'Dairy']",Silk,Silk Organic Unsweetened Soymilk,0.5 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529360023
+249,0001111089562,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth Vanilla Almondmilk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089562
+250,0001111042950,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Plain Soymilk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042950
+251,0001111087980,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Almondmilk,1/2 gal,3.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087980
+252,0004157011019,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Unsweetened Original Almondmilk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157011019
+253,0002529300228,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweet Coconutmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300228
+254,0001111084597,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth Coconutmilk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111084597
+255,0004410015621,"['Dairy', 'Natural & Organic']",Planet Oat,Planet Oat Vanilla Oatmilk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004410015621
+256,0004157011008,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157011008
+257,0002529360027,"['Dairy', 'Natural & Organic']",Silk,Silk Protein Vanilla Soymilk,64 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529360027
+258,0004157010993,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Hint of Honey Vanilla Almondmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157010993
+259,0085290900330,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Pure Unsweetened Almondmilk,48 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900330
+260,0003663207126,"['Dairy', 'Natural & Organic']",Silk,Silk Oat Yeah Plain Dairy-Free Oatmilk,64 fl oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207126
+261,0081363602188,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Unsweetened Oatmilk,48 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602188
+262,0001111087981,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Vanilla Almondmilk,1/2 gal,3.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087981
+263,0004157010964,"['Natural & Organic', 'Dairy']",Almond Breeze,Blue Diamond Almond Breeze Reduced Sugar Vanilla Almondmilk,0.5 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157010964
+264,0001111089578,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth® Chocolate Almondmilk,0.5 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089578
+265,0002529300122,"['Dairy', 'Natural & Organic']",Silk,Silk Original Coconutmilk,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300122
+266,0004157005772,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Vanilla Almondmilk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005772
+267,0085290900369,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Unsweetened Vanilla Almondmilk,48 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900369
+268,0003663207459,"['Natural & Organic', 'Dairy']",Silk,Silk Oat Yeah Craveably Creamy Oatmilk,64 fl oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207459
+269,0004157009915,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Unsweetened Original Almondmilk Coconutmilk Blend,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157009915
+270,0004157005770,"['Natural & Organic', 'Dairy']",Almond Breeze,Blue Diamond Almond Breeze Original Almondmilk,96 fl oz,4.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005770
+271,0008425327117,"['Natural & Organic', 'Dairy']",Rice Dream,Rice Dream Original Rice Drink,1/2 gal,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425327117
+272,0004157050001,"['Dairy', 'Natural & Organic']",Blue Diamond,Blue Diamond Almond Breeze Almondmilk Blended with Real Bananas,1/2 gal,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157050001
+273,0001111088806,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Soymilk,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088806
+274,0004157005418,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Unsweetened Chocolate Almondmilk,32 fl oz,2.19,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005418
+275,0008425322213,"['Natural & Organic', 'Dairy']",Rice Dream,Rice Dream Organic Original Classic Rice Drink,32 fl oz,2.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322213
+276,0008425322230,"['Dairy', 'Natural & Organic']",Rice Dream,Rice Dream Original Rice Drink,0.5 gal,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322230
+277,0005260306570,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Oat Beverage,32 fl oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306570
+278,0086052100010,"['Natural & Organic', 'Dairy']",nutpods,Nutpods Unsweetened Vanilla Dairy-Free Creamer,11.2 fl oz,3.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086052100010
+279,0002529300139,"['Dairy', 'Natural & Organic']",Silk,Silk Very Vanilla Soymilk,8 fl oz,1.25,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300139
+280,0085992200720,"['Dairy', 'Natural & Organic']",nutpods,Nutpods Caramel Almond + Coconut Creamer,11.2 fl oz,3.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085992200720
+281,0004157005260,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Original Unsweetened Almondmilk,1/2 gal,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157005260
+282,0004157011097,"['Natural & Organic', 'Dairy']",Blue Diamond,Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,4 ct / 8 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157011097
+283,0002529300137,"['Dairy', 'Natural & Organic']",Silk,Silk Chocolate Soymilk,8 fl oz,1.25,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300137
+284,0004157011095,"['Natural & Organic', 'Dairy']",Blue Diamond,Blue Diamond Almond Breeze Chocolate Almondmilk,4 ct / 8 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157011095
+285,0002529300270,"['Natural & Organic', 'Dairy']",Silk,Silk Chocolate Soymilk 6 Count,6 ct / 8 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300270
+286,0005260308200,"['Dairy', 'Natural & Organic']",Pacific,Pacific Ultra Soy Original Non-Dairy Beverage,32 fl oz,3.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260308200
+287,0085788200849,"['Natural & Organic', 'Dairy']",Better Body Foods,Better Body Foods Oatsome Organic Barista Oat Drink,1 l,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085788200849
+288,0005260306601,"['Natural & Organic', 'Dairy']",Pacific,Pacific Foods Vanilla Hemp Beverage,32 fl oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306601
+289,0086000148838,"['Natural & Organic', 'Dairy']",Malk,Malk Organic Unsweetened Vanilla Almond Malk,32 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086000148838
+290,0086000148832,"['Dairy', 'Natural & Organic']",Malk,Malk Organic Unsweetened Almond Malk,32 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086000148832
+291,0005260306580,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Vanilla Plant-Based Oat Beverage,32 fl oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306580
+292,0005260306752,"['Dairy', 'Natural & Organic']",Pacific,Pacific Foods Organic Coconut Unsweetened Vanilla Plant-Based Beverage,32 fl oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306752
+293,0085788200811,"['Dairy', 'Natural & Organic']",Better Body Foods,Better Body Foods Oatsome Organic Chocolate Oat Drink,1 l,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085788200811
+294,0008425322231,"['Dairy', 'Natural & Organic']",Dream,Rice Dream Vanilla Rice Drink,64 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322231
+295,0085290900381,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Vanilla Almond Coffee Creamer,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900381
+296,0005260306510,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Vanilla Almond Beverage 4 Count,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306510
+297,0005260306750,"['Natural & Organic', 'Dairy']",Pacific Foods,Pacific Natural Foods Organic Original Sweetened Coconut Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306750
+298,0005260308300,"['Dairy', 'Natural & Organic']",Pacific,Pacific Select Soy Low Fat Plain Soy Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260308300
+299,0005260306504,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Unsweetened Vanilla Almond Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306504
+300,0002418202535,"['Dairy', 'Natural & Organic']",Eden,Eden Soy Extra Organic Soymilk Original,32 fo,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002418202535
+301,0005260306751,"['Natural & Organic', 'Dairy']",Pacific,Pacific Organic Coconut Non Dairy Beverage Unsweetened,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306751
+302,0008425322215,"['Natural & Organic', 'Dairy']",Dream,Rice Dream Organic Original Enriched Rice Drink,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322215
+303,0005260306550,"['Natural & Organic', 'Dairy']",Pacific,Pacific Vanilla Almond Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306550
+304,0002418202505,"['Dairy', 'Natural & Organic']",Eden Foods,Eden Foods  Organic EdenSoy® Soymilk Dairy Free   Original,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002418202505
+305,0004157010991,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Unsweetened Vanilla Almondmilk Coconutmilk Blend,1/2 gal,2.99,2.84,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004157010991
+306,0074447391234,"['Natural & Organic', 'Dairy', 'Beverages']",SO Delicious,SO Delicious Dairy Free Organic Vanilla Coconutmilk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447391234
+307,0008425322571,"['Natural & Organic', 'Dairy']",Coconut Dream,Coconut Dream Original Unsweetened Coconut Drink,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322571
+308,0005260306603,"['Natural & Organic', 'Dairy']",Pacific,Pacific Original Unsweetened Hemp Non-Dairy Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306603
+309,0008425322216,"['Dairy', 'Natural & Organic']",Imagine,Rice Dream Enriched Vanilla Rice Drink,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322216
+310,0005260306507,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Almond Chocolate Non Diary Beverage 4 Count,4 ct / 8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306507
+311,0007235002056,['Dairy'],Yoo-hoo,Yoo-hoo Chocolate Drink,12 cans / 11 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007235002056
+312,0081547301388,['Dairy'],Borden,Borden Super Chox Chocolate Drink,1 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081547301388
+313,0004410015619,['Dairy'],Planet Oat,Planet Oat Extra Creamy Original Oatmilk,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004410015619
+314,0001111003844,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth Original Oatmilk Non-Dairy Oat Beverage,1/2 gal,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003844
+315,0002529300489,"['Dairy', 'Natural & Organic']",Silk,Silk Sweet & Creamy Dairy-Free Almond Creamer,1 qt,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300489
+316,0001111042952,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Vanilla Soymilk,1/2 gal,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111042952
+317,0001111003850,['Dairy'],Simple Truth,Simple Truth™ Original Oatmilk Non-Dairy Oat Beverage,32 fl oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003850
+318,0085992200739,"['Dairy', 'Natural & Organic']",nutpods,nutpods Unsweetened French Vanilla Almond + Coconut Creamer,25.4 fl oz,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085992200739
+319,0081829001747,"['Dairy', 'Natural & Organic']",Chobani,Chobani Zero Sugar Plain Oat Drink,52 fl oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081829001747
+320,0085992200758,"['Dairy', 'Natural & Organic']",nutpods,nutpods Original Unsweetened Almond + Coconut Creamer,25.4 fl oz,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085992200758
+321,0085992200759,"['Natural & Organic', 'Dairy']",nutpods,nutpods Unsweetened Caramel Almond + Coconut Creamer,25.4 fl oz,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085992200759
+322,0081002977011,"['Dairy', 'Natural & Organic']",Ripple,Ripple Original Plant-Based Half & Half,25.4 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081002977011
+323,0019064664101,['Dairy'],Oatly,Oatly Original Oatmilk,1/2 gal,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0019064664101
+324,0002529360089,['Dairy'],Silk,Silk Protein Unsweetened Organic Soymilk,32 fl oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529360089
+325,0019064664102,['Dairy'],Oatly,Oatly Original Low Fat Oatmilk,1/2 gal,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0019064664102
+326,0001111008234,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Vanilla Probiotic Almondmilk,6 bottles / 2.7 fl oz,2.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008234
+327,0075417783054,"['Dairy', 'International']",Klass,Klass Horchata Rice & Cinnamon Aguas Frescas,14.1 oz,2.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0075417783054
+328,0075417750164,"['Dairy', 'International']",Klass,Klass Aguas Frescas Horchata,0.58 oz,0.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0075417750164
+329,0085539500704,['Dairy'],Mooala,Mooala Organic Unsweetened Coconut Oatmilk,48 fl oz,5.49,4.27,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085539500704
+330,0008425326832,['Dairy'],Imagine,Imagine Almond Dream Original Unsweetened Almond Drink,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425326832
+331,0005260306604,['Dairy'],Pacific,Pacific Unsweetened Vanilla Non-Dairy Hemp Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306604
+332,0005260308320,['Dairy'],Pacific,Pacific Foods Original Enriched Soy Non-Dairy Beverage,8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260308320
+333,0005260306756,['Dairy'],Pacific,Pacific Foods Organic Unsweetened Coconut Beverage,4 ct / 8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306756
+334,0081003226001,['Dairy'],Sproud,Sproud Original Pea Protein Beverage,33.8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081003226001
+335,0081363602161,['Dairy'],Califia Farms,Califia Farms Oat Barista Blend Oatmilk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602161
+336,0081363602233,['Dairy'],Califia Farms,Califia Farms Unsweetened Vanilla Almondmilk,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602233
+337,0005260306593,['Dairy'],Pacific,Pacific Unsweetened Original Hazelnut Plant-Based Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306593
+338,0002418202510,['Dairy'],Eden Foods,Eden Foods  Organic Edensoy Soymilk   Cocoa,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002418202510
+339,0008425322211,['Dairy'],Imagine,Imagine Foods  Rice Dream® Organic Rice Drink   Original Unsweetened,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008425322211
+340,0005260308330,['Dairy'],Pacific,Pacific Foods Vanilla Enriched Soy Non-Dairy Beverage,8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260308330
+341,0005260308340,['Dairy'],Pacific,Pacific Foods  Enriched Soy Non-Dairy Beverage   Chocolate,8 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260308340
+342,0005260306100,['Dairy'],Pacific,Pacific Foods  Organic Soy Original Unsweetened Plant-Based Beverage   Unsweetened,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306100
+343,0005260306652,['Dairy'],Pacific,Pacific Unsweetened Original Non-Dairy Cashew Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306652
+344,0005260306650,['Dairy'],Pacific,Pacific Original Non-Dairy Cashew Beverage,32 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005260306650
+345,0005000032275,['Dairy'],Coffee-mate,Coffee-mate French Vanilla Liquid Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000032275
+346,0004127102564,['Dairy'],International Delight,International Delight French Vanilla Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102564
+347,0005000032290,['Dairy'],Coffee-mate,Coffee-mate Hazelnut Liquid Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000032290
+348,0001111088104,['Dairy'],Kroger,Kroger® French Vanilla Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088104
+349,0004127100955,['Dairy'],International Delight,International Delight Caramel Macchiato Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127100955
+350,0001111088150,['Dairy'],Kroger,Kroger® Italian Style Sweet Cream Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088150
+351,0004127101788,['Dairy'],Dunkin' Donuts,Dunkin' Donuts Extra Extra Coffee Creamer,32 fl oz,3.19,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127101788
+352,0005000030302,['Dairy'],Coffee-mate,Coffee-mate The Original Coffee Creamer Powder,35.3 oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000030302
+353,0005000088680,['Dairy'],Coffee-mate,Coffee-mate Coconut Creme Liquid Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000088680
+354,0005000080164,['Dairy'],Coffee-mate,Coffee-mate Natural Bliss Sweet Cream Flavor Liquid Coffee Creamer,32 fl oz,5.49,5.29,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000080164
+355,0001111088151,['Dairy'],Kroger,Kroger® White Chocolate Mocha Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088151
+356,0001111088126,['Dairy'],Kroger,Kroger® Creme Brulee Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088126
+357,0001111008334,['Dairy'],Kroger,Kroger® Danish Style Butter Cookie Coffee Creamer,32 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008334
+358,0001111088120,['Dairy'],Kroger,Kroger® Fat Free French Vanilla Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088120
+359,0005000039879,['Dairy'],Coffee-mate,Coffee-mate Sugar Free Italian Sweet Creme Coffee Creamer,64 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000039879
+360,0001111088093,['Dairy'],Kroger,Kroger® Original Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088093
+361,0004127102275,['Dairy'],International Delight,International Delight Sugar Free French Vanilla Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102275
+362,0004127101997,['Dairy'],International Delight,International Delight Almond Joy Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127101997
+363,0003663207173,['Dairy'],International Delight,International Delight Hazelnut Coffee Creamer,1/2 gal,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207173
+364,0005000099334,['Dairy'],Starbucks,Starbucks Almondmilk & Oatmilk Non-Dairy Caramel Macchiato Liquid Coffee Creamer,28 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000099334
+365,0001111001058,['Dairy'],Kroger,Kroger® Original Non-Dairy Coffee Creamer,16 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111001058
+366,0081829001692,['Dairy'],Chobani,Chobani Sweet Cream Dairy Creamer,24 fl oz,3.99,3.29,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081829001692
+367,0001111050065,['Dairy'],Simple Truth Organic,Simple Truth Organic® Sweet Cream Coffee Creamer,16 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050065
+368,0005000040367,['Dairy'],Coffee-mate,Coffee-mate Natural Bliss Hazelnut Liquid Coffee Creamer,32 fl oz,5.59,5.29,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000040367
+369,0004127102590,['Dairy'],International Delight,International Delight French Vanilla Creamers,24 ct / 10.55 fl oz,3.99,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102590
+370,0005000034101,['Dairy'],Coffee-mate,Coffee-mate The Original Liquid Coffee Creamer Single Serve Cups,24 ct,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000034101
+371,0003450063156,['Dairy'],Land O' Lakes,Land O' Lakes Mini Moo's Half & Half Creamers,24 ct / 7.3 fl oz,3.99,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003450063156
+372,0005000031474,['Dairy'],Coffee-mate,Coffee-mate Hazelnut Coffee Creamer,15 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000031474
+373,0005000020708,['Dairy'],Coffee-mate,Coffee-mate French Vanilla Powder Coffee Creamer,15 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000020708
+374,0004127102591,['Dairy'],International Delight,International Delight Hazelnut Creamer Singles,24 ct,3.99,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102591
+375,0004127100974,['Dairy'],International Delight,International Delight Caramel Macchiato Creamer Singles 24 Count,10.55 fl oz,3.99,3.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127100974
+376,0005000034934,['Dairy'],Coffee-mate,Coffee-mate Sugar Free Hazelnut Coffee Creamer Powder,10.2 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000034934
+377,0005000004595,['Dairy'],Coffee-mate,Coffee-mate Chocolate Creme Coffee Creamer Powder,15 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000004595
+378,0005000034102,['Dairy'],Coffee-mate,Coffee-mate French Vanilla Liquid Coffee Creamers,24 ct / 0.37 fl oz,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000034102
+379,0001111002822,['Dairy'],Simple Truth Organic,Simple Truth Organic™ Coconut Caramel Coffee Creamer,16 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111002822
+380,0005000060236,['Dairy'],Coffee-mate,Coffee-mate Caramel Latte Powder Coffee Creamer,15 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000060236
+381,0007245711033,['Dairy'],Walden Farms,Walden Farms French Vanilla Calorie Free Coffee Creamer,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007245711033
+382,0007245711055,['Dairy'],Walden Farms,Walden Farms Hazelnut Calorie Free Coffee Creamer,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007245711055
+383,0007245711022,['Dairy'],Walden Farms,Walden Farms Sweet Cream Calorie Free Coffee Creamer,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007245711022
+384,0086140600012,['Dairy'],Leaner Creamer,Leaner Creamer Coconut Oil Creamer Refill Original,9.87 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086140600012
+385,0007245711044,['Dairy'],Walden Farms,Walden Farms Mocha Calorie Free Coffee Creamer,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007245711044
+386,0018614060141,['Dairy'],Leaner Creamer,Leaner Creamer Original Coconut Oil Creamer,20 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018614060141
+387,0086140600018,['Dairy'],Leaner Creamer,Leaner Creamer  Coconut Oil Creamer   Caramel,9.87 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086140600018
+388,0086140600011,['Dairy'],Leaner Creamer,Leaner Creamer  Coconut Oil Creamer   Hazelnut,9.87 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086140600011
+389,0086140600019,['Dairy'],Leaner Creamer,Leaner Creamer  Coconut Oil Creamer   Mocha,9.87 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086140600019
+390,0005000034103,['Dairy'],Coffee-mate,Coffee-mate Hazelnut Flavored Single Serve Creamers,24 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000034103
+391,0005000035022,['Dairy'],Coffee-mate,Coffee-mate French Vanilla Liquid Coffee Creamer,64 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000035022
+392,0005000084811,['Dairy'],Coffee-mate,Coffee-mate Sugar Free French Vanilla Liquid Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000084811
+393,0001111050074,['Dairy'],Kroger,Kroger® Half & Half,0.5 gal,3.69,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050074
+394,0004127100472,['Dairy'],International Delight,International Delight Cold Stone Sweet Cream Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127100472
+395,0005000025117,['Dairy'],Coffee-mate,Coffee-mate Hazelnut Liquid Coffee Creamer,64 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000025117
+396,0004127102568,['Dairy'],International Delight,International Delight Hazelnut Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102568
+397,0001111088111,['Dairy'],Kroger,Kroger® Vanilla Caramel Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088111
+398,0001111088140,['Dairy'],Kroger,Kroger Sugar Free French Vanilla Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088140
+399,0001111088109,['Dairy'],Kroger,Kroger® Hazelnut Coffee Creamer,32 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088109
+400,0004127102502,['Dairy'],International Delight,International Delight Hershey's Chocolate Caramel Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102502
+401,0005000030262,['Dairy'],Coffee-mate,Coffee-mate The Original Liquid Coffee Creamer,32 fl oz,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000030262
+402,0005000012766,['Dairy'],Coffee-mate,Coffee-mate Fat Free French Vanilla Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000012766
+403,0004127102253,['Dairy'],International Delight,International Delight Zero Sugar Caramel Macchiato Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102253
+404,0004127101993,['Dairy'],International Delight,International Delight Cinnabon Classic Cinnamon Roll Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127101993
+405,0005000084808,['Dairy'],Coffee-mate,Coffee-mate Sugar Free Hazelnut Liquid Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000084808
+406,0002529300462,['Dairy'],Silk,Silk Vanilla Almond Creamer,1 qt,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300462
+407,0005000032852,['Dairy'],Coffee-mate,Coffee-mate The Original Liquid Coffee Creamer,64 fl oz,5.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000032852
+408,0005000038276,['Dairy'],Starbucks,Starbucks Caramel Macchiato Liquid Coffee Creamer,28 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000038276
+409,0081829001693,['Dairy'],Chobani,Chobani Vanilla Coffee Creamer,24 fl oz,3.99,3.29,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081829001693
+410,0002529300464,['Dairy'],Silk,Silk Caramel Flavored Almond Creamer,1 qt,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300464
+411,0001111001161,['Dairy'],Kroger,Kroger® Original Non-Dairy Coffee Creamer,35.3 oz,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111001161
+412,0005000072784,['Dairy'],Coffee-mate,Coffee-mate Sugar Free Coconut Creme Liquid Coffee Creamer,32 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000072784
+413,0004127102488,['Dairy'],International Delight,International Delight Irish Creme Coffee Creamer,32 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004127102488
+414,0001111087756,['Dairy'],Kroger,Kroger® Non Dairy French Vanilla Coffee Creamer,15 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087756
+415,0001111087764,['Dairy'],Kroger,Kroger® Sugar Free French Vanilla Coffee Creamer,10.2 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087764
+416,0002529360217,['Dairy'],Silk,Silk Vanilla Dairy-Free Soy Creamer,32 fl oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529360217
+417,0001111086544,['Dairy'],One of the Perks,One of the Perks™ Non-Dairy Coffee Creamer,22 oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111086544
+418,0001111087760,['Dairy'],Kroger,Kroger® Non-Dairy Hazelnut Coffee Creamer,15 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087760
+419,0001111087761,['Dairy'],Kroger,Kroger® Non-Dairy Cinnamon Creme Coffee Creamer,15 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087761
+420,0081363602222,['Dairy'],Califia Farms,Califia Farms Gluten-Free Vanilla Oat Creamer,25.4 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602222
+421,0005000030622,['Dairy'],Coffee-mate,Coffee-mate Fat Free The Original Powder Coffee Creamer,16 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000030622
+422,0001111001160,['Dairy'],Kroger,Kroger® Original Fat-Free Non-Dairy Coffee Creamer,16 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111001160
+423,0001111087762,['Dairy'],Kroger,Kroger® Non-Dairy Amaretto Coffee Creamer,15 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087762
+424,0086052100012,['Dairy'],nutpods,Nutpods Unsweetened Dairy-Free Hazelnut Flavored Almond & Coconut Creamer,11.2 fl oz,3.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086052100012
+425,0085569400601,['Dairy'],Laird Superfood,Laird Superfood Original Creamer,8 oz,8.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085569400601
+426,0085023200505,"['Natural & Organic', 'Dairy']",Vital Proteins,Vital Proteins Mocha Collagen Creamer Dietary Supplement,11.2 oz,28.99,26.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085023200505
+427,0081363602083,['Dairy'],Califia Farms,Califia Farms Better Half Vanilla Coconut Cream & Almondmilk,16.9 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602083
+428,0081363602023,['Dairy'],Califia Farms,Califia Farms Better Half Original Coconut Cream & Almondmilk,16.9 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602023
+429,0085569400643,"['Dairy', 'Natural & Organic']",Laird Superfood,Laird Superfood Unsweetened Creamer,8 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085569400643
+430,0085290900382,['Dairy'],Califia Farms,Califia Farms Pecan Caramel Almond Coffee Creamer,25 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900382
+431,0086000055443,['Dairy'],Unicreamer,Unicreamer Hazelnut Plant-Based Coffee Creamer,6 ct / 0.27 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086000055443
+432,0086000055445,['Dairy'],Unicreamer,Unicreamer Original Plant-Based Coffee Creamer,6 ct / 0.27 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086000055445
+433,0086000055446,['Dairy'],Unicreamer,Unicreamer Plant-Based Coffee Creamer Mix Variety Pack,12 ct / 0.27 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086000055446
+434,0086000055444,['Dairy'],Unicreamer,Unicreamer Mocha Plant-Based Coffee Creamer,6 ct / 0.27 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086000055444
+435,0086840800024,['Dairy'],nutpods,Nutpods Unsweetened Original Non-Dairy Creamer,12 ct / 11.2 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086840800024
+436,0007245711011,['Dairy'],Walden Farms,Walden Farms Original Cream Calorie Free Coffee Creamer,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007245711011
+437,0086840800026,['Dairy'],nutpods,Nutpods Non-Dairy Unsweetened Hazelnut Creamer,12 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086840800026
+438,0086840800025,['Dairy'],nutpods,nutpods Dairy Free Unsweetened French Vanilla Almond + Coconut Creamer,12 ct / 11.2 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086840800025
+439,0085569400639,['Dairy'],Laird Superfood,Laird Superfood  Creamer Turmeric,8 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085569400639
+440,0081363602227,['Dairy'],Califia Farms,Califia Farms Keto Unsweetened Vanilla Almondmilk & Coconut Creamer,16.9 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602227
+441,0081363602226,['Dairy'],Califia Farms,Califia Farms Keto Unsweetened Almondmilk & Coconut Creamer,16.9 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602226
+442,0085290900383,['Dairy'],Califia Farms,Califia Farms Hazelnut Coffee Creamer,32 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900383
+443,0001111008299,['Natural & Organic'],Kroger,Kroger® CARBmaster® Ultra Filtered Non-Fat Vanilla Milk,59 fl oz,4.49,3.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008299
+444,0003663207190,['Natural & Organic'],Horizon Organic,Horizon Organic Growing Years Organic Whole Milk,1/2 gal,5.79,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003663207190
+445,0005000022489,['Natural & Organic'],Coffee-mate,Coffee-mate Natural Bliss Vanilla Almond Milk Creamer,32 fl oz,5.49,5.29,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000022489
+446,0074447391235,['Natural & Organic'],SO Delicious,SO Delicious Dairy Free Organic Unsweetened Coconut Milk,32 fl oz,2.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447391235
+447,0007290400002,"['Natural & Organic', 'Beverages']",Meyenberg,Meyenberg Powdered Goat Milk,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007290400002
+448,0004759360204,"['Natural & Organic', 'Beverages']",Shiloh Farms,Shiloh Farms Organic Coconut Milk Powder,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004759360204
+449,0001111088301,['Baking Goods'],Kroger,Kroger® Evaporated Milk,12 fl oz,0.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088301
+450,0005000001011,['Baking Goods'],Carnation,Carnation Evaporated Milk,12 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000001011
+451,0001111088310,['Baking Goods'],Kroger,Kroger® Sweetened Condensed Milk,14 oz,1.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088310
+452,0065272910113,['Baking Goods'],Eagle Brand,Eagle Brand Sweetened Condensed Milk,14 oz,2.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0065272910113
+453,0001111085735,"['Natural & Organic', 'Baking Goods']",Simple Truth Organic,Simple Truth Organic™ Coconut Milk,13.5 fl oz,1.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111085735
+454,0002800051780,['Baking Goods'],La Lechera,La Lechera Sweetened Condensed Milk,14 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800051780
+455,0005000001051,['Baking Goods'],Nestle,Nestle Carnation Evaporated Milk,5 fl oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000001051
+456,0005000015991,['Baking Goods'],Carnation,Carnation Evaporated Lowfat 2% Milk,12 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000015991
+457,0001111088312,['Baking Goods'],Kroger,Kroger® Fat Free Evaporated Milk,12 fl oz,0.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088312
+458,0001111085732,"['Natural & Organic', 'Baking Goods']",Simple Truth Organic,Simple Truth Organic™ Light Coconut Milk,13.5 fl oz,1.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111085732
+459,0065272901124,['Baking Goods'],Pet,Pet Evaporated Milk,12 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0065272901124
+460,0005000016011,['Baking Goods'],Carnation,Carnation Evaporated Fat Free Milk,12 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000016011
+461,0001111008733,['Baking Goods'],Kroger,Kroger® Instant Non-Fat Dry Milk Pouches,3 ct / 3.2 oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008733
+462,0001111088313,['Baking Goods'],Kroger,Kroger® Fat Free Sweetened Condensed Milk,14 oz,1.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088313
+463,0009568430082,['Baking Goods'],California Farms,California Farms Evaporated Filled Milk,12 fl oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009568430082
+464,0001111084964,"['Baking Goods', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic™ Evaporated Milk with Vitamin D,12 fl oz,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111084964
+465,0005000095895,['Baking Goods'],Carnation,Carnation Evaporated Milk,17 fl oz,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000095895
+466,0001111008736,['Baking Goods'],Kroger,Kroger® Instant Non-Fat Dry Milk,25.6 oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008736
+467,0001111084986,"['Baking Goods', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic™ Sweetened Condensed Milk,14 oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111084986
+468,0002800003317,"['Baking Goods', 'International', 'Beverages']",Nestle,Nestle Nido Fortificada Dry Milk,12.6 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800003317
+469,0005000041134,['Baking Goods'],Nestle,Nestle La Lechera Lactose Free Sweetened Condensed Milk,14 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000041134
+470,0002800070611,['Baking Goods'],Nestle,Nestle La Lechera Sweetened Condensed Milk,11.8 oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800070611
+471,0065272910313,['Baking Goods'],Eagle Brand,Eagle Brand Fat Free Sweetened Condensed Milk,14 oz,2.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0065272910313
+472,0007290400012,['Baking Goods'],Meyenberg,Meyenberg Evaporated Goat Milk with Vitamin D,12 fl oz,3.37,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007290400012
+473,0001111008735,['Baking Goods'],Kroger,Kroger® Instant Non-Fat Dry Milk Pouches,10 ct / 3.2 oz,9.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008735
+474,0001111008739,['Baking Goods'],Kroger,Kroger® Instant Non-Fat Dry Milk,64 oz,16.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008739
+475,0004318200208,"['Natural & Organic', 'Baking Goods']",Native Forest,Native Forest Organic Coconut Milk,13.5 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004318200208
+476,0002800082317,"['International', 'Baking Goods']",Nestle,Nestle Nido Fortificada Dry Milk,3.52 lb,17.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800082317
+477,0073762807950,"['International', 'Baking Goods']",Thai Kitchen,Thai Kitchen Organic Unsweetened Coconut Milk,14 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073762807950
+478,0001111088466,['Baking Goods'],Kroger,Kroger® Instant Non-Fat Dry Milk Pouches,10 ct / 3.2 oz,9.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111088466
+479,0001111083297,['Baking Goods'],Kroger,Kroger® Instant Non-Fat Dry Milk,25.6 oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111083297
+480,0009568430012,"['Natural & Organic', 'Baking Goods']",Santini,Santini Sweetened Condensed Milk,14 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009568430012
+481,0009568430010,"['Natural & Organic', 'Baking Goods']",Santini,Santini Evaporated Milk,12 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009568430010
+482,0004274325077,"['Baking Goods', 'International']",El Mexicano,El Mexicano La Vaquera Canned Milk,14 oz,2.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004274325077
+483,0089839200012,['Natural & Organic'],Wildly Organic,Wildly Organic  Coconut Milk Powder,8 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089839200012
+484,0003997811520,['Baking Goods'],Bob's Red Mill,Bob's Red Mill Nonfat Dry Milk Powder,22 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003997811520
+485,0089839200769,['Natural & Organic'],Wildly Organic,Wildly Organic  Coconut Milk Powder,16 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089839200769
+486,0089839200019,['Natural & Organic'],Wildly Organic,Wildly Organic  Natural Coconut Milk Powder,16 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089839200019
+487,0073373905832,['Natural & Organic'],NOW Foods,NOW   Real Food™ Certified Organic Non-Fat Dry Milk Powder,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073373905832
+488,0004318200209,"['Baking Goods', 'Natural & Organic']",Native Forest,Native Forest Organic Coconut Milk,13.5 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004318200209
+489,0004318200525,['Baking Goods'],Let's Do Organic,Let's Do Organic Cream Coconut Unsweetened Milk,7 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004318200525
+490,0004318200101,"['Natural & Organic', 'Beverages']",Native Forest,Native Forest Dairy Free Vegan Coconut Milk Powder,5.25 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004318200101
+491,0001070002152,['Candy'],Milk Duds,Milk Duds Chocolate & Caramel Candy Theater Box,5 oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070002152
+492,0007910090237,['Pet Care'],Milk-Bone,Milk-Bone Flavor Snacks Small Dog Treats,24 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910090237
+493,0007910051410,['Pet Care'],Milk-Bone,Milk-Bone Medium Dog Biscuits,24 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910051410
+494,0007910090202,['Pet Care'],Milk-Bone,Milk-Bone Small Original Dog Biscuits,24 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910090202
+495,0007910051411,['Pet Care'],Milk-Bone,Milk-Bone Large Original Dog Biscuits,24 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910051411
+496,0007910050856,['Pet Care'],Milk-Bone,Milk-Bone Mini's Flavor Snacks Dog Treats,15 oz,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910050856
+497,0001070053100,['Candy'],Milk Duds,Milk Duds Candy,10 oz,2.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070053100
+498,0018053000081,"['Beverages', 'Health']",Muscle Milk,Muscle Milk Genuine Non Dairy Chocolate Protein Shake 4 Count,4 ct / 11 fl oz,6.99,6.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018053000081
+499,0007910051305,['Pet Care'],Milk-Bone,Milk-Bone Trail Mix Dog Treats,9 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910051305
+500,0018053000089,"['Beverages', 'Health']",Muscle Milk,Muscle Milk Genuine Non Dairy Strawberries 'n Creme Protein Shake,4 ct / 11 fl oz,6.99,6.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018053000089
+501,0007910090207,['Pet Care'],Milk-Bone,Milk-Bone MaroSnacks,10 oz,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910090207
+502,0018053000082,"['Health', 'Beverages']",Muscle Milk,Muscle Milk Genuine Non-Dairy Vanilla Creme Protein Shake,4 ct / 11 fl oz,6.99,6.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018053000082
+503,0007910078566,['Pet Care'],Milk-Bone,Milk-Bone Large Brushing Chew Bones,8.1 oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078566
+504,0087606300315,['Beverages'],Muscle Milk,Muscle Milk Pro Series Knockout Chocolate Non-Dairy Protein Shake,4 ct / 11 fl oz,8.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300315
+505,0087606300579,"['Health', 'Beverages']",Muscle Milk,Muscle Milk Protein Chocolate Non-Dairy Protein Shakes,4 ct / 11 fl oz,6.99,6.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300579
+506,0007910090212,['Pet Care'],Milk-Bone,Milk-Bone Soft & Chewy Chicken Dog Snacks,5.6 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910090212
+507,0007910078555,['Pet Care'],Milk-Bone,Milk-Bone Original Brushing Chews Daily Mini Dog Dental Treats,18 ct,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078555
+508,0087606300642,"['Health', 'Beverages']",Muscle Milk,Muscle Milk Protein Shakes Coffee House Café Lattes,4 bottles / 11 fl oz,6.99,6.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300642
+509,0007910092502,['Pet Care'],Milk-Bone,Milk-Bone Large Dog Biscuits,10 lb,11.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910092502
+510,0007910000811,['Pet Care'],Milk-Bone,Milk-Bone Good Morning Healthy Joint Dog Chews,6 oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910000811
+511,0007910092327,['Pet Care'],Milk-Bone,Milk-Bone MacroSnacks Dog Snacks,40 oz,10.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910092327
+512,0087606300578,"['Beverages', 'Health']",Muscle Milk,Muscle Milk Protein Shakes Vanilla Creme Non-Dairy Beverages,4 ct / 11 fl oz,6.99,6.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300578
+513,0007910000810,['Pet Care'],Milk-Bone,Milk-Bone Good Morning Total Wellness Dog Chews,6 oz,4.49,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910000810
+514,0007910078558,['Pet Care'],Milk-Bone,Milk-Bone Small/Medium Brushing Chews Daily Dental Dog Treats,19.6 oz,10.89,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078558
+515,0007910075990,['Pet Care'],Milk-Bone,Milk-Bone Rawhide-Free Gnaw Bones,6 ct,7.49,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910075990
+516,0018053000096,"['Beverages', 'Health']",Muscle Milk,Muscle Milk Chocolate Non Dairy Protein Shakes,12 bottles / 11 fl oz,19.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018053000096
+517,0030087834960,['Beverages'],Choco Milk,Choco Milk Chocolate Drink Mix,14.1 oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087834960
+518,0066072650317,['Health'],Muscle Milk,Muscle Milk Genuine Vanilla Creme Protein Powder,30.9 oz,23.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072650317
+519,0066072650327,['Health'],Muscle Milk,Muscle Milk Genuine Chocolate Protein Powder,30.9 oz,23.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072650327
+520,0007910075994,['Pet Care'],Milk-Bone,Milk-Bone Small/Medium Chicken Gnaw Bones Dog Snacks,9.6 oz,17.79,11.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910075994
+521,0007910075991,['Pet Care'],Milk-Bone,Milk-Bone Rawhide-Free Small Gnaw Bones,6 ct,7.49,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910075991
+522,0007910078557,['Pet Care'],Milk-Bone,Milk-Bone Brushing Chews Mini Bones Value Pack,18.9 oz,10.89,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078557
+523,0018053000097,"['Health', 'Beverages']",Muscle Milk,Muscle Milk Vanilla Creme Non-Dairy Protein Shakes,12 ct / 11 fl oz,19.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018053000097
+524,0007910075813,['Pet Care'],Milk-Bone,Milk-Bone Wonder Bones Chicken Mini Paw Rockers Dog Treats,18.8 oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910075813
+525,0007910000555,['Pet Care'],Milk-Bone,Milk Bone Active Biscuit Dispensing Ball,1 ct,8.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910000555
+526,0066072653421,['Health'],Muscle Milk,Muscle Milk Pro Series 50 Knockout Chocolate Protein Powder,32 oz,29.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072653421
+527,0089086400110,['Breakfast'],Milk & Honey,Milk & Honey Granola Original Cafe Mix,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089086400110
+528,0089086400114,['Breakfast'],Milk & Honey,Milk & Honey Granola Rick Bayless Mexican Mix,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089086400114
+529,0007910000556,['Pet Care'],Milk-Bone,Milk-Bone Active Biscuit Dispensing Ball Medium,1 ct,13.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910000556
+530,0007910022018,['Pet Care'],Milk-Bone,Milk-Bone Chock Full of Chunks Beef & Bacon Dog Treats,12 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910022018
+531,0007910022053,['Pet Care'],Milk-Bone,Milk-Bone Dipped Peanut Butter Dog Treats,12 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910022053
+532,0007910022160,['Pet Care'],Milk-Bone,Milk-Bone Dipped Vanilla Yogurt Dog Treats,12 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910022160
+533,0007910022105,['Pet Care'],Milk-Bone,Milk-Bone Chock Full of Chunks Turkey & Bacon Dog Treats,12 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910022105
+534,0007910078564,['Pet Care'],Milk-Bone,Milk-Bone Brushing Chews Daily Dental Mini Dog Treats,68 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078564
+535,0007910092504,['Pet Care'],Milk-Bone,Milk-Bone Flavor Snacks Small Dog Treats,7 lb,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910092504
+536,0087606300646,['Health'],Muscle Milk,Muscle Milk Mocha Latte Coffee House Non Dairy Protein Shake (3 Pack),4 bottles / 11 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300646
+537,0066072659510,['Health'],Muscle Milk,Muscle Milk Vanilla Creme Low-Fat Protein Powder,26.4 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072659510
+538,1007434513372,"['Breakfast', 'Health']",Tiger's Milk,Tigers Milk Peanut Butter Crunch Bar - 24 per pack -- 96 packs per case.,5,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/1007434513372
+539,0007910051860,['Pet Care'],Milk-Bone,Milk-Bone Trail Mix Real Beef & Sweet Potato Dog Snacks,20 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910051860
+540,0007910077250,['Pet Care'],Milk-Bone,Milk-Bone Mini's Flavor Dog Snacks Case,2 ct / 36 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910077250
+541,0007910092501,['Pet Care'],Milk-Bone,Milk-Bone Original Medium Dog Biscuits,10 lb,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910092501
+542,0007910072094,['Pet Care'],Milk-Bone,Milk-Bone Soft & Chewy Beef & Filet Mignon Recipe Dog Treats Case,2 ct / 25 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910072094
+543,0007910052169,['Pet Care'],Milk-Bone,Milk-Bone Large Dog Biscuits,2 ct / 4 lb,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910052169
+544,0066072653420,"['Natural & Organic', 'Health']",Muscle Milk,Muscle Milk Pro Series Knockout Chocolate Protein Powder,40.7 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072653420
+545,1007434557220,"['Health', 'Breakfast']",Tiger's Milk,Tigers Milk King Size Peanut Butter Bar 55 gram -- 12 per case.,5,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/1007434557220
+546,0087606300645,['Health'],Muscle Milk,Muscle Milk Vanilla Latte Coffee House Non Dairy Protein Shake (3 Pack),4 bottles / 11 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300645
+547,0087606300412,['Health'],Muscle Milk,Muscle Milk® Collegiate Vanilla Creme Protein Shake (12 Pack),11 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300412
+548,0066072656316,"['Health', 'Natural & Organic']",Muscle Milk,Muscle Milk Vanilla Creme Protein Nutrition Powder,84.64 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072656316
+549,0066072650355,['Health'],Muscle Milk,Muscle Milk Cafe Latte Caffeinated Protein Powder,30.9 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072650355
+550,0087606300411,['Beverages'],Muscle Milk,Muscle Milk® Collegiate Chocolate Protein Shake (12 Pack),11 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300411
+551,0066072659520,['Health'],Muscle Milk,Muscle Milk 100 Calorie Chocolate Protein Powder,26.5 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072659520
+552,0007910078561,['Pet Care'],Milk-Bone,Milk-Bone Brushing Chews Daily Dental Small/Medium Dog Treats,38 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078561
+553,0089086400301,['Breakfast'],Milk & Honey,"Milk And Honey Milk & Honey, Toasted Oatmeal, Cherry Almond Mix - Case of 12 - 2.65 OZ",2.65 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089086400301
+554,0007910050580,['Pet Care'],Milk-Bone,Milk-Bone MaroSnacks Large Dog Treats,58 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910050580
+555,0087606300119,['Health'],Muscle Milk,Muscle Milk Strawberry Banana Smoothie Protein Shake (3 Pack),4 bottles / 11 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300119
+556,0066072650358,['Health'],Muscle Milk,Muscle Milk Coffee House Mocha Latte Flavored Caffeinated Protein Powder,30.9 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072650358
+557,0007910000815,['Pet Care'],Milk-Bone,Milk-Bone Good Morning Healthy Joints Daily Vitamin Treats,15 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910000815
+558,0007910072093,['Pet Care'],Milk-Bone,Milk-Bone Soft & Chewy Chicken Recipe Dog Treats Case,2 ct / 25 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910072093
+559,0066072656326,"['Natural & Organic', 'Health']",Muscle Milk,Muscle Milk Chocolate Protein Nutrition Powder,84.64 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072656326
+560,0087606300647,['Health'],Muscle Milk,Muscle Milk Coffee House Cafe Latte Non Dairy Protein Shake,4 ct / 11 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087606300647
+561,0007910078563,['Pet Care'],Milk-Bone,Milk-Bone Brushing Chews Daily Dental Large Dog Treats,25 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910078563
+562,0089086400111,['Breakfast'],Milk & Honey,Milk And Honey Granola Granola Blueberry Pecan Mix - Case of 6 - 12 OZ,12 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089086400111
+563,0066072653410,"['Natural & Organic', 'Health']",Muscle Milk,Muscle Milk Intense Vanilla Protein Powder,40.7 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066072653410
+564,0007910053268,['Pet Care'],Milk-Bone,Milk-Bone Peanut Butter Flavor Variety Dog Treats,7 lb,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007910053268
+565,0004000042206,['Candy'],Milky Way,Milky Way Milk Chocolate Candy Bar,1.84 oz,0.99,0.89,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000042206
+566,0004000000032,['Candy'],M&M's,M&M's Peanut Milk Chocolate Candies,1.74 oz,0.99,0.89,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000000032
+567,0003400000440,['Candy'],Reese's,Reese's Gluten Free Milk Chocolate Peanut Butter Cups,1.5 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000440
+568,0001111001798,['Dairy'],Kroger,Kroger® Whole Milk Shredded Mozzarella Cheese,8 oz,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111001798
+569,0003400000246,['Candy'],Kit Kat,Kit Kat Milk Chocolate Crisp Wafer Candy Bar,1.5 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000246
+570,0003400000241,['Candy'],Hershey's,Hershey's Milk Chocolate with Almonds Candy Bar,1.45 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000241
+571,0003400000240,['Candy'],Hershey's,Hershey's Milk Chocolate Candy Bar,1.55 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000240
+572,0007456200100,"['Dairy', 'International']",Cacique,Cacique Ranchero Queso Fresco Part Skim Milk Cheese,10 oz,2.99,2.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007456200100
+573,0004000000031,['Candy'],M&M's,M&M's Milk Chocolate Candies,1.69 oz,0.99,0.89,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000000031
+574,0001070002440,['Candy'],Whoppers,Whoppers Original Malted Milk Balls Theater Box,5 oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070002440
+575,0009990090836,['Candy'],Crunch,Crunch Milk Chocolate Crisped Rice Candy Bar,1.55 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009990090836
+576,0004000051121,['Candy'],M&M's,M&M's Peanut Milk Chocolate Candies,19.2 oz,5.29,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051121
+577,0003400000221,['Candy'],Hershey's,Hershey's Milk Chocolate with Almonds King Size Bar,2.6 oz,1.59,1.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000221
+578,0004000051305,['Candy'],M&M's,M&M's Peanut Milk Chocolate Candy Sharing Size Bag,10.7 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051305
+579,0001111048888,['Dairy'],Kroger,Kroger®  Whole Milk Ricotta Cheese Tub,15 oz,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111048888
+580,0005000039758,['Beverages'],Nestle,Nestlé Rich Milk Chocolate Hot Cocoa Mix 6 Count,4.27 oz,1.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000039758
+581,0007092047633,['Beverages'],Swiss Miss,Swiss Miss Milk Chocolate Hot Cocoa Mix Envelopes 8 Count,11.04 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007092047633
+582,0003400000220,['Candy'],Hershey's,Hershey's King Size Milk Chocolate Bar,2.6 oz,1.59,1.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000220
+583,0003400017038,['Candy'],Hershey's,Hershey's Extra Large Milk Chocolate Bar,4.4 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400017038
+584,0002800021760,['Baking Goods'],Nestle Toll House,Nestle Toll House Milk Chocolate Chips Bag,11.5 oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800021760
+585,0004000000263,['Candy'],Snickers,Snickers Milk Chocolate King Size Candy Bar,3.29 oz,1.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000000263
+586,0003400007015,['Candy'],Hershey's,Hershey's Milk Chocolate Snack Size Candy Bars,8 ct / 0.45,1.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400007015
+587,0004000051294,['Candy'],M&M's,M&M's Milk Chocolate Candy Sharing Size Bag,10.7 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051294
+588,0002100002483,['Dairy'],Kraft,Kraft Singles 2% Milk Reduced Fat American Cheese Slices,16 ct / 10.7 oz,3.79,3.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002100002483
+589,0001111048987,['Dairy'],Kroger,Kroger® Whole Milk Ricotta Cheese,30 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111048987
+590,0003400029005,['Candy'],Hershey's,Hershey's Milk Chocolate Bars,6 ct / 1.55 oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400029005
+591,0004000051123,['Candy'],M&M's,M&M'S Milk Chocolate Candy Family Size Bag,19.2 oz,5.29,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051123
+592,0009990060198,['Candy'],Raisinets,Raisinets Milk Chocolate Covered Raisins,3.5 oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009990060198
+593,0001111004748,['Baking Goods'],Kroger,Kroger® Milk Chocolate Baking Chips,11.5 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004748
+594,0030087136542,['Baby'],Enfamil,Enfamil Milk-Based Infant Formula Powder With Iron,12.5 oz,17.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087136542
+595,0002529300397,"['Dairy', 'Breakfast', 'Natural & Organic']",Silk,Silk Vanilla Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300397
+596,0004000041372,['Candy'],Dove Chocolate,DOVE PROMISES Valentines Day Hearts Milk Chocolate Valentine Candy Bag,8.87 oz,4.19,3.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000041372
+597,0007403010300,['Dairy'],Galbani,Galbani Whole Milk Ricotta Cheese,15 oz,3.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007403010300
+598,0003400017115,['Candy'],Hershey's,Hershey's Milk Chocolate with Almonds Extra Large Bar,4.25 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400017115
+599,0001600043058,['Baking Goods'],Betty Crocker,Betty Crocker Milk Chocolate Brownie Mix,18.4 oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001600043058
+600,0004610040010,['Dairy'],Sargento,Sargento Off The Block Whole Milk Mozzarella Shredded Cheese,8 oz,3.99,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004610040010
+601,0027635000000,['Deli'],Boar's Head,Boar's Head White Whole Milk American Cheese,1 lb,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0027635000000
+602,0030087510069,['Baby'],Enfamil,Enfamil Gentlease Milk-Based Infant Formula Powder,12.4 oz,18.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087510069
+603,0003400043227,['Candy'],Reese's,Reese's Miniature Milk Chocolate Peanut Butter Cups Candy Share Pack,10.5 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400043227
+604,0005215970336,"['Natural & Organic', 'Dairy']",Stonyfield Organic,Stonyfield Organic Pear Spinach Mango Whole Milk Yogurt,3.5 oz,1.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215970336
+605,0005000016826,['Pet Care'],Fancy Feast,Fancy Feast Creamy Delights Tuna Feast with Real Milk Wet Cat Food,3 oz,0.7,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000016826
+606,0005215900001,"['Natural & Organic', 'Dairy']",Stonyfield Organic,Stonyfield Smooth & Creamy Whole Milk Plain Yogurt,32 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215900001
+607,0001070006080,['Candy'],Heath,Heath Milk Chocolate English Toffee Candy Bar,1.4 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070006080
+608,0003746605625,['Candy'],Lindt,Lindt Lindor Milk Chocolate Truffle Stick,1.3 oz,1.0,0.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003746605625
+609,0002529300396,"['Dairy', 'Natural & Organic']",Silk,Silk Strawberry Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300396
+610,0004000051301,['Candy'],M&M's,M&M's Peanut Butter Milk Chocolate Candy Sharing Size Bag,9.6 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051301
+611,0002700041916,['Baking Goods'],Snack Pack,Snack Pack Milk Chocolate Variety Pack Pudding,4 ct / 3.25 oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002700041916
+612,0005000016824,['Pet Care'],Fancy Feast,Fancy Feast Creamy Delights Chicken Feast with Real Milk Wet Cat Food,3 oz,0.7,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000016824
+613,0007726000268,['Candy'],Russell Stover,Russell Stover Marshmallow Heart Covered in Milk Chocolate,1 oz,0.89,0.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726000268
+614,0027634100000,['Deli'],Boar's Head,Boar's Head Yellow Whole Milk American Cheese,1 lb,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0027634100000
+615,0074447300046,"['Dairy', 'Natural & Organic']",SO Delicious,SO Delicious Dairy-Free Coconut Milk Key Lime Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447300046
+616,0003400019045,['Candy'],Hershey's,Hershey's Giant Milk Chocolate Bar,7 oz,2.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400019045
+617,0003400047837,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Hearts,10 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400047837
+618,0004000049752,['Candy'],M&M's,M&M's Milk Chocolate Candy Movie Theater Box,3.1 oz,1.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000049752
+619,0007457003310,['Frozen'],Haagen-Dazs,Haagen-Dazs Gluten Free Vanilla Milk Chocolate Almond Ice Cream Bars,3 ct / 3 fl oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007457003310
+620,0005215900002,"['Dairy', 'Natural & Organic']",Stonyfield Organic,Stonyfield Organic Vanilla Whole Milk Probiotic Yogurt,32 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215900002
+621,0003400014058,['Candy'],Hershey's,Hershey’s Kisses Candy Share Pack Milk Chocolate,10.8 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400014058
+622,0003400000152,['Candy'],Reese's,Reese's Sticks Milk Chocolate Peanut Butter & Crispy Wafer Candy Bar,1.5 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000152
+623,0002529300399,"['Dairy', 'Natural & Organic']",Silk,Silk Dark Chocolate Coconut Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300399
+624,0004000047652,['Candy'],M&M's,M&M’s Minis Milk Chocolate Candies,1.77 oz,1.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000047652
+625,0003400040568,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Cups Snack Size,8 ct / 0.55 oz,1.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400040568
+626,0003400017714,['Candy'],Hershey's,Hershey's Symphony Extra Large Creamy Milk Chocolate with Almonds and Toffee Chips Bar,4.25 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400017714
+627,0005215970107,"['Dairy', 'Natural & Organic']",Stonyfield Organic,Stonyfield Organic Strawberry Beet Berry Whole Milk Yogurt,3.5 oz,1.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215970107
+628,0004000055078,['Candy'],M&M's,M&M'S Milk Chocolate Valentines Day Cupid's Mix Valentine Candy Bag,10 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000055078
+629,0002100005439,['Dairy'],Kraft,Kraft Sharp Cheddar Shredded Cheese Made with 2% Milk,7 oz,3.59,3.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002100005439
+630,0003400049005,['Candy'],Reese's,Reese's Full Size Peanut Butter Cups Candy,6 ct / 1.5 oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400049005
+631,0003400047604,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Hearts,6 ct / 1.2 oz,4.99,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400047604
+632,0007456200102,['International'],Cacique,Cacique Panela Part Skim Cheese Milk,10 oz,3.59,2.97,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007456200102
+633,0002529300398,"['Dairy', 'Natural & Organic']",Silk,Silk Peach Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002529300398
+634,0007092047656,['Beverages'],Swiss Miss,Swiss Miss Reduced Calorie Milk Chocolate Flavored Hot Cocoa Mix 8 Count,3.12 oz,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007092047656
+635,0003400012080,['Candy'],Hershey's,Hershey's Kisses Valentine's Milk Chocolates,11 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400012080
+636,0009990017890,['Candy'],Goobers,Goobers Milk Chocolate Fresh Roasted Peanut Candy,3.5 oz,1.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009990017890
+637,0061124738290,['Beverages'],Swiss Miss,Swiss Miss Milk Chocolate Hot Cocoa Mix K-Cup Pods,10 ct,7.79,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0061124738290
+638,0004000051299,['Candy'],M&M's,M&M's Milk Chocolate Minis Candy Sharing Size Bag,10.1 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051299
+639,0003400044265,['Candy'],Reese's,Reese's Extra Large Milk Chocolate Peanut Butter Bar,4.25 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400044265
+640,0001070006225,['Candy'],Heath,Heath Milk Chocolate English Toffee Bar Miniatures Share Pack,10.2 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070006225
+641,0003400017612,['Candy'],Kit Kat,Kit Kat Milk Chocolate Crisp Wafer Candy Bar,4.5 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400017612
+642,0004326880002,['Candy'],Queen Anne,Queen Anne Milk Chocolate Cordial Cherries,10 ct,2.49,2.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004326880002
+643,0004000000431,['Candy'],M&M's,M&M's Milk Chocolate Candy Share Size,3.14 oz,1.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000000431
+644,0001111004287,['Beverages'],Kroger,Kroger® Dutch Milk Chocolate Hot Cocoa with Mini Marshmallows 8 ct,5.92 oz,1.49,1.25,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004287
+645,0007726000244,['Candy'],Russell Stover,Russell Stover Caramel Heart Covered with Milk Chocolate,1.25 oz,0.89,0.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726000244
+646,0002700041924,['Baking Goods'],Snack Pack,Snack Pack Milk Chocolate & Chocolate Fudge Milk Chocolate Swirl Pudding Cups 12 Count,39 oz,2.99,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002700041924
+647,0074759964012,['Baking Goods'],Ghirardelli,Ghirardelli Milk Chocolate Premium Baking Chips,11.5 oz,4.39,3.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074759964012
+648,0007022101111,['Candy'],Toblerone,Toblerone Swiss Milk Chocolate Bar,3.52 oz,2.29,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007022101111
+649,0007418229094,['Personal Care'],Softsoap,Softsoap Milk & Golden Honey Moisturizing Liquid Hand Soap,7.5 oz,1.25,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007418229094
+650,0007027249129,['Dairy'],Reddi Wip,Reddi Wip Non-Dairy Almond Milk Whipped Topping,6 oz,4.29,3.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007027249129
+651,0007675306690,['Kitchen'],Bialetti,Bialetti Milk Frother - Silver/Black,1 ct,19.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007675306690
+652,0003400046060,['Candy'],Reese's,Reese's THiNS Peanut Butter Cups Milk Chocolate Candy,7.37 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400046060
+653,0001070006611,['Candy'],Whoppers,WHOPPERS Easter Robin Eggs Malted Milk Chocolate Candy,10 oz,2.49,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070006611
+654,0001410009997,['Snacks'],Milano,Milano Milk Chocolate Cookies,6 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410009997
+655,0003400001871,['Candy'],Hershey's,Hershey's Milk Chocolate with Almond Nuggets,10.1 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400001871
+656,0001111050586,['Dairy'],Kroger,Kroger® Whole Milk Plain Yogurt,32 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050586
+657,0001111004288,['Beverages'],Kroger,Kroger® Dutch Milk Chocolate Hot Cocoa Mix 8 ct,5.92 oz,1.49,1.25,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004288
+658,0003400024990,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Big Cup with Pretzels,2.6 oz,1.79,1.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400024990
+659,0085648100380,['Candy'],Lily's,Lily's Caramelized & Salted Milk Chocolate Bar,2.8 oz,3.99,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085648100380
+660,0000954201643,['Candy'],Lindt,Lindt LINDOR Caramel Milk Chocolate Stick,1.3 oz,1.0,0.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954201643
+661,0001600045900,['Baking Goods'],Betty Crocker,Betty Crocker Rich & Creamy Milk Chocolate Frosting,16 oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001600045900
+662,0001330076040,['Baking Goods'],Pillsbury,Pillsbury Creamy Supreme Milk Chocolate Frosting,16 oz,1.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001330076040
+663,0001111004587,['Dairy'],Kroger,Kroger® Plain Whole Milk Greek Yogurt,32 oz,4.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004587
+664,0003400019141,['Candy'],Hershey's,Hershey's Giant Milk Chocolate Bar with Almonds,6.8 oz,2.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400019141
+665,0003400047423,['Candy'],Reese's,REESE'S Valentine's Milk Chocolate Peanut Butter Hearts Candy,10.2 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400047423
+666,0001111050587,['Dairy'],Kroger,Kroger® Whole Milk Blended Vanilla Yogurt,32 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050587
+667,0003400012213,['Candy'],Hershey's,Hershey's Conversation Milk Chocolate Kisses,11 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400012213
+668,0003400017514,['Candy'],Hershey's,Hershey's Symphony Creamy Milk Chocolate Extra Large Candy Bar,4.25 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400017514
+669,0001410007712,['Snacks'],Pepperidge Farm,Pepperidge Farm Sausalito Milk Chocolate Macadamia Cookies,7.2 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410007712
+670,0003400044709,['Candy'],Reese's,REESE'S Milk Chocolate Miniatures Peanut Butter Cups,35.6 oz,11.99,8.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400044709
+671,0081363602043,['Natural & Organic'],Califia Farms,Califia Farms Dairy Free Almond Milk Creamer,25.4 fl oz,4.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081363602043
+672,0007457001310,['Frozen'],Haagen-Dazs,Haagen-Dazs Gluten Free Vanilla Milk Chocolate Ice Cream Bars,3 ct / 3 fl oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007457001310
+673,0003400001870,['Candy'],Hershey's,Hershey's Milk Chocolate Nuggets,10.2 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400001870
+674,0003400000243,['Candy'],Mr. Goodbar,Mr. Goodbar Milk Chocolate Bar,1.75 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000243
+675,0005000053032,['Breakfast'],Carnation Breakfast Essentials,Carnation Breakfast Essentials Rich Milk Chocolate Nutritional Drink Mix,10 ct / 1.26 oz,5.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000053032
+676,0001111008466,['Natural & Organic'],Simple Truth,Simple Truth™ Dairy Free Blueberry Almond Milk Yogurt Alternative,5.3 oz,1.25,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008466
+677,0002100062566,['Dairy'],Kraft,Kraft Deli Deluxe 2% Milk American Cheese Slices,24 ct / 16 oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002100062566
+678,0003746601584,['Candy'],Lindt,Lindt Lindor Milk Chocolate Truffles,5.1 oz,4.59,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003746601584
+679,0004000055118,['Candy'],M&M's,M&M'S Milk Chocolate Peanut Valentine Candy Bag,10 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000055118
+680,0000954201931,['Candy'],Lindt,Lindt LINDOR Valentine Milk Chocolate Truffles,8.5 oz,6.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954201931
+681,0004000051656,['Candy'],M&M's,M&M'S Valentines Day Milk Chocolate MINIS Size Valentine Candy Tube,1.08 oz,1.09,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000051656
+682,0001070085843,['Candy'],Heath,Heath Extra Large Milk Chocolate English Toffee Bar,4 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070085843
+683,0001111061063,['Candy'],Private Selection,Private Selection® Milk Chocolate Sea Salt Caramels,0.83 oz,0.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111061063
+684,0003400011016,['Candy'],Hershey's,Hershey's Hugs Valentine's White Creme & Milk Chocolate Candies,11 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400011016
+685,0063748006501,['Health'],Atkins,Atkins Milk Chocolate Delight Protein-Rich Shakes,4 bottles / 11 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0063748006501
+686,0085648100305,['Candy'],Lily's,Lily's Salted Almonds Milk Chocolate Bar,3 oz,3.99,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085648100305
+687,0001111008358,"['Produce', 'Natural & Organic', 'Snacks']",Kroger,Kroger Milk Chocolate Flavored Covered Almonds,13 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111008358
+688,0001410008900,['Snacks'],Pepperidge Farm,Pepperidge Farm Montauk Soft Baked Milk Chocolate Cookies,8 ct / 8.6 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410008900
+689,0081000346057,"['Natural & Organic', 'Candy']",Lily's,Lily's No Sugar Added 40% Cocoa Hazelnut Milk Chocolate Style Bar,2.8 oz,3.99,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081000346057
+690,0007007440701,['Beverages'],Ensure,Ensure Original Milk Chocolate Ready-to-Drink Nutrition Shakes,6 bottles / 8 fl oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007440701
+691,0007456200110,['International'],Cacique,Cacique Cotija Part Skim Milk Cheese,10 oz,4.39,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007456200110
+692,0005000041517,['Breakfast'],Carnation,Carnation Breakfast Essentials Rich Milk Chocolate Drink,6 ct / 8 fl oz,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000041517
+693,0085997700506,"['Natural & Organic', 'Dairy']",Good Culture,Good Culture Organic Whole Milk Cottage Cheese,16 oz,4.99,4.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085997700506
+694,0081794401249,['Deli'],Murray's,Murray's® Whole Milk Ricotta Cheese,1 lb,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081794401249
+695,0003400029105,['Candy'],Hershey's,Hershey's Milk Chocolate Bars with Almonds,6 ct / 1.45 oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400029105
+696,0002100061166,['Dairy'],Velveeta,Velveeta 2% Milk Cheese,32 oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002100061166
+697,0003400000258,['Candy'],Hershey's,Hershey's Kisses Solid Milk Chocolate Candy,1.45 oz,1.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400000258
+698,0085648100304,"['Natural & Organic', 'Candy']",Lily's,Lily's Creamy Milk Chocolate Bar,3 oz,3.99,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085648100304
+699,0003400022670,['Candy'],Kit Kat,Kit Kat Miniatures Milk Chocolate Wafer Candy Bars,10.1 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400022670
+700,0005215970119,"['Natural & Organic', 'Dairy']",Stonyfield Organic,Stonyfield Organic Kids Whole Milk Strawberry Banana Yogurt 6 Count,6 ct / 4 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215970119
+701,0003746608323,['Candy'],Lindt,Lindt Classic Recipe Milk Chocolate Bar,4.4 oz,2.99,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003746608323
+702,0064420900439,['Baking Goods'],Duncan Hines,Duncan Hines Creamy Milk Chocolate Frosting,16 oz,1.99,1.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0064420900439
+703,0004000053955,['Candy'],M&M's,M&M's Minis Milk Chocolate Bar,4 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000053955
+704,0003400019940,['Candy'],Hershey's,Hershey's Symphony Giant Milk Chocolate with Almonds and Toffee Bar,6.8 oz,2.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400019940
+705,0005215970115,"['Natural & Organic', 'Baby', 'Dairy']",Stonyfield Organic,Stonyfield Organic YoBaby Apple & Blueberry Whole Milk Yogurt 6 Count,6 ct / 4 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215970115
+706,0007940011886,"['Personal Care', 'Beauty']",Suave,Suave Milk & Honey Splash Creamy Body Wash,15 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007940011886
+707,0007092047657,['Beverages'],Swiss Miss,Swiss Miss No Sugar Added Milk Chocolate Flavor Hot Cocoa Mix 8 Count,8 ct / 0.73 oz,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007092047657
+708,0002100065492,['Canned & Packaged'],Velveeta,Velveeta Shells & Cheese Made with 2% Milk Shell Pasta & Creamy Cheese Sauce,12 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002100065492
+709,0004126038442,['Candy'],Private Selection,Private Selection® Milk Chocolate Sea Salt Caramels,7.5 oz,3.99,3.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038442
+710,0003400018346,['Candy'],Hershey's,Hershey's Extra Creamy Milk Chocolate Hearts,10 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400018346
+711,0001410004743,['Snacks'],Milano,Milano Double Milk Chocolate Cookies,7.5 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410004743
+712,0003400007053,['Candy'],Hershey's,HERSHEY'S Snack Size Milk Chocolate Candy Bars,10.35 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400007053
+713,0003400022874,['Candy'],Hershey's,Hershey's Milk Chocolate & Reese's Pieces Candy Bar,1.55 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400022874
+714,0074759960764,['Candy'],Ghirardelli,Ghirardelli Milk Chocolate with Caramel Filling Bar,3.5 oz,2.79,2.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074759960764
+715,0001111087775,['Beverages'],Kroger,Kroger® Milk Chocolate Hot Cocoa K-Cup® Pods,12 ct,6.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087775
+716,0074759940722,['Candy'],Ghirardelli,Ghirardelli Milk Chocolate Caramel Squares,2 ct / 1.06 oz,1.19,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074759940722
+717,0085290900350,"['Beverages', 'Natural & Organic']",Califia Farms,Califia Farms Mocha Cold Brew Coffee with Almond Milk,48 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085290900350
+718,0004000052538,['Candy'],Dove Chocolate,DOVE PROMISES Milk Chocolate Candy Bag,8.46 oz,4.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000052538
+719,0074759930651,['Candy'],Ghirardelli,Ghirardelli Milk Chocolate with Caramel Filling Squares,5.32 oz,4.39,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074759930651
+720,0074349000010,['Frozen'],Diana's,Dian Milk Chocolate Banana Babies,10.5 fl oz,4.49,4.19,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074349000010
+721,0081000346059,"['Natural & Organic', 'Candy']",Lily's,Lily's Milk Chocolate Peanut Butter Cups,1.25 oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081000346059
+722,0001410004810,['Snacks'],Pepperidge Farm,Pepperidge Farm Farmhouse Thin & Crispy Milk Chocolate Chip Cookies,6.9 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410004810
+723,0005000040695,['Breakfast'],Carnation Breakfast Essentials,Carnation Breakfast Essentials High Protein Rich Milk Chocolate Drink,6 bottles / 8 fl oz,8.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000040695
+724,0001111050444,['Dairy'],Kroger,Kroger® Delight Original Moose Tracks Whole Milk Greek Yogurt,5.3 oz,0.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111050444
+725,0003400013480,['Candy'],Hershey's,Hershey's Gluten Free Milk Chocolate Kisses Party Pack,35.8 oz,11.99,8.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400013480
+726,0001111003332,"['Snacks', 'Natural & Organic']",Simple Truth,Simple Truth™ Freeze-Dried Strawberries in Milk Chocolate Pouch,5 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003332
+727,0001111087200,['Snacks'],Private Selection,Private Selection™ Milk Chocolate Petit Beurre Biscuits,5.29 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111087200
+728,0003400001875,['Snacks'],Hershey's,Hershey's Extra Creamy Milk Chocolate Nuggets with Toffee & Almonds,10.2 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400001875
+729,0004950825018,"['Deli', 'Snacks']",Snack Factory,Snack Factory Milk Chocolate Crunch Pretzel Crisps,5.5 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004950825018
+730,0003400036336,['Candy'],Hershey's,Hershey's Valentine's Extra Creamy Strawberry Creme Filled Milk Chocolate Hearts,10 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400036336
+731,0005215970116,"['Natural & Organic', 'Dairy', 'Baby']",Stonyfield Organic,Stonyfield Organic YoBaby Peach & Pear Whole Milk Yogurt 6 Count,6 ct / 4 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215970116
+732,0003400099665,['Candy'],Hershey's,Hershey's Milk Chocolate Drops Pouch,7.6 oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400099665
+733,0003400043224,['Candy'],Reese's,Reese's Miniature Peanut Butter Cups Candy Family Pack,17.6 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400043224
+734,0001707707432,"['Breakfast', 'Dairy', 'Natural & Organic']",Lifeway,Lifeway Organic Mixed Berry Kefir Cultured Whole Milk,32 fl oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001707707432
+735,0001111004588,['Dairy'],Kroger,Kroger® Whole Milk Vanilla Greek Yogurt,32 oz,4.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111004588
+736,0081655901302,"['Beauty', 'Personal Care']",V05,VO5 Moisture Milks Strawberries & Cream Moisturizing Shampoo,12.5 fl oz,1.0,0.89,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081655901302
+737,0004000052565,['Candy'],Dove Chocolate,Dove Promises Silky Smooth Milk Chocolate Candy,15.8 oz,7.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000052565
+738,0001330055539,['Baking Goods'],Pillsbury,Pillsbury Milk Chocolate Brownie Mix Family Size,18.4 oz,1.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001330055539
+739,0001070050180,['Candy'],Whoppers,Whoppers Malted Milk Balls,12 oz,2.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001070050180
+740,0003400006152,['Baking Goods'],Heath,Heath Milk Chocolate English Toffee Bits,8 oz,3.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400006152
+741,0004000055113,['Candy'],M&M's,M&M's Milk Chocolate Candy,38 oz,10.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000055113
+742,0007007440702,['Beverages'],Ensure,Ensure Plus Milk Chocolate Ready-to-Drink Nutrition Shakes,6 bottles / 8 fl oz,10.49,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007440702
+743,0004950825141,['Snacks'],Snack Factory,Snack Factory Milk Chocolate Caramel Drizzlers Pretzel Crisps,5.5 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004950825141
+744,0007248899840,['Snacks'],Torn & Glasser,Torn & Glasser Milk Chocolate Raisins,13 oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007248899840
+745,0063748007051,['Candy'],Atkins,Atkins Endulge Milk Chocolate Caramel Squares,15 ct / 6 oz,6.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0063748007051
+746,0004000053968,['Candy'],M&M's,M&M's Minis & Peanuts Milk Chocolate Bar,3.9 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000053968
+747,0060265228346,['Breakfast'],KIND,KIND Milk Chocolate Peanut Butter Bar,1.4 oz,1.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0060265228346
+748,0001111089511,['Dairy'],Kroger,Kroger® Natural Grated Queso Cotija Part Skim Milk Cheese,8 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089511
+749,0007007464116,['Beverages'],Ensure,Ensure High Protein Milk Chocolate Ready-to-Drink Nutrition Shakes,6 bottles / 8 fl oz,9.99,8.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007464116
+750,0004000053980,['Candy'],M&M's,M&M's Minis & Crisp Rice Milk Chocolate Bar,3.8 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000053980
+751,0003400014059,['Candy'],Hershey's,Hershey’s Kisses Milk Chocolate Candy Family Pack,17.9 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400014059
+752,0075174603361,['Beverages'],Ovaltine,Ovaltine Chocolate Malt Flavored Milk Mix,12 oz,4.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0075174603361
+753,0001410004853,['Snacks'],Pepperidge Farm,Pepperidge Farm Farmhouse Thin & Crispy Toffee Milk Chocolate Cookies,6.9 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410004853
+754,0001111003769,"['Beverages', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic™ Cold Brew Mocha with Almond Milk Coffee,8 fl oz,2.49,2.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003769
+755,0001707707232,"['Dairy', 'Natural & Organic', 'Breakfast']",Lifeway,Lifeway Organic Plain Unsweetened Kefir Cultured Whole Milk,32 fl oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001707707232
+756,0005000016822,['Pet Care'],Fancy Feast,Fancy Feast Creamy Delights Salmon Paté with Real Milk Wet Cat Food,3 oz,0.7,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000016822
+757,0007457053268,['Frozen'],Haagen-Dazs,Haagen-Dazs Vanilla Milk Chocolate Almond Ice Cream Bars,18 fl oz,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007457053268
+758,0081655901303,"['Personal Care', 'Beauty']",V05,VO5 Moisture Milks Strawberries & Cream Moisturizing Conditioner,12.5 fl oz,1.0,0.89,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081655901303
+759,0005508600293,['Beauty'],Love Beauty and Planet,Love Beauty and Planet Coconut Milk & White Jasime Medium Hold & Volume Hair Spray,6.8 oz,7.49,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005508600293
+760,0060265228345,['Health'],KIND,KIND Milk Chocolate Almond Bar,1.4 oz,1.5,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0060265228345
+761,0009990040385,['Candy'],Raisinets,Raisinets Milk Chocolate Covered Raisins,8 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0009990040385
+762,0074447300028,"['Natural & Organic', 'Frozen']",SO Delicious,SO Delicious Chocolate Cookies 'N' Cream Cashew Milk Non-Dairy Frozen Dessert,1 pt,5.99,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447300028
+763,0007248899907,['Natural & Organic'],Torn & Glasser,Torn & Glasser Milk Chocolate Peanut Clusters,12 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007248899907
+764,0030087020142,['Baby'],Enfamil,Enfamil A.R. Milk Based Powder Infant Formula,12.9 oz,19.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087020142
+765,0089445500024,['Candy'],Justin's,Justin's Organic Milk Chocolate Peanut Butter Cups,2 ct,1.99,1.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0089445500024
+766,0002240000047,"['Beauty', 'Personal Care']",TRESemme,TRESemme Botanique Nourish & Replenish with Coconut Milk & Aloe Vera Shampoo,22 fl oz,5.19,3.11,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002240000047
+767,0000834678001,['Health'],SlimFast,SlimFast Original Creamy Milk Chocolate Ready To Drink Meal Replacement Shakes,8 bottles / 11 fl oz,10.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000834678001
+768,0007022100535,['Candy'],Toblerone,Toblerone Crunchy Salted Almond Swiss Milk Chocolate Bar,3.52 oz,2.29,1.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007022100535
+769,0031284339324,['Health'],Phillips,Phillips' Milk of Magnesia Wild Cherry Flavor Liquid,12 fl oz,4.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0031284339324
+770,0000954201935,['Candy'],Lindt,Lindt Valentine Milk & White Chocolate Truffles,8.5 oz,6.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954201935
+771,0003746608324,['Candy'],Lindt,Lindt Classic Recipe Milk Chocolate Hazelnut Bar,4.4 oz,2.99,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003746608324
+772,0007457062296,['Frozen'],Haagen-Dazs,Haagen-Dazs White & Milk Chocolate Trio Crispy Belgian Chocolate Layers Ice Cream,14 fl oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007457062296
+773,0075174603212,['Beverages'],Ovaltine,Ovaltine Rich Chocolate Flavored Milk Mix,12 oz,4.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0075174603212
+774,0085662400414,"['Dairy', 'Natural & Organic']",Kite Hill,Kite Hill Strawberry Almond Milk Yogurt,5.3 oz,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085662400414
+775,0085662400436,"['Dairy', 'Natural & Organic']",Kite Hill,Kite Hill Plain Unsweetened Almond Milk Yogurt,16 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085662400436
+776,0000954203591,['Candy'],Lindt,Lindt LINDOR Valentine's Milk Chocolate Truffles Mini Bag,0.8 oz,1.19,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954203591
+777,0007007466438,['Baby'],Similac,Similac Pro-Advance Non-GMO with 2'-FL HMO Milk-Based Powder Infant Formula with Iron,30.8 oz,36.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007466438
+778,0075174603218,['Beverages'],Ovaltine,Ovaltine Rich Chocolate Flavored Milk Mix,18 oz,5.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0075174603218
+779,0005000035603,['Breakfast'],Carnation Breakfast Essentials,Carnation Breakfast Essentials Rich Milk Chocolate Mix,17.7 oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000035603
+780,0000954200419,['Candy'],Lindt,Lindt LINDOR Caramel Milk Chocolate Truffles,5.1 oz,4.59,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954200419
+781,0007007466897,['Health'],Ensure,Ensure Max Protein Milk Chocolate Ready-to-Drink Nutrition Shake,4 ct / 11 fl oz,9.49,8.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007466897
+782,0004000050596,['Candy'],M&M's,M&M's Milk Chocolate Fun Size Bags,10.53 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000050596
+783,0004438712401,['Kitchen'],De'Longhi,De'Longhi Pixie Single-Serve Espresso Machine with Simplified Water Tank and Aeroccino Milk Frother,2 pc,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004438712401
+784,0004000054139,['Candy'],Dove Chocolate,Dove Milk Chocolate Bar,3.30 oz,1.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000054139
+785,0086823500044,"['Natural & Organic', 'Beverages']",Rise Brewing Co,Rise Nitro Brewing Co. Dairy Free Oat Milk Latte Nitro Cold Brew Coffee,7 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086823500044
+786,0007726002207,['Candy'],Russell Stover,Russell Stover Assorted Milk & Dark Chocolates Heart Box,5.1 oz,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726002207
+787,0085024100883,['Frozen'],Tru Fru,Tru Fru White and Milk Chocolate Covered Frozen Raspberries,8 oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085024100883
+788,0003400093759,['Candy'],Hershey's,Hershey's Kisses Milk Chocolate Candy Cane,2.24 oz,2.49,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400093759
+789,0086823500048,"['Natural & Organic', 'Beverages']",Rise Brewing Co,Rise Nitro Brewing Co Oat Milk Mocha Nitro Cold Brew Coffee,7 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0086823500048
+790,0085662400413,"['Natural & Organic', 'Dairy']",Kite Hill,Kite Hill Blueberry Almond Milk Yogurt,5.3 oz,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085662400413
+791,0085662400408,"['Natural & Organic', 'Dairy']",Kite Hill,Kite Hill Dairy Free Plain Almond Milk Cream Cheese Style Spread,8 oz,6.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085662400408
+792,0004000052542,['Candy'],Dove Chocolate,Dove Chocolate Promises Milk Chocolate & Caramel Candy,7.61 oz,4.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000052542
+793,0005000011187,['Beverages'],Nestle,Nestlé Rich Milk Chocolate Hot Cocoa Mix,27.7 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000011187
+794,0007456200115,['International'],Cacique,Cacique Oaxaca Part Skim Milk Cheese,10 oz,4.39,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007456200115
+795,0074447349213,"['Frozen', 'Natural & Organic']",SO Delicious,SO Delicious Almond Milk Mocha Fudge Bars 4 Count,9.2 fl oz,6.49,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447349213
+796,0004126930928,['Candy'],Palmer,Palmer Valentine's Greeting Card with Milk Chocolate Flavored Candy,1 oz,1.29,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126930928
+797,0003400093760,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Cups Candy Cane,2.17 oz,2.49,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400093760
+798,0004000049847,['Candy'],M&M's,M&M'S Milk Chocolate Valentine Candy Heart Candy Cane,3 oz,2.99,2.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000049847
+799,0004000050846,['Candy'],Dove Chocolate,DOVE PROMISES Milk Chocolate & Dark Chocolate Assorted Valentine Candy Hearts,19.52 oz,7.99,6.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000050846
+800,0002240000064,"['Beauty', 'Personal Care']",TRESemme,TRESemme Botanique Nourish & Replenish with Coconut Milk & Aloe Vera Conditioner,22 fl oz,5.19,3.11,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002240000064
+801,0000954201520,['Candy'],Lindt,Lindt Lindor Milk Chocolate Truffles,15.2 oz,10.99,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954201520
+802,0071627000134,['Candy'],Chocolove,Chocolove Toffee & Almonds in Milk Chocolate,3.2 oz,2.79,2.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0071627000134
+803,0063919265314,['International'],Formosa Yay,Formosa Yay Bubble Milk Tea Mochi,6.35 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0063919265314
+804,0004000053974,['Candy'],M&M's,M&M's Minis & Almonds Milk Chocolate Bar,3.9 oz,1.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000053974
+805,0007092047667,['Beverages'],Swiss Miss,Swiss Miss Milk Chocolate Flavored Hot Cocoa Mix,22.23 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007092047667
+806,0007248899776,['Natural & Organic'],Torn & Glasser,Torn & Glasser Milk Chocolate Peanuts,12 oz,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007248899776
+807,0007684007657,['Frozen'],Ben & Jerry's,Ben & Jerry's Milk & Cookies Ice Cream,1 pt,4.59,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007684007657
+808,0003400043054,['Candy'],Reese's,Reese's Big Cup Milk Chocolate Peanut Butter Cups,6 ct / 1.4 oz,4.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400043054
+809,0080993907354,"['Beverages', 'International']",Lotte,Lotte Milkis Original Milk & Yogurt Flavor Carbonated Drink,8.45 fl oz,1.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0080993907354
+810,0004438701205,['Kitchen'],De'Longhi,Nespresso Vertuo Next Premium Coffee and Espresso Maker in Gray plus Aeroccino Milk Frother in Black,1 ct,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004438701205
+811,0007007453623,['Beverages'],Ensure,Ensure Original Milk Chocolate Ready-to-Drink Nutrition Shake,16 bottles / 8 fl oz,22.49,21.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007453623
+812,0081000346056,['Candy'],Lily's,Lily's Milk Chocolate Style Covered Caramels,3.5 oz,5.99,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081000346056
+813,0004126038444,['Candy'],Private Selection,Private Selection® Milk Chocolate Sea Salt Toffee Truffles,5 oz,3.99,3.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038444
+814,0003400047840,['Candy'],Reese's,REESE'S Valentine's Milk Chocolate Peanut Butter Hearts Candy Heart Box,6.5 oz,5.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400047840
+815,0007007464275,"['Health', 'Beverages']",Ensure,Ensure High Protein Milk Chocolate Ready-to-Drink Nutrition Shake,12 bottles / 8 fl oz,17.99,15.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007464275
+816,0001410004854,['Snacks'],Pepperidge Farm,Pepperidge Farm Soft Baked Mackinac Oatmeal Milk Chocolate Cookies,8.6 oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410004854
+817,0003400066634,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Heart,5 oz,4.99,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400066634
+818,0004126038123,['Baby'],Comforts,Comforts™ Sensitivity Milk-Based Infant Formula Powder with Iron,33.2 oz,20.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038123
+819,0085662400437,"['Natural & Organic', 'Dairy']",Kite Hill,Kite Hill Vanilla Almond Milk Yogurt,16 oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085662400437
+820,0007248899867,['Snacks'],Torn & Glasser,Torn & Glasser Milk Chocolate Covered Pecans,12 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007248899867
+821,0007248899860,['Snacks'],Torn & Glasser,Torn & Glasser Milk Chocolate Cashews,12.5 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007248899860
+822,0085193200401,['Baking Goods'],Stuffed Puffs,Stuffed Puffs Classic Milk Chocolate Marshmallows,8.6 oz,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085193200401
+823,0087624700636,['Candy'],Treat Street,Treat Street The Perfect Man Solid Decorated Milk Chocolate,3.5 oz,4.99,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087624700636
+824,0001111003823,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Strawberry Cultured Lowfat Milk Kefir,32 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003823
+825,0004126001014,['Health'],Kroger,Kroger® Original Flavor Milk of Magnesia Saline Laxative,12 fl oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126001014
+826,0003400099662,['Candy'],Kit Kat,Kit Kat Minis Unwrapped Milk Chocolate Wafer Bars Candy Share Pack,7.6 oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400099662
+827,0003400012245,['Candy'],Hershey's,HERSHEY’S KISSES Milk Chocolate Candy with Tie Dye Foils,11 oz,4.39,4.39,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400012245
+828,0000954200485,['Candy'],Lindt,Lindt Lindor Sea Salt Milk Chocolate Truffles,3 ct / 5.1 oz,4.59,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954200485
+829,0070865600149,"['Natural & Organic', 'Candy']",Green & Black's,Green & Black's Organic Milk Chocolate Bar,3.17 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0070865600149
+830,0030087512121,['Baby'],Enfamil,Enfamil NeuroPro Gentlease Infant Formula Milk-Based Powder,27.4 oz,36.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087512121
+831,0085736000427,"['Natural & Organic', 'Snacks']",Element,Element Organic Milk Chocolate Dipped Rice Cakes,3.5 oz,3.99,3.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085736000427
+832,0002800013317,['Baby'],Nestle,Nestle Nido Kinder 1+ Powdered Milk Beverage,3.52 lb,20.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800013317
+833,0008819434060,"['Dairy', 'Natural & Organic']",Brown Cow,Brown Cow Cream Top Plain Whole Milk Yogurt,2 lb,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008819434060
+834,0007447101504,['Beverages'],Cafe Bustelo,Cafe Bustelo Cafe Con Dulce de Leche Caramel Espresso Drink with Milk,8 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007447101504
+835,0008819434061,"['Dairy', 'Natural & Organic']",Brown Cow,Brown Cow Cream Top Vanilla Whole Milk Yogurt,2 lb,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008819434061
+836,0063748006411,['Health'],Atkins,Atkins Plus Protein & Fiber Creamy Milk Chocolate Shake,4 bottles / 11 fl oz,7.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0063748006411
+837,0005000060930,['Breakfast'],Carnation Breakfast Essentials,Carnation Breakfast Essentials Rich Milk Chocolate Nutritional Drink Mix,22 ct / 1.26 oz,10.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000060930
+838,0074759940822,['Candy'],Ghirardelli,Ghirardelli Valentine Milk Chocolate Caramel Duet Hearts,6 oz,6.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074759940822
+839,0004589310561,"['Beauty', 'Personal Care']",Caress,Caress Tahitian Pomegranate & Coconut Milk Exfoliating Body Wash,18 fl oz,4.29,3.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004589310561
+840,0005800014037,['Cleaning Products'],Palmolive,Palmolive Ultra Soft Touch Almond Milk & Blueberry Scent Dish Liquid,20 fl oz,2.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005800014037
+841,0005000060664,['Breakfast'],Carnation Breakfast Essentials,Carnation Breakfast Essentials High Protein Rich Milk Chocolate Breakfast Drink,8 ct / 1.31 oz,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000060664
+842,0001111061070,['Beverages'],Kroger,Kroger® Naturally Flavored Chocolate Milk Mix,30 oz,4.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111061070
+843,0005000060012,['Beverages'],Carnation,Carnation Original Malted Milk Mix,13 oz,4.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000060012
+844,0074447300030,"['Natural & Organic', 'Frozen']",SO Delicious,SO Delicious Dipped Salted Caramel Cashew Milk Non-Dairy Frozen Dessert Bars 4 Count,9.2 fl oz,6.49,5.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447300030
+845,0000954203189,['Candy'],Lindt,Lindt LINDOR Fudge Swirl Milk Chocolate Truffles,5.1 oz,4.59,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954203189
+846,0007007467563,['Baby'],Similac,Similac Pro-Advance HMO Milk-Based Ready to Feed Infant Formula 12 Bottles,12 bottles / 2 fl oz,12.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007467563
+847,0002800051191,['Baking Goods'],Nestle Toll House,Nestle Toll House Milk Chocolate Morsels,34.5 oz,10.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800051191
+848,0087251300177,['Candy'],Nestle,Nestle Aero Milk Chocolate Bar,1.4 oz,1.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087251300177
+849,0000954242788,['Candy'],Lindt,Lindt Dulce De Leche Milk Chocolate Truffles,5.1 oz,4.59,4.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954242788
+850,0008819434062,"['Dairy', 'Natural & Organic']",Brown Cow,Brown Cow Cream Top Maple Whole Milk Yogurt,2 lb,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008819434062
+851,0007447101502,['Beverages'],Cafe Bustelo,Cafe Bustelo Cafe Con Leche Espresso Drink with Milk,8 fl oz,1.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007447101502
+852,0002279691005,"['Personal Care', 'Beauty']",OGX,OGX Nourishing Coconut Milk Shampoo,13 fl oz,6.49,6.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002279691005
+853,0004126038121,['Baby'],Comforts,Comforts™ Advantage Milk-Based Infant Formula Powder With Iron,35 oz,20.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038121
+854,0074447347011,"['Natural & Organic', 'Frozen']",SO Delicious,SO Delicious Dairy Free Coconut Milk Vanilla Bean Frozen Dessert,1 pt,4.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0074447347011
+855,0002279691006,"['Beauty', 'Personal Care']",OGX,OGX Nourishing Coconut Milk Conditioner,13 fl oz,6.49,6.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002279691006
+856,0007756700162,['Frozen'],Magnum,Magnum Milk Chocolate Mocha Ice Cream,14.8 fl oz,4.99,4.59,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007756700162
+857,0005000016820,['Pet Care'],Fancy Feast,Fancy Feast Creamy Delights Chicken Pate With Real Milk Wet Cat Food,3 oz,0.7,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000016820
+858,0070865600153,"['Candy', 'Natural & Organic']",Green & Black's,Green & Black's Organic Almond Milk Chocolate Bar,3.17 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0070865600153
+859,0004126038124,['Baby'],Comforts,Comforts™ Gentle Milk-Based Infant Formula Powder with Iron,33.2 oz,20.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038124
+860,0003701424231,['Candy'],Endangered Species,Endangered Species 48% Cocoa Milk Chocolate Bar,3 oz,2.79,2.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003701424231
+861,0003400021464,['Snacks'],Hershey's,Hershey's Milk Chocolate Dipped Bite Size Pretzels,8.5 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400021464
+862,0004126930707,['Candy'],Palmer,Palmer You're Jawsome Milk Chocolate with Crispy Rice,5 oz,3.29,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126930707
+863,0005000048722,['Baby'],Gerber,Gerber Good Start Comforting Probiotics Milk Based Infant Formula Powder,19.4 oz,25.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000048722
+864,0003400007761,['Candy'],Hershey's,Hershey Valentine's Miniatures Candy Assortment Milk Chocolate Heart Box,6.4 oz,5.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400007761
+865,0004126037975,['Candy'],Private Selection,Private Selection® Caramel & Milk Chocolate Enrobed Pretzels,4.2 oz,3.99,3.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126037975
+866,0004126001015,['Health'],Kroger,Kroger® Mint Flavor Milk of Magnesia,12 fl oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126001015
+867,0004126033242,"['Beauty', 'Personal Care']",Kroger,Kroger® Milk & Honey Bubble Bath,32 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126033242
+868,0003120002966,['Snacks'],Ocean Spray,Ocean Spray Craisins Milk Chocolate Covered Sweetened Dried Cranberries,5 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003120002966
+869,0031284335302,['Health'],Phillips,Phillips' Milk of Magnesia Original Liquid,12 fl oz,4.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0031284335302
+870,0002279691891,"['Beauty', 'Personal Care']",OGX,OGX Nourishing + Coconut Milk Shampoo,19.5 fl oz,6.49,6.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002279691891
+871,0004300008510,['Baking Goods'],Hershey's,Hershey's Milk Chocolate Instant Pudding and Pie Filling,3.95 oz,1.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004300008510
+872,0000954242689,['Candy'],Lindt,Lindt Classic Recipe 55% Cocoa Milk Chocolate Bar,4.1 oz,2.99,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954242689
+873,0004000052614,['Candy'],Dove Chocolate,Dove Promises Peanut Butter and Milk Chocolate Candy,7.61 oz,4.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000052614
+874,0007007467218,"['Natural & Organic', 'Baby']",PediaSure,PediaSure Organic Milk Chocolate Shakes,6 bottles / 8 fl oz,11.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007467218
+875,0007007467725,['Health'],Ensure,Ensure Max Protein Milk Chocolate Nutrition Shake,12 bottles / 11 fl oz,25.99,24.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007467725
+876,0004126930941,['Candy'],Palmer,Palmer Milk CHocolate Flavored Candy in Valentine Dog Box,3.5 oz,1.29,1.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126930941
+877,0003400099962,['Candy'],Reese's,Reese's Milk Chocolate Peanut Butter Hearts & Miniatures,25.2 oz,9.99,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400099962
+878,0001111089507,['Dairy'],Kroger,Kroger® Part Skim Milk Queso Panela Cheese,10 oz,2.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089507
+879,0003291700014,"['Beverages', 'Natural & Organic']",Traditional Medicinals,Traditional Medicinals Organic Mother's Milk Tea Bags 16 Count,0.99 oz,4.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003291700014
+880,0063748009968,['Beverages'],Atkins,Atkins Milk Chocolate Delight Protein-Rich Shake Value Pack,8 ct / 11 fl oz,12.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0063748009968
+881,0030087512208,['Baby'],Enfamil,Enfamil NeuroPro EnfaCare Infant Formula Milk-based Powder with Iron,12.8 oz,19.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087512208
+882,0002800033317,['Baby'],Nestle,Nestle Nido Kinder 1+ Powdered Milk Beverage,12.6 oz,5.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800033317
+883,0007007464297,"['Beverages', 'Health']",Ensure,Ensure Enlive Advanced Milk Chocolate Ready-to-Drink Nutrition Shake,4 bottles / 8 fl oz,9.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007464297
+884,0073525701324,"['International', 'Baking Goods']",D'Gari,D'Gari Vanilla Gelatin Dessert Milk Mix,4.2 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073525701324
+885,0007726006683,['Candy'],Russell Stover,Russell Stover Assorted Creams Milk & Dark Chocolate,9.4 oz,9.99,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726006683
+886,0000954242688,['Candy'],Lindt,Lindt Classic Recipe 45% Cocoa Milk Chocolate Bar,4.1 oz,2.99,2.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954242688
+887,0000954204352,['Candy'],Lindt,Lindt Les Grandes Milk Chocolate with Hazelnuts,5.3 oz,5.49,4.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954204352
+888,0003700097478,"['Beauty', 'Personal Care']",Olay,Olay Hydrating Clean Almond Milk Body Wash for Women,22 fl oz,6.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003700097478
+889,0001111089503,['Dairy'],Kroger,Kroger® Part Skim Milk Queso Cotija,10 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111089503
+890,0000834674061,['Health'],SlimFast,SlimFast Keto Ready to Drink Creamy Milk Chocolate Meal Replacement Shakes 4 Count,4 bottles / 11 fl oz,9.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000834674061
+891,0005849671226,['Pet Care'],Whiskas,Whiskas Cat Milk,3 ct / 6.75 fl oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005849671226
+892,0003400099982,['Candy'],Hershey's,Hershey's Miniatures Chocolate Candy Assortment Party Pack,35 oz,11.99,8.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400099982
+893,0019067900001,"['Beauty', 'Personal Care']",Herbal Essences,Herbal Essences bio:renew Coconut Milk Hydrating Shampoo,13.5 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0019067900001
+894,0085361000373,['Candy'],Cocomels,Cocomel Sea Salt Coconut Milk Caramels Bites,3.5 oz,4.99,4.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085361000373
+895,0079386653002,['Adult Beverage'],Left Hand Brewing Co.,Left Hand Brewing Co. Nitro Milk Stout,6 bottles / 12 fl oz,11.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0079386653002
+896,0073525701323,"['Baking Goods', 'International']",D'Gari,D'Gari Eggnog Gelatin Dessert Milk Mix,4.2 oz,0.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0073525701323
+897,0033160414032,['Health'],Nature Made,Nature Made Milk Thistle Capsules 140mg,50 ct,11.79,11.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0033160414032
+898,0003400040280,['Candy'],Hershey's,Hershey's Milk Chocolate Reese's Pieces Candy Bar,4.6 oz,1.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400040280
+899,0007431233491,['Health'],Nature's Bounty,Nature’s Bounty Milk Thistle Standardized Extract Capsules 175mg 100 Count,100 ct,16.79,16.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007431233491
+900,0019067900011,"['Beauty', 'Personal Care']",Herbal Essences,Herbal Essences bio:renew Coconut Milk Hydrating Conditioner,13.5 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0019067900011
+901,0081106801197,"['Beauty', 'Personal Care']",Dr Teal's,Dr Teal's Epsom Salt Soften & Nourish Soaking Solution With Milk & Honey,3 lb,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081106801197
+902,0085518800398,['Candy'],Justin's,Justin's Organic Mini Milk Chocolate Peanut Butter Cups,4.7 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085518800398
+903,0030087512127,['Baby'],Enfamil,Enfamil Milk-based Baby Formula with Iron Powder Can,29.4 oz,34.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087512127
+904,0005000026587,['Baby'],Gerber,Gerber Good Start Everyday Probiotics Milk Based Infant Formula,20 oz,25.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000026587
+905,0007726004414,['Candy'],Russell Stover,Russell Stover Assorted Milk & Dark Chocolates,4.6 oz,4.99,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726004414
+906,0007007467565,['Baby'],Similac,Similac Pro-Sensitive HMO Milk-Based Ready to Feed Infant Formula Bottles Value Pack,12 bottles / 2 fl oz,12.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007467565
+907,0003700074365,"['Personal Care', 'Beauty']",Olay,Olay Almond Milk Beauty Bars for Women,6 bars / 3.75 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003700074365
+908,0004000048908,['Candy'],Dove Chocolate,DOVE Valentines Day Milk Chocolate Truffles Heart Gift Box Valentine Candy Tin,3.04 oz,5.49,4.49,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000048908
+909,0004126038120,['Baby'],Comforts,Comforts™ Gentle Milk-Based Infant Formula Powder With Iron,21.5 oz,14.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038120
+910,0004000054326,['Candy'],Dove Chocolate,Dove Chocolate Almond Brittle Milk Chocolate Bar,3.3 oz,1.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004000054326
+911,0001111084159,['Snacks'],Kroger,Kroger® Mini Oatmeal Cookies with Real Milk Chocolate,6 ct / 0.92 oz,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111084159
+912,0005833602220,['Baking Goods'],Dr. Oetker,Dr. Oetker Milk Chocolate Mousse Mix,3.1 oz,2.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005833602220
+913,0001111073859,['Beverages'],Kroger,Kroger® Milk Chocolate Dutch Hot Cocoa Mix,28.8 oz,6.19,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111073859
+914,0007248899909,['Natural & Organic'],Torn & Glasser,Torn & Glasser Milk Chocolate Honeycomb,9 oz,5.99,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007248899909
+915,0001111003822,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Cultured Lowfat Plain Milk Kefir Bottle,32 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003822
+916,0007092005012,['Beverages'],Swiss Miss,Swiss Miss Milk Chocolate Hot Cocoa Mix with Lucky Charms Marshmallows,6 ct / 1.38 oz,2.0,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007092005012
+917,0085518600625,['Beverages'],Stumptown Coffee,Stumptown Coffee Roasters Homestead Blend Candied & Milk Chocolate Whole Bean Coffee,12 oz,14.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085518600625
+918,0001111003824,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth™ Cultured Lowfat Vanilla Milk Kefir Bottle,32 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111003824
+919,0858400403000,['Candy'],Sedita,Sedita Mila Crispy Milk Cream Filled Chocolate Coated Wafer,1.76 oz,1.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0858400403000
+920,0087449200080,['Candy'],Theo,Theo Organic Milk Chocolate Bar,3 oz,3.49,2.5,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087449200080
+921,0085361000345,['Candy'],Cocomels,Cocomels Sea Salt Coconut Milk Caramels,3.5 oz,4.99,4.69,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085361000345
+922,0001410004983,['Snacks'],Pepperidge Farm,Pepperidge Farm Farmhouse Thin & Crispy Milk Chocolate Chip Cookies,8 ct / 0.98 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001410004983
+923,0060265228360,"['Health', 'Natural & Organic']",KIND,KIND Milk Chocolate Almond Bars 6 Count,8.4 oz,7.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0060265228360
+924,0007214002618,"['Personal Care', 'Beauty']",Nivea,Nivea Coconut & Almond Milk Pampering Body Wash,20 fl oz,5.89,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007214002618
+925,0005215900013,"['Dairy', 'Natural & Organic']",Stonyfield Organic,Stonyfield Organic Strawberry Whole Milk Probiotic Yogurt,32 oz,3.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005215900013
+926,0085714100497,['Health'],Viactiv,Viactiv Milk Chocolate Calcium Soft Chews,60 ct,8.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085714100497
+927,0004126038118,['Baby'],Comforts,Comforts™ Sensitivity Milk-Based Infant Formula Powder With Iron,22.5 oz,14.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038118
+928,0004126038117,['Baby'],Comforts,Comforts™ Advantage Milk-Based Infant Formula Powder With Iron,23.2 oz,14.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038117
+929,0060308426024,"['Personal Care', 'Beauty']",Garnier Fructis,Garnier Fructis Style Anti-Humidity Smoothing Milk,5.1 fl oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0060308426024
+930,0019181735007,['Candy'],Treat Street,Treat Street Valentine's Day Hollow Milk Chocolate Beer Bottle,4.58 oz,6.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0019181735007
+931,0004126038122,['Baby'],Comforts,Comforts™ Infant Milk-Based Infant Formula Powder With Iron,35 oz,20.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038122
+932,0004126038288,['Baby'],Comforts,Comforts™ Toddler Beginnings Milk-Based Infant Formula Powder With Iron,20 oz,12.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038288
+933,0030087146741,['Baby'],Enfagrow,Enfagrow Premium Toddler Next Step Natural Milk Drink,24 oz,19.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087146741
+934,0030087512452,['Baby'],Enfamil,Enfamil NeuroPro Sensitive Infant Formula Milk-Based Powder with Iron,19.5 oz,28.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0030087512452
+935,0005929031212,"['International', 'Snacks']",McVitie's,Mcvitie's Digestives Milk Chocolate Flavored Coated Wheat Biscuits,10.5 oz,3.59,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005929031212
+936,0007724510996,['Candy'],Elite,Elite Milk Chocolate Bar,3 oz,2.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007724510996
+937,0003400013453,['Candy'],Hershey's,Hershey's Kisses Milk Chocolate with Almonds Candy,10 oz,3.79,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400013453
+938,0007726002208,['Candy'],Russell Stover,Russell Stover Milk Chocolate Assortment Heart Box,5.1 oz,5.49,4.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726002208
+939,0007726004400,['Candy'],Russell Stover,Russell Stover Assorted Milk & Dark Chocolates,9.4 oz,10.99,10.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726004400
+940,0005000049498,['Baby'],Gerber,Gerber Good Start Comforting Probiotics Milk Based Infant Powder Formula,30.6 oz,37.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000049498
+941,0007726004409,['Candy'],Russell Stover,Russell Stover Pecan Delights in Milk Chocolate,8.1 oz,10.99,10.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726004409
+942,0003400001743,['Candy'],Hershey's,Hershey's Pot of Gold Assorted Milk and Dark Chocolates,14 ct,5.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400001743
+943,0005000075654,['Health'],Carnation Breakfast Essentials,Carnation Breakfast Essentials High Protein Rich Milk Chocolate Nutritional Drink Mix Packets,10 ct / 1.31 oz,6.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005000075654
+944,0072474200861,"['Beauty', 'Personal Care']",Alba Botanica,Alba Coconut Milk Hair Conditioner,12 oz,8.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0072474200861
+945,0072474200855,"['Natural & Organic', 'Beauty', 'Personal Care']",Alba Botanica,Alba Coconut Milk Wash,12 fl oz,8.39,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0072474200855
+946,0085933600704,"['Beverages', 'Natural & Organic']",Wandering Bear,Wandering Bear Organic Vanilla Cold Brew Coffee With Coconut Milk,11 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085933600704
+947,0007007467518,['Baby'],Similac,Similac Pro-Sensitive 0-12 Month Human Milk Oligosaccharide Infant Formula,6 bottles / 8 fl oz,14.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007467518
+948,0085933600703,['Beverages'],Wandering Bear,Wandering Bear Organic Mocha Cold Brew Coffee With Coconut Milk,11 fl oz,3.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085933600703
+949,0005508600289,"['Beauty', 'Personal Care']",Love Beauty and Planet,Love Beauty and Planet Divine Definition Coconut Milk & White Jasmine Shampoo,13.5 fl oz,7.49,6.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005508600289
+950,0005508600290,['Personal Care'],Love Beauty and Planet,Love Beauty & Planet Divine Definition Coconut Milk & White Jasmine Conditioner,13.5 fl oz,7.49,6.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005508600290
+951,0007726009792,['Candy'],Russell Stover,Russell Stover Milk Chocolate Pecan Delights,5.4 oz,3.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726009792
+952,0003746601931,['Candy'],Lindt,Lindt LINDOR Milk Chocolate Bar,3.5 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003746601931
+953,0003400044467,['Candy'],Hershey's,Hershey's Sweet Exchange Milk Chocolate Kisses Candy,4 ct / 1.45 oz,5.99,5.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400044467
+954,0076430229024,"['Beauty', 'Personal Care']",Shea Moisture,Shea Moisture Coconut & Hibiscus Curl & Style Milk,8 fl oz,10.49,7.87,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0076430229024
+955,0071627000132,['Candy'],Chocolove,Chocolove Hazelnuts in Milk Chocolate Bar,3.2 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0071627000132
+956,0083299201004,['Health'],EOS,EOS Visibly Soft Coconut Milk Lip Balm Sphere,1 ct,2.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0083299201004
+957,0000834674001,['Health'],SlimFast,SlimFast Original Creamy Milk Chocolate Ready To Drink Meal Replacement Shakes,4 bottles / 11 fl oz,6.49,3.24,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000834674001
+958,0004126037162,['Baby'],Comforts,Comforts™ Breast Milk Storage Bags,50 ct,8.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126037162
+959,0007726009796,['Candy'],Russell Stover,Russell Stover Milk Chocolate Pecan Delights Gusset Bag,16.1 oz,9.99,6.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726009796
+960,0004126038119,['Baby'],Comforts,Comforts™ Infant Milk-Based Infant Formula Powder With Iron,22.2 oz,14.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126038119
+961,0007116970009,['Baking Goods'],Betty Crocker,Betty Crocker Milk Chocolate Cookie Icing,7 oz,3.59,2.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007116970009
+962,0000954242503,['Candy'],Lindt,Lindt LINDOR Valentine Milk Chocolate Truffles,15.2 oz,10.99,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0000954242503
+963,0005280067300,"['Personal Care', 'Beauty']",Aveeno,Aveeno Oat Milk Blend Shampoo,12 fl oz,8.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005280067300
+964,0003400001971,['Candy'],Hershey's,Hershey's Pot of Gold Premium Collection Assorted Milk & Dark Chocolates Box,8.9 oz,8.99,8.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003400001971
+965,0001111091317,['Health'],Simple Truth,Simple Truth® Milk Thistle Capsules 350mg 60 Count,60 ct,8.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001111091317
+966,0007726004402,['Candy'],Russell Stover,Russell Stover Milk Chocolate Candy Assortment,9.4 oz,10.99,10.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726004402
+967,0007674007017,['Candy'],Whitman's,Whitman's Sampler Milk Chocolate Boxed Chocolate,12 oz,10.99,10.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007674007017
+968,0081106801036,"['Beauty', 'Personal Care']",Dr Teal's,Dr Teal's Soften & Nourish Foaming Milk Bath,34 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0081106801036
+969,0007726004427,['Candy'],Russell Stover,Russell Stover Happy Birthday Assorted Milk & Dark Chocolates,4.6 oz,4.99,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726004427
+970,0005280067301,"['Personal Care', 'Beauty']",Aveeno,Aveeno Scalp Soothing Oat Milk Blend Conditioner,12 fl oz,8.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005280067301
+971,0002279691092,['Beauty'],OGX,OGX Nourishing + Coconut Milk Conditioner,25.4 fl oz,10.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002279691092
+972,0008087819089,['Beauty'],Pantene,Pantene Paraben Free Mist Behaving Dry Conditioner Mist with Coconut Milk & Jojoba Oil,3.9 oz,7.49,6.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0008087819089
+973,0007726002219,['Candy'],Russell Stover,Russell Stover Pecan Delights Caramel & Pecans in Milk Chocolate Satin Heart Box,7.2 oz,10.99,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726002219
+974,0018467800001,"['Natural & Organic', 'Frozen']",Laloo's,Laloo's Vanilla Snowflake Goat's Milk Ice Cream,1 pt,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018467800001
+975,0692110122808,['International'],Larbee,Larbee Snowflake Original Soy-milk Crisp,2.54 oz,1.69,1.57,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0692110122808
+976,0002800004425,['Baking Goods'],Nestle Toll House,Nestle Toll House Milk Chocolate Chips Bag,23 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800004425
+977,0004126033085,['Baby'],Simple Truth Organic,Simple Truth Organic™ Milk-Based Infant Formula Powder with Iron,34 oz,26.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126033085
+978,0085122000319,['Natural & Organic'],Chameleon Cold-Brew,Chameleon Organic Dark Chocolate Oat Milk Cold-Brew Latte,8 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085122000319
+979,0003367462400,['Health'],Nature's Way,Nature's Way Milk Thistle Capsules,60 ct,16.99,11.04,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0003367462400
+980,0002279691091,['Personal Care'],OGX,OGX Nourishing + Coconut Milk Shampoo,25.4 fl oz,10.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002279691091
+981,0087449200322,['Natural & Organic'],Theo,Theo Organic Milk Chocolate Peanut Butter Cups,1.3 oz,2.99,1.79,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0087449200322
+982,0007726009023,['Candy'],Russell Stover,Russell Stover Milk Chocolate Toffee Squares Mini Gusset Bag,6 oz,3.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726009023
+983,0007726002215,['Candy'],Russell Stover,Russell Stover Floral Heart Milk Chocolate Valentines's Candy Box,10 oz,10.99,9.99,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726002215
+984,0079285025999,"['Personal Care', 'Natural & Organic']",Burt's Bees,Burt's Bees Almond Milk Hand Cream,2 oz,10.49,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0079285025999
+985,0007726004425,['Candy'],Russell Stover,Russell Stover Thank You Assorted Milk & Dark Chocolates,4.6 oz,4.99,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726004425
+986,0007007467766,['Baby'],Similac,Similac Organic with A2 Milk Powder Infant Formula with Iron,23.2 oz,29.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007007467766
+987,0001182618101,['Deli'],Vermont Creamery,Vermont Creamery Double Cream Aged Goat & Cow Milk Cremont,5 oz,8.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001182618101
+988,0001349511351,"['International', 'Candy']",Klik,Klik Milk Chocolate Coated Corn Puffs,2.64 oz,4.69,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0001349511351
+989,0007726009790,['Candy'],Russell Stover,Russell Stover Milk Chocolate Caramel Mini Gusset Bag,6 oz,3.49,3.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0007726009790
+990,0002800093487,['Beverages'],Nestle,Nestle Nido Kinder Lacto-Ease Powdered Milk Beverage,1.76 lb,13.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002800093487
+991,0018467800032,['Natural & Organic'],Laloo's,LaLoo's Reduced Fat Capraccino Almond Fudge Goat Milk Ice Cream,16 fl oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0018467800032
+992,0085122000355,"['Beverages', 'Natural & Organic']",Chameleon Cold-Brew,Chameleon Cold-Brew Organic Whole Milk Canned Latte Coffee,8 fl oz,3.29,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0085122000355
+993,0066320421025,"['Natural & Organic', 'Personal Care', 'Beauty']",Zum,Zum Patchouli Goat's Milk Bar Soap,3 oz,5.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0066320421025
+994,0005025521400,['Snacks'],Ritter Sport,Ritter Sport Milk Chocolate with Butter Biscuit,3.5 oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0005025521400
+995,0004126037569,['Baby'],Simple Truth Organic,Simple Truth Organic™ Infant Formula Milk-Based Powder with Iron,23.2 oz,19.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0004126037569
+996,0002279691008,"['Beauty', 'Personal Care']",OGX,OGX Nourishing Coconut Milk Anti-Breakage Serum,4 fl oz,,,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0002279691008
+997,0082064522612,"['Beauty', 'Personal Care']",Carol's Daughter,Carol's Daughter Hair Milk Nourishing & Conditioning Refresher Spray,10 fl oz,12.49,9.37,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0082064522612
+998,0079285000664,['Personal Care'],Burt's Bees,Burt's Bees Milk and Honey Body Lotion,12 fl oz,9.99,0.0,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0079285000664
+999,0082064522611,"['Personal Care', 'Beauty']",Carol's Daughter,Carol's Daughter Hair Milk Nourishing & Conditioning Leave-In Moisturizer,8 fl oz,12.49,9.37,02/08/2021,03400312,https://www.kroger.com/product/images/xlarge/front/0082064522611
