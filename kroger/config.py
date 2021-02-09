@@ -1,0 +1,2 @@
+consumer_key = 'milksearch-ba78e19b36b4f731c2d1a66016871341614228242579281082'
+consumer_secret = 'IBlpWWsAoiz81aifrqDSDGrXFurl1TCu89WixN8z'
