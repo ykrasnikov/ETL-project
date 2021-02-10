@@ -1,0 +1,261 @@
+name,id,types,type
+0, Organics Whole Milk,931316,"['whole', 'organic']",whole
+1, Organics Reduced Fat 2% Milkfat Milk,931317,"['fat', 'organic']",fat
+2, Select Ingredients MooTopia Lactose Free 2% Reduced Fat Milk,671076,"['lactose', 'fat']",lactose
+3, Select Ingredients Fat Free Milk,314136,['fat'],fat
+4, Select Ingredients 1% Low Fat Milk,314134,['fat'],fat
+5, Select Ingredients MooTopia Lactose Free Fat Free Milk,671075,"['lactose', 'fat']",lactose
+6, MooTopia Lactose Free Chocolate 2% Reduced Fat Milk,730555,"['chocolate', 'lactose', 'fat']",chocolate
+7, Organics 2% Reduced Fat Milk,1770593,"['fat', 'organic']",fat
+8, Select Ingredients Low Fat 1% Milk,314129,['fat'],fat
+9, Select Ingredients Reduced Fat 2% Milk,481244,['fat'],fat
+10, Select Ingredients Lactose Free Whole Milk,629468,"['lactose', 'whole']",lactose
+11, Select Ingredients Lactose Free Reduced Fat 2% Milk,1280425,"['lactose', 'fat']",lactose
+12, Original Oat Milk,4557001,['oat'],oat
+13, Whole Milk,679566,['whole'],whole
+14, 2% Reduced Fat Milk,679567,['fat'],fat
+15, Select Ingredients Fat Free Milk,314132,['fat'],fat
+16, Organics Fat Free Milk,931319,"['fat', 'organic']",fat
+17, Organics Low Fat 1% Milk,931318,"['fat', 'organic']",fat
+18, Fat Free Milk,946516,['fat'],fat
+19, Select Ingredients MooTopia Lactose Free Whole Milk,3135005,"['lactose', 'whole']",lactose
+20, MooTopia Lactose Free Vanilla 2% Reduced Fat Milk,1640462,"['lactose', 'fat']",lactose
+21, Select Ingredients Fat Free Milk,658772,['fat'],fat
+22, Select Ingredients Reduced Fat 2% Milk,658771,['fat'],fat
+23, Chocolate 1% Low Fat Milk,500450,"['chocolate', 'fat']",chocolate
+24, Select Ingredients Whole Milk,500453,['whole'],whole
+25, Chocolate Milk,325152,['chocolate'],chocolate
+26, Organics Lactose Free Fat Free Milk,2297031,"['lactose', 'fat', 'organic']",lactose
+27, Select Ingredients Whole Milk,519750,['whole'],whole
+28, 2% Reduced Fat Milk,946513,['fat'],fat
+29, Unsweet Original Almond Milk,1741532,['almond'],almond
+30, Original Almond Milk,1435589,['almond'],almond
+31, Chocolate Almond Milk,1435585,"['almond', 'chocolate']",almond
+32, Vanilla Almond Milk,1435590,['almond'],almond
+33, Almond Breeze Unsweetened Original Almond Milk,967248,['almond'],almond
+34, Organic Unsweetened Original Almond Milk,2707506,"['almond', 'organic']",almond
+35, Almond Breeze Unsweetened Vanilla Non-dairy Beverage,967250,['almond'],almond
+36, Organic Unsweetened Vanilla Almond Milk,2707517,"['almond', 'organic']",almond
+37, 2% Reduced Fat Milk,540142,['fat'],fat
+38, Unsweetened Vanilla Almond Milk,1435591,['almond'],almond
+39, DHA Omega-3 2% Reduced Fat Milk,2115731,['fat'],fat
+40, Organics Lactose Free 2% Reduced Fat Milk,2297036,"['lactose', 'fat', 'organic']",lactose
+41, Whole Milk,1953832,['whole'],whole
+42, 2% Reduced Fat Milk,1838031,['fat'],fat
+43, 2% Chocolate Reduced Fat Milk,1838035,"['chocolate', 'fat']",chocolate
+44, The Original Oat Milk,2242160,['oat'],oat
+45, Whole Milk,540143,['whole'],whole
+46, Select Ingredients MooTopia Lactose Free Whole Milk,671079,"['lactose', 'whole']",lactose
+47, MooTopia Lactose Free Chocolate Reduced Fat 2% Milk,1541677,"['chocolate', 'lactose', 'fat']",chocolate
+48, Low Fat Cultured 1% Milkfat Buttermilk,658775,['fat'],fat
+49, Low Fat Cultured 1% Milkfat Buttermilk,314075,['fat'],fat
+50, Select Ingredients Reduced Fat 2% Milk,658770,['fat'],fat
+51, Original Unsweetened Dairy Free Pea Milk,2123740,['other'],other
+52, Dairy Free Original Pea Milk,2192750,['other'],other
+53, Unsweetened Cashew Milk,1838495,['other'],other
+54, Select Ingredients 1% Lowfat Milk,1786905,['fat'],fat
+55, Select Ingredients Reduced Fat 2% Milk,314125,['fat'],fat
+56, Select Ingredients Whole Milk,314130,['whole'],whole
+57, Select Ingredients Whole Milk,314135,['whole'],whole
+58, Organics 2% Reduced Fat Milk,690987,"['fat', 'organic']",fat
+59, Organics Whole Milk,690986,"['whole', 'organic']",whole
+60, Select Ingredients Lactose Free 2% Reduced Fat Milk,629469,"['lactose', 'fat']",lactose
+61, Chocolate Low Fat 1% Milk,1044902,"['chocolate', 'fat']",chocolate
+62, Whole Milk,1720548,['whole'],whole
+63, 100% Lactose Free 2% Reduced Fat Milk,1135298,"['lactose', 'fat']",lactose
+64, Organics 1% Low Fat Milk,690988,"['fat', 'organic']",fat
+65, Organics Fat Free Milk,690989,"['fat', 'organic']",fat
+66, Chocolate Milk,325151,['chocolate'],chocolate
+67, Whole Milk,1352535,['whole'],whole
+68, Midnight Chocolate Whole Milk,908699,"['chocolate', 'whole']",chocolate
+69, DHA Omega-3 Whole Milk,1049911,['whole'],whole
+70, Select Ingredients Lactose Free 1% Low Fat Milk,1280424,"['lactose', 'fat']",lactose
+71, Whole Milk,1720526,['whole'],whole
+72, Whole Milk,1838036,['whole'],whole
+73, Dutch Chocolate Milk,1720550,['chocolate'],chocolate
+74, Fat Free Milk,1838033,['fat'],fat
+75, 100% Lactose Free Calcium Enriched 2% Reduced Fat Milk,477005,"['lactose', 'fat']",lactose
+76, 2% Reduced Fat Milk Plus DHA Omega-3,1049912,['fat'],fat
+77, Dutch Chocolate Milk,1721056,['chocolate'],chocolate
+78, Original Protein Nut Milk,2060976,['protein'],protein
+79, Coconut Milk,128871,['other'],other
+80, Premium Coconut Milk,1187205,['other'],other
+81, Midnight Chocolate Whole Milk,1047699,"['chocolate', 'whole']",chocolate
+82, Chocolate 1% Low Fat Milk,513984,"['chocolate', 'fat']",chocolate
+83, Select Ingredients Lactose Free Fat Free Milk,629652,"['lactose', 'fat']",lactose
+84, Unsweetened Coconut Milk,1754969,['other'],other
+85, Unsweetened Almond Coconut Blend,1739255,['almond'],almond
+86, Select Ingredients Fat Free Milk,519749,['fat'],fat
+87, Chocolate Protein Nut Milk,2164776,"['chocolate', 'protein']",chocolate
+88, Organics Lactose Free Whole Milk,2297034,"['lactose', 'whole', 'organic']",lactose
+89, Strawberry Whole Milk,1569233,['whole'],whole
+90, Low Fat Strawberry Milk,314164,['fat'],fat
+91, Organic Unsweetened Coconut Milk,740626,['organic'],organic
+92, Dairy Free Unsweetened Coconut Milk ,1283229,['other'],other
+93, MooTopia Lactose Free Chocolate 2% Reduced Fat Milk,1662814,"['chocolate', 'lactose', 'fat']",chocolate
+94, Original Coconut Milk,1445370,['other'],other
+95, Select Ingredients Lactose Free Fat Free Milk,1280423,"['lactose', 'fat']",lactose
+96, Unsweetened Coconut Milk,159901,['other'],other
+97, Low Fat Chocolate Milk,314162,"['chocolate', 'fat']",chocolate
+98, Fat Free Milk,1135297,['fat'],fat
+99, Chocolate Drink,173911,['chocolate'],chocolate
+100, Very Berry Strawberry Whole Milk,2460516,['whole'],whole
+101, Goat Milk,1414619,['oat'],oat
+102, 2% Reduced Fat Milk,2297541,['fat'],fat
+103, Midnight Chocolate 2% Reduced Fat Milk,2403009,"['chocolate', 'fat']",chocolate
+104, Dairy Free Unsweetened Vanilla Coconut Milk Beverage,1636349,['other'],other
+105, Midnight Chocolate 2% Reduced Fat Milk,1047700,"['chocolate', 'fat']",chocolate
+106, 1% Lowfat Milk,946514,['fat'],fat
+107, Lactose Free 2% Reduced Fat Milk,1140679,"['lactose', 'fat']",lactose
+108, Select Ingredients MooTopia Lactose Free Fat Free Milk,1541678,"['lactose', 'fat']",lactose
+109, Premium Lite Coconut Milk,1293445,['other'],other
+110, Plus Hi Protein 2% Milk,1720547,['protein'],protein
+111, Dairy Free Original Coconut Milk,1283228,['other'],other
+112, Whole Milk,364061,['whole'],whole
+113, DHA Omega-3 Chocolate 1% Lowfat Milk,714828,"['chocolate', 'fat']",chocolate
+114, Original Rice Drink,1354637,['other'],other
+115, Unsweetened + Protein Flax Milk,1734767,['protein'],protein
+116, Lactose Free Whole Milk,1943538,"['lactose', 'whole']",lactose
+117, Premium Organic Coconut Milk,2102590,['organic'],organic
+118, Chocolate Drink,1616041,['chocolate'],chocolate
+119, Dairy Free Chocolate Pea Milk,2123744,['chocolate'],chocolate
+120, Reduced Fat 2% Milk,1721039,['fat'],fat
+121, Rockin' Refuel Muscle Builder Chocolate Protein Milk Beverage,1583075,"['chocolate', 'protein']",chocolate
+122, Organic Lite Coconut Milk,740627,['organic'],organic
+123, Cream of Coconut,128870,['other'],other
+124, Select Ingredients Instant Nonfat Dry Milk,1935540,['fat'],fat
+125, Chocolate Low-Fat Milk,483298,"['chocolate', 'fat']",chocolate
+126, 2% Reduced Fat Milk,364062,['fat'],fat
+127, Chocolate Lowfat Milk,1130032,"['chocolate', 'fat']",chocolate
+128, Plus Hi Protein 2% Reduced Fat Milk,1721116,"['fat', 'protein']",fat
+129, Dairy Free Unsweetened Vanilla Pea Milk,2398057,['other'],other
+130, DHA Omega-3 Chocolate Lowfat Milk,2096166,"['chocolate', 'fat']",chocolate
+131, DHA Omega-3 Chocolate Lowfat Milk,1712919,"['chocolate', 'fat']",chocolate
+132, Reduced Fat Leche de Coco (Coconut Milk),1476933,['fat'],fat
+133, Lowfat Milk,2029250,['fat'],fat
+134, Almonds Breeze Vanilla Unsweetened Almond and Coconut Milk Blend,1556687,['almond'],almond
+135, Nesquik Chocolate Lowfat Milk,1121146,"['chocolate', 'fat']",chocolate
+136, Nesquik Low Fat Chocolate Milk,2113519,"['chocolate', 'fat']",chocolate
+137, Almonds Breeze Unsweetened Almond and Coconut  Milk Blend,1556684,['almond'],almond
+138, NIDO Kinder 1+ Powdered Milk Beverage,1290139,['powder'],powder
+139, Chocolate Drink Family Pack,1659624,['chocolate'],chocolate
+140, Mix 'N Drink Real Skim Milk,133248,['other'],other
+141, Vanilla Low-fat Milk,483296,['fat'],fat
+142, Vanilla Lowfat Milk,1637274,['fat'],fat
+143, Original Unsweetened Coconut Drink,1494790,['other'],other
+144, Carnation Original Malted Milk Mix,146848,['other'],other
+145, Select Ingredients Instant Non‑Fat Dry Milk,1935587,['fat'],fat
+146, Organic Reishi Chocolate Elixr,2140252,"['chocolate', 'organic']",chocolate
+147, Mix 'N Drink Instant Skim Milk,1918333,['other'],other
+148, DHA Omega-3 Vanilla Lowfat Milk,1712912,['fat'],fat
+149, NIDO Kinder 1+ Powdered Milk Beverage,1148619,['powder'],powder
+150, Chocolate 2% Reduced Fat Milk,2605577,"['chocolate', 'fat']",chocolate
+151, Coconut Cream,537562,['other'],other
+152, Carnation Chocolate Malted Milk Mix,146849,['chocolate'],chocolate
+153, Original Macadamia Milk,2077323,['other'],other
+154, Vanilla Coconut Drink,1494793,['other'],other
+155, Original Coconut Drink,1494792,['other'],other
+156, NIDO Pre-School 3+ Powdered Milk Beverage,1925564,['powder'],powder
+157, NIDO Fortificada Dry Whole Milk Powdered Drink Mix,1148618,"['whole', 'powder']",whole
+158, Oat Beverage Chocolate,2623046,"['oat', 'chocolate']",oat
+159, Coconut Milk Drink,1964546,['other'],other
+160, Almond Breeze Original Unsweetened Almond Milk,1417091,['almond'],almond
+161, Reduced Fat 2% Milk,3316025,['fat'],fat
+162, Almond Breeze Vanilla Unsweetened Almond Milk,1292296,['almond'],almond
+163, Extra Creamy Original Oat Milk,2912526,['oat'],oat
+164, Whole Milk,3316023,['whole'],whole
+165, Almond Breeze Vanilla Almond Milk,1292295,['almond'],almond
+166, Original Unsweetened Almond Milk,1428405,['almond'],almond
+167, Almond Breeze Original Almond Milk,1292293,['almond'],almond
+168, Vanilla Oat Milk,2912531,['oat'],oat
+169, Original Almond Milk,1360532,['almond'],almond
+170, Original Soy Milk,314196,['other'],other
+171, Unsweetened Vanilla Almond Milk,1518784,['almond'],almond
+172, Almond Unsweetened Original Almond Milk,2060869,['almond'],almond
+173, 1% Low Fat Milk,3316026,['fat'],fat
+174, Organics Unsweet Vanilla Almond Milk,1741526,"['almond', 'organic']",almond
+175, Almond Unsweetened Vanilla Almond Milk,2060871,['almond'],almond
+176, Organics Original Almond Milk,1741519,"['almond', 'organic']",almond
+177, Vanilla Almond Milk,1360533,['almond'],almond
+178, Organic Unsweetened Soy Milk,632482,['organic'],organic
+179, Organic Whole Milk with DHA,2595154,"['whole', 'organic']",whole
+180, Dark Chocolate Almond Milk,1407245,"['almond', 'chocolate']",almond
+181, Organics Unsweetened Original Almond Milk,3559135,"['almond', 'organic']",almond
+182, Almond Breeze Chocolate Almond Milk,2228926,"['almond', 'chocolate']",almond
+183, Unsweetened Pure Almond Milk,1894946,['almond'],almond
+184, Vanilla Soy Milk,314200,['other'],other
+185, Organics 2% Reduced Fat Milk with DHA,2595159,"['fat', 'organic']",fat
+186, Almond Unsweetened Original Milk,4029575,['almond'],almond
+187, Unsweetened Vanilla Pure Almond Milk,2119710,['almond'],almond
+188, Coconut Blend Almond Milk,1894945,['almond'],almond
+189, Unsweetened Vanilla Cashew Milk,1947864,['other'],other
+190, Unsweetened Oat Milk,3301520,['oat'],oat
+191, Organics Plain Soy Milk,1354723,['organic'],organic
+192, Light Vanilla Almond Milk,1669685,['almond'],almond
+193, Unsweetened Vanilla Almond Milk,3952022,['almond'],almond
+194, Light Original Almond Milk,1669683,['almond'],almond
+195, Low-Fat Oat Milk,2242163,"['oat', 'fat']",oat
+196, Almond Vanilla Milk,4029574,['almond'],almond
+197, Organics Chocolate Milk,2904573,"['chocolate', 'organic']",chocolate
+198, Low Fat Original Oat Milk,4557006,"['oat', 'fat']",oat
+199, Original Almond Milk,3952021,['almond'],almond
+200, Original Pure Almond Milk,1894881,['almond'],almond
+201, Vanilla Almond Milk,1894947,['almond'],almond
+202, Almond Breeze Unsweetened Almond Coconut Almond Milk,1519320,['almond'],almond
+203, Select Ingredients Lactose Free Chocolate Reduced Fat 2% Milk,2768019,"['chocolate', 'lactose', 'fat']",chocolate
+204, Nesquik Lowfat Chocolate Milk,4000022,"['chocolate', 'fat']",chocolate
+205, Unsweetened Vanilla Soy Milk,713993,['other'],other
+206, Unsweetened Walnut Milk,2194405,['other'],other
+207, Unsweetened Vanilla + Protein Flax Milk,2120356,['protein'],protein
+208, Nesquik Protein Power Chocolate Milk,2043587,"['chocolate', 'protein']",chocolate
+209, Almond Breeze Unsweetened Chocolate Almond Milk,967249,"['almond', 'chocolate']",almond
+210, Organics Vanilla Soy Milk,1354722,['organic'],organic
+211, Nesquik Strawberry Protein Power Milk Beverage,4771051,['protein'],protein
+212, Original Walnut Milk,2194408,['other'],other
+213, Organic Unsweetened Soy Milk,625801,['organic'],organic
+214, 1% Lowfat Milk,483294,['fat'],fat
+215, La Lechera Authentic Dulce de Leche Milk-Based Caramel,1269227,['other'],other
+216, Oat Plain Oat Milk,4756108,['oat'],oat
+217, Oat Zero Sugar Plain Oat Milk,4756104,['oat'],oat
+218, Vanilla Walnut Milk,2956044,['other'],other
+219, PureAlmond Vanilla Unsweetened Almond Milk,1584770,['almond'],almond
+220, Organic Vanilla Almond Milk,2707011,"['almond', 'organic']",almond
+221, Chocolate Dairy-Free Pea Milk,2414012,['chocolate'],chocolate
+222, Tempt Unsweetened Vanilla Hemp Milk,2624007,['other'],other
+223, Unsweetened Macadamia Milk,2077327,['other'],other
+224, Organic Turmeric Golden Milk Elixr,2140247,['organic'],organic
+225, Unsweetened Vanilla Macadamia Milk,2217959,['other'],other
+226, Original Dairy Free Milk,2414018,['other'],other
+227, Organic Coconut Milk Powder,3078726,"['organic', 'powder']",organic
+228, Sweetened Condensed Soy Milk,1835550,['other'],other
+229, Natural Original Soy Milk,565349,['other'],other
+230, Original Banana Milk,2024646,['other'],other
+231, Carnation Instant Nonfat Dry Milk,3947003,['fat'],fat
+232, Soy Milk,201456,['other'],other
+233, Low Fat Cultured 1% Milkfat Buttermilk,519748,['fat'],fat
+234, Grade A Table Cream,185673,['other'],other
+235, Coconut Cream,1865912,['other'],other
+236, La Lechera Dulce De Leche,98466,['other'],other
+237, Media Crema Lite Table Cream,1290152,['other'],other
+238, Rockin' Protein Builder Strawberry Shake,3038217,['protein'],protein
+239, Almond Breeze Original Non-dairy Beverage,132374,['almond'],almond
+240, Chocolate Soymilk,314198,['chocolate'],chocolate
+241, Almond Breeze Vanilla Non-dairy Beverage,132375,['almond'],almond
+242, Nutrition Chocolate Protein Shake,2787518,"['chocolate', 'protein']",chocolate
+243, Original Organic Rice Drink,215195,['organic'],organic
+244, Cultured Buttermilk Blend,133250,['other'],other
+245, Oat Beverage Original,2623050,['oat'],oat
+246, Organic Dark Chocolate Protein Elixir,2212166,"['chocolate', 'organic', 'protein']",chocolate
+247, Vanilla Rice Drink,215196,['other'],other
+248, Nutrition Vanilla Protein Shake,2787520,['protein'],protein
+249, Keto Mylk Unsweetened Original,4769521,['other'],other
+250, Kids Chocolate Carnival Protein Drink,3981539,"['chocolate', 'protein']",chocolate
+251, Oat Beverage Unsweetened,2623054,['oat'],oat
+252, Kids Vanilla Vacay Protein Drink,3981542,['protein'],protein
+253, Kids Fruity Fiesta Protein Drink,3981541,['protein'],protein
+254, 1% Low Fat Milk,314127,['fat'],fat
+255, Reduced Fat 2% Milk,314131,['fat'],fat
+256, Whole Milk,314124,['whole'],whole
+257, Fat Free Milk,314128,['fat'],fat
+258, Chocolate Milk,658779,['chocolate'],chocolate
+259, Chocolate Milk,314160,['chocolate'],chocolate
