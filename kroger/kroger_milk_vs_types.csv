@@ -1,0 +1,344 @@
+name,id,types,type
+0,Kroger® Vitamin D Whole Milk,1111040101,['whole'],whole
+1,Kroger® 2% Reduced Fat Milk,1111041600,['fat'],fat
+2,Kroger® 1% Lowfat Milk,1111041660,['fat'],fat
+3,Kroger® Vitamin D Whole Milk,1111040601,['whole'],whole
+4,Kroger® Fat Free Skim Milk,1111042315,['fat'],fat
+5,Simple Truth Organic® 2% Reduced Fat Milk,1111042852,"['fat', 'organic']",fat
+6,Kroger® 1% Lowfat Milk,1111041661,['fat'],fat
+7,Kroger® Fat Free Skim Milk,1111042305,['fat'],fat
+8,Kroger® 2% Reduced Fat Milk,1111050323,['fat'],fat
+9,Fairlife 2% Reduced Fat Ultra Filtered Lactose Free Milk,85631200277,"['lactose', 'fat']",lactose
+10,Simple Truth Organic® Whole Milk,1111042850,"['whole', 'organic']",whole
+11,Simple Truth Organic® 1% Low Fat Milk,1111042854,"['fat', 'organic']",fat
+12,Simple Truth Organic™ Whole Milk,1111042908,"['whole', 'organic']",whole
+13,A2 Ultra-Pasteurized Whole Milk,81326702000,['whole'],whole
+14,A2 Milk 2% Reduced Fat Milk,81326702007,['fat'],fat
+15,Springdale® Vitamin D Whole Milk,1111040121,['whole'],whole
+16,Springdale 2% Reduced Fat Milk,1111041720,['fat'],fat
+17,Kroger®  Vitamin D Whole Milk,1111050274,['whole'],whole
+18,Kroger® Vitamin D Whole Milk,1111050322,['whole'],whole
+19,Kroger 2% Reduced Fat Milk,1111050277,['fat'],fat
+20,Kroger® Lactose Free 2% Reduced Fat Milk,1111082556,"['lactose', 'fat']",lactose
+21,Fairlife Fat Free Ultra Filtered Lactose Free Milk,85631200275,"['lactose', 'fat']",lactose
+22,Nesquik Strawberry Lowfat Milk,2800051575,['fat'],fat
+23,Lactaid 100% Lactose Free 2% Reduced Fat Milk,4138309072,"['lactose', 'fat']",lactose
+24,Fairlife Chocolate 2% Reduced Fat Ultra-Filtered Lactose Free Milk,85631200279,"['chocolate', 'lactose', 'fat']",chocolate
+25,Kroger® Lactose Free Vitamin D Milk,1111085333,['lactose'],lactose
+26,Kroger® Lactose Free Calcium Enriched 2% Milk,1111081818,['lactose'],lactose
+27,Fairlife Whole Ultra-Filtered Lactose Free Milk,81162002016,"['lactose', 'whole']",lactose
+28,Lactaid Lactose Free 2% Reduced Fat Milk,4138309010,"['lactose', 'fat']",lactose
+29,Lactaid 100% Lactose Free Whole Milk,4138309036,"['lactose', 'whole']",lactose
+30,Lactaid 100% Lactose Free Whole Milk,4138309073,"['lactose', 'whole']",lactose
+31,Kroger® Lactose Free Calcium Enriched Fat Free Milk,1111085314,"['lactose', 'fat']",lactose
+32,Lactaid 100% Lactose Free 1% Low Fat Milk,4138309022,"['lactose', 'fat']",lactose
+33,Kroger® CARBmaster® Ultra Filtered Non-Fat Original Milk,1111008303,['fat'],fat
+34,Kroger® Lactose Free 1% Low Fat Milk,1111089282,"['lactose', 'fat']",lactose
+35,Springdale® 1% Lowfat Milk,1111041650,['fat'],fat
+36,Kroger® Fat Free Skim Milk,1111050325,['fat'],fat
+37,Kroger® 1% Lowfat Milk,1111050324,['fat'],fat
+38,Fairlife DHA Omega-3 Ultra-Filtered Whole Milk,81162002138,['whole'],whole
+39,Simple Truth Organic® Whole Milk,1111004989,"['whole', 'organic']",whole
+40,Springdale® Fat Free Skim Milk,1111042345,['fat'],fat
+41,Kroger® Lactose Free 1% Chocolate Milk,1111079809,"['chocolate', 'lactose']",chocolate
+42,Lactaid 100% Lactose Free Fat Free Milk,4138309070,"['lactose', 'fat']",lactose
+43,Kroger® Fat Free Skim Milk Bottle,1111050278,['fat'],fat
+44,Lactaid 100% Lactose Free Fat Free Milk,4138309043,"['lactose', 'fat']",lactose
+45,Maple Hill Organic 100% Grassfed Whole Milk,85508800546,"['whole', 'organic']",whole
+46,Simple Truth Organic® 100% Grass-Fed 2% Milk,1111004990,['organic'],organic
+47,Promised Land Dairy Very Berry Strawberry Whole Milk,76352800022,['whole'],whole
+48,Borden Whole Vitamin D Milk,81547301032,['whole'],whole
+49,Kroger®  .5% Low Fat Milk,1111042111,['fat'],fat
+50,Borden Whole Vitamin D Milk,81547301037,['whole'],whole
+51,Kroger® Fat Free Skim Milk,68692400160,['fat'],fat
+52,Kroger 1% Lowfat Milk,68692400076,['fat'],fat
+53,Kroger 2% Reduced Fat Milk,68692400071,['fat'],fat
+54,Kroger Vitamin D Whole Milk,68692400037,['whole'],whole
+55,Kroger 1% Low Fat Milk,68692400077,['fat'],fat
+56,Kroger Vitamin D Whole Milk,68692400005,['whole'],whole
+57,Kroger® Fat Free Skim Milk,68692400157,['fat'],fat
+58,Borden Whole Vitamin D Milk,81547301047,['whole'],whole
+59,Borden Whole Vitamin D Milk,81547301042,['whole'],whole
+60,Horizon Organic Whole Milk,3663207112,"['whole', 'organic']",whole
+61,Dairy Pure 2% Reduced Fat Milk,4190007986,['fat'],fat
+62,Horizon Organic Whole Milk,3663207127,"['whole', 'organic']",whole
+63,Springdale 1/2% Lowfat Milk,1111042051,['fat'],fat
+64,Borden 2% Reduced Fat Milk,81547301038,['fat'],fat
+65,Borden 2% Reduced Fat Milk,81547301033,['fat'],fat
+66,Borden 2% Reduced Fat Milk,81547301043,['fat'],fat
+67,Borden 2% Reduced Fat Milk,81547301048,['fat'],fat
+68,Promised Land Dairy Vitamin D Ultra-Pasteurized Whole Milk,76352800006,['whole'],whole
+69,Fairlife 2% Reduced Fat Ultra-Filtered Milk,81162002205,['fat'],fat
+70,Promised Land Dairy 2% Reduced Fat Milk,76352800020,['fat'],fat
+71,Good Moo'd 2% Reduced Fat Milk,81162002253,['fat'],fat
+72,Borden Hi-Protein 2% Reduced Fat Milk,81547301688,"['fat', 'protein']",fat
+73,Good Moo'd Whole Milk,81162002254,['whole'],whole
+74,Borden Hi-Protein 2% Reduced Fat Milk,81547301689,"['fat', 'protein']",fat
+75,LALA Vitamin D Whole Milk,88303800001,['whole'],whole
+76,Borden 1% Lowfat Milk,81547301044,['fat'],fat
+77,Borden Fat Free Skim Milk,81547301045,['fat'],fat
+78,Lala 2% Milk,88303800050,['other'],other
+79,Borden State Fair Banana Taffy Whole Milk,81547301719,['whole'],whole
+80,Sproud Plant Based Barista Milk,81003226002,['other'],other
+81,Better Than Milk Organic Unsweetened Oat Drink,4164807985,"['oat', 'organic']",oat
+82,Better Than Milk Organic Unsweetened Almond Drink,4164807988,"['almond', 'organic']",almond
+83,Better Than Milk Organic Unsweetened Rice Drink,4164807986,['organic'],organic
+84,Better Than Milk Organic Almond Drink,4164807984,"['almond', 'organic']",almond
+85,Better Than Milk Hazelnut Organic Rice Drink,4164807987,['organic'],organic
+86,Simple Truth Organic® Fat Free Milk,1111042856,"['fat', 'organic']",fat
+87,Simple Truth Organic™ 2% Reduced Fat Milk,1111042902,"['fat', 'organic']",fat
+88,Simple Truth Organic™ 2% Reduced Fat Milk with DHA Omega-3,1111042861,"['fat', 'organic']",fat
+89,Simple Truth Organic™ Whole Milk with DHA Omega-3,1111042858,"['whole', 'organic']",whole
+90,Horizon Organic Vitamin D Whole Milk,74236526445,"['whole', 'organic']",whole
+91,Simple Truth Organic® Lactose Free 2% Reduced Fat Milk,1111050438,"['lactose', 'fat', 'organic']",lactose
+92,Horizon Organic 2% Reduced Fat Milk,74236526425,"['fat', 'organic']",fat
+93,Simple Truth Organic® Lactose Free Whole Milk,1111050434,"['lactose', 'whole', 'organic']",lactose
+94,Horizon Organic DHA Omega-3 Whole Milk,74236526447,"['whole', 'organic']",whole
+95,Meyenberg Vitamin D Goat Milk,7290400003,['oat'],oat
+96,Horizon Organic DHA Omega-3 2% Reduced Fat Milk,74236526435,"['fat', 'organic']",fat
+97,Horizon Organic Grassfed Whole Vitamin D Milk,74236500707,"['whole', 'organic']",whole
+98,Horizon Organic Fat-Free Milk,74236526405,"['fat', 'organic']",fat
+99,Simple Truth Organic® Whole Chocolate Milk,1111050075,"['chocolate', 'whole', 'organic']",chocolate
+100,Horizon Organic Chocolate Lowfat Milk,74236520885,"['chocolate', 'fat', 'organic']",chocolate
+101,Horizon Organic Whole Milk,74236500675,"['whole', 'organic']",whole
+102,Horizon Organic Grassfed 2% Reduced Fat Milk,74236500708,"['fat', 'organic']",fat
+103,Simple Truth Organic® 1% Low Fat Chocolate Milk,1111042862,"['chocolate', 'fat', 'organic']",chocolate
+104,Simple Truth Organic® Fat Free Milk,1111042906,"['fat', 'organic']",fat
+105,Horizon Organic Lowfat Strawberry Milk,74236520865,"['fat', 'organic']",fat
+106,Horizon Organic 1% Chocolate Lowfat Milk 6 Count,74236500416,"['chocolate', 'fat', 'organic']",chocolate
+107,Horizon Organic 2% Reduced Fat Milk,74236500674,"['fat', 'organic']",fat
+108,Horizon Organic DHA Omega-3 1% Chocolate Lowfat Milk,74236526480,"['chocolate', 'fat', 'organic']",chocolate
+109,Horizon Organic DHA Omega-3 Lowfat Chocolate Milk,74236500432,"['chocolate', 'fat', 'organic']",chocolate
+110,Horizon Organic 1% Lowfat Milk,74236500420,"['fat', 'organic']",fat
+111,Horizon Organic Lowfat Chocolate Milk 12 Count,74236500270,"['chocolate', 'fat', 'organic']",chocolate
+112,Maple Hill Organic 100% Grassfed Reduced Fat Milk,85508800568,"['fat', 'organic']",fat
+113,Horizon Organic 1% Vanilla Lowfat Milk 6 Count,74236500417,"['fat', 'organic']",fat
+114,Horizon Organic Reduced Fat Strawberry Milk,74236500421,"['fat', 'organic']",fat
+115,Horizon Organic Lowfat Milk Boxes,74236500434,"['fat', 'organic']",fat
+116,Horizon Organic Whole Milk Cartons,3663207113,"['whole', 'organic']",whole
+117,Horizon Organic Lowfat Vanilla Milk 12 Count,74236500318,"['fat', 'organic']",fat
+118,Horizon Organic DHA Omega-3 Lowfat Vanilla Milk,74236500431,"['fat', 'organic']",fat
+119,Horizon Organic DHA Omega-3 Lowfat Chocolate Milk Boxes,74236500437,"['chocolate', 'fat', 'organic']",chocolate
+120,Silk Vanilla Almond Milk,2529300099,['almond'],almond
+121,Simple Truth® Almond Milk,1111089536,['almond'],almond
+122,Silk Unsweetened Cashew Milk,2529300275,['other'],other
+123,Blue Diamond Almond Breeze Unsweetened Almond Milk,4157005413,['almond'],almond
+124,Silk Unsweetened Almond & Coconut Milk Blend,2529300242,['almond'],almond
+125,Califia Farms Pure Toasted Coconut Almond Milk Blend,85290900342,['almond'],almond
+126,Silk Chocolate Protein Almond & Cashew Milk,2529300451,"['almond', 'chocolate', 'protein']",almond
+127,Silk Original Almond & Cashew Protein Milk,2529300380,"['almond', 'protein']",almond
+128,Silk Original Unsweetened Almond Milk,2529300377,['almond'],almond
+129,Silk Unsweetened Vanilla Almond Milk,2529300379,['almond'],almond
+130,Blue Diamond Almond Breeze Vanilla Unsweetened Almond Milk,4157005416,['almond'],almond
+131,Simple Truth® Unsweetened Coconut Milk,1111084185,['other'],other
+132,Blue Diamond Vanilla Almond Milk,4157006836,['almond'],almond
+133,Simple Truth Organic™ Unsweetened Almond Milk,1111081557,"['almond', 'organic']",almond
+134,Blue Diamond Almond Breeze Original Almond Milk,4157006827,['almond'],almond
+135,Ripple Original Unsweetened Plant-Based Milk,85564300604,['other'],other
+136,Ripple Original Dairy-Free Pea Milk,85564300605,['other'],other
+137,Blue Diamond Almond Breeze Chocolate Almond Milk,4157006837,"['almond', 'chocolate']",almond
+138,Simple Truth™ Unsweetened Vanilla Almond Milk,1111083449,['almond'],almond
+139,Simple Truth Organic™ Unsweetened Vanilla Almond Milk,1111081558,"['almond', 'organic']",almond
+140,Good Karma Unsweetened Flax Milk,82946200117,['other'],other
+141,Blue Diamond Vanilla Unsweetened Coconut Milk,4157008977,['other'],other
+142,WestSoy Organic Unsweetened Plain Soy Milk,7487396015,['organic'],organic
+143,Blue Diamond Organic Unsweetened Almond Coconut Milk,4157008976,"['almond', 'organic']",almond
+144,Silk Dark Chocolate Almond Milk,2529300272,"['almond', 'chocolate']",almond
+145,Pacific Hemp Original Milk Beverage,5260306600,['other'],other
+146,Silk Vanilla Almond Milk,2529300273,['almond'],almond
+147,Better Body Foods Oatsome Organic Original Oat Milk,85788200801,"['oat', 'organic']",oat
+148,Silk Unsweetened Vanilla Almond Milk,2529300169,['almond'],almond
+149,Silk Unsweet Almond Milk,2529300170,['almond'],almond
+150,Elmhurst Milked Unsweetened Almond Beverage,1894400102,['almond'],almond
+151,Living Harvest Unsweetened Original Hemp Milk,87538600040,['other'],other
+152,Pacific Unsweetened Almond Milk Beverage,5260306503,['almond'],almond
+153,Living Harvest Vanilla Hemp Milk,87538600032,['other'],other
+154,Living Harvest Tempt Unsweetened Vanilla Hemp Milk,87538600041,['other'],other
+155,Blue Diamond Almond Breeze Coconut Milk Blend,4157008974,['almond'],almond
+156,Califia Farms Unsweetened Almond Milk Creamer,81363602024,['almond'],almond
+157,Living Harvest Tempt Original Hemp Milk,87538600030,['other'],other
+158,Living Harvest Chocolate Hemp Milk,87538600031,['chocolate'],chocolate
+159,WestSoy Organic Original Soy Milk,7487396025,['organic'],organic
+160,Blue Diamond Almond Breeze Vanilla Unsweetened Milk,4157005791,['almond'],almond
+161,SO Delicious Original Coconut Milk,74447391231,['other'],other
+162,Orgain Organic Protein Unsweetened Vanilla Almond Milk,85177000364,"['almond', 'organic', 'protein']",almond
+163,West Soy Organic Plus Plain Soy Milk,7487396200,['organic'],organic
+164,Soy Dream Original Soy Milk,8425326020,['other'],other
+165,Califia Farms Barista Blend Almond Milk,85290900377,['almond'],almond
+166,WestSoy Unsweetened Vanilla Soy Milk,7487397083,['other'],other
+167,Native Forest Organic Unsweetened Coconut Milk Simple,4318200206,['organic'],organic
+168,Pacific Organic Almond Milk,5260306500,"['almond', 'organic']",almond
+169,Kroger® 1% Low Fat Chocolate Milk Jug,1111050573,"['chocolate', 'fat']",chocolate
+170,Kroger® 1% Lowfat Chocolate Milk,1111050574,"['chocolate', 'fat']",chocolate
+171,Nesquik Chocolate Flavored Low Fat Milk,2800077212,"['chocolate', 'fat']",chocolate
+172,Kroger® 1% Low Fat Chocolate Milk,1111050279,"['chocolate', 'fat']",chocolate
+173,Kroger® Grade A Chocolate Milk,1111043266,['chocolate'],chocolate
+174,Promised Land Dairy Midnight Chocolate Ultra-Pasteurized Whole Milk,76352800008,"['chocolate', 'whole']",chocolate
+175,Kroger® CARBmaster® Ultra Filtered Non-Fat Chocolate Milk,1111008300,"['chocolate', 'fat']",chocolate
+176,Promised Land Dairy 2% Reduced Fat Midnight Chocolate Milk,76352800017,"['chocolate', 'fat']",chocolate
+177,Borden Dutch Chocolate Whole Milk,81547301041,"['chocolate', 'whole']",chocolate
+178,Borden Dutch Chocolate Whole Milk,81547301051,"['chocolate', 'whole']",chocolate
+179,Nesquik Chocolate Low Fat Milk,2800073309,"['chocolate', 'fat']",chocolate
+180,Fairlife 2% Reduced Fat Ultra-Filtered Chocolate Milk,81162002206,"['chocolate', 'fat']",chocolate
+181,Borden Dutch Chocolate Whole Milk,81547301046,"['chocolate', 'whole']",chocolate
+182,Sproud Chocolate Flavor Plant-Based Milk,81003226003,['chocolate'],chocolate
+183,Milkadamia Unsweetened Macadamia Milk,85804500429,['other'],other
+184,Milkadamia Unsweetened Vanilla Macadamia Milk,85804500451,['other'],other
+185,Milkadamia Original Macadamia Milk,85804500428,['other'],other
+186,Thai Kitchen Unsweetened Coconut Milk,73762801150,['other'],other
+187,Chobani Oat Plain Extra Creamy Plant-Based Milk,81829001703,['oat'],oat
+188,Kroger® Premium Coconut Milk,1111090414,['other'],other
+189,Chobani Oat Plain Plant-Based Milk,81829001698,['oat'],oat
+190,Chaokoh Coconut Milk,4473801843,['other'],other
+191,Simple Truth™ Unsweetened Almond Milk,1111078505,['almond'],almond
+192,Silk Protein Almond & Cashew Unsweetened Vanilla Milk,3663207269,"['almond', 'protein']",almond
+193,Kroger® Lite Coconut Milk,1111090415,['other'],other
+194,Simply Vanilla Almond Milk,2500012008,['almond'],almond
+195,Goya Gluten Free Coconut Milk,4133102164,['other'],other
+196,Thai Kitchen Lite Coconut Milk,73762801160,['other'],other
+197,Simply Original Unsweetened Almond Milk,2500012006,['almond'],almond
+198,Simply Original Almond Milk,2500012004,['almond'],almond
+199,Silk Original Almond Milk,3663207614,['almond'],almond
+200,Simple Truth Chocolate Oat Milk,1111009223,"['oat', 'chocolate']",oat
+201,Silk Vanilla Almond Milk,3663207615,['almond'],almond
+202,Andre Prost Dairy Free Unsweetened  Coconut Milk,7065006025,['other'],other
+203,A Taste of Thai Coconut Milk,7065080012,['other'],other
+204,Laguna Coconut Milk Drink,63919250152,['other'],other
+205,Silk Original Soy Milk,2529360090,['other'],other
+207,Elmhurst Unsweetened Milked Cashews Beverage,1894400106,['other'],other
+208,Goya Light Coconut Milk,4133102165,['other'],other
+209,Mooala Organic Original Almond Milk,86452400010,"['almond', 'organic']",almond
+210,Thai Kitchen Organic Coconut Milk,73762801094,['organic'],organic
+211,Organic Edensoy Unsweetened Soy Milk,2418202506,['organic'],organic
+213,Califia Farms No Sugar Added Better Half Coconut Cream & Almond Milk Dairy Free Half-n-Half,81363602164,['almond'],almond
+214,Organic Edensoy Carob Soy Milk,2418202515,['organic'],organic
+215,Eden Foods  Organic EdenSoy® Extra Soy Milk   Vanilla,2418202545,['organic'],organic
+216,Thai Kitchen Unsweetened Coconut Milk,73762806050,['other'],other
+217,Sproud Unsweetened Plant-Based Milk,81003226007,['other'],other
+218,Califia Farms Unsweetened Dairy Free Almond Milk,81363602165,['almond'],almond
+219,Kroger® Cultured Whole Buttermilk,1111042712,['whole'],whole
+220,Kroger® Cultured Low Fat Buttermilk,1111042707,['fat'],fat
+221,Kroger® Cultured Lowfat Buttermilk,1111042705,['fat'],fat
+222,Kroger® Cultured Lowfat Buttermilk,1111042701,['fat'],fat
+224,Borden Country Store Bulgarian Cultured Whole Buttermilk,81547301402,['whole'],whole
+225,Borden Cultured 1% Lowfat Buttermilk,81547301218,['fat'],fat
+226,Borden Cultured 1% Lowfat Buttermilk,81547301213,['fat'],fat
+227,Califia Farms Vanilla Almond Milk Creamer,81363602044,['almond'],almond
+228,SO Delicious Dairy Free French Vanilla Coconut Milk Creamer,74447394124,['other'],other
+229,SO Delicious Dairy Free Original Coconut Milk Creamer,74447394120,['other'],other
+230,Califia Farms Dairy Free Better Half Unsweetened Coconut Cream & Almond Milk Creamer,81363602022,['almond'],almond
+231,Califia Farms Dairy Free Barista Blend Almond Milk Creamer,81363602090,['almond'],almond
+232,Coconut Cloud Dairy Free Vanilla Dried Coconut Milk Creamer,1996270343,['other'],other
+233,Coconut Cloud Original Coconut Milk Creamer,1996270333,['other'],other
+234,Califia Farms  Dairy Free Better Half Hazelnut Flavored Coconut Cream & Almond Milk,81363602084,['almond'],almond
+236,Mooala Organic Original Bananamilk,86452400013,['organic'],organic
+237,Silk Unsweetened Almondmilk,2529300149,['almond'],almond
+238,Silk Unsweet Vanilla Almondmilk,2529300136,['almond'],almond
+239,Almond Breeze Unsweetened Original Almondmilk,4157005670,['almond'],almond
+240,Silk Original Almondmilk,2529300098,['almond'],almond
+241,Almond Breeze Unsweetened Vanilla Almondmilk,4157005618,['almond'],almond
+242,Simple Truth™ Unsweetened Almondmilk,1111089569,['almond'],almond
+243,Blue Diamond Almond Breeze Original Almondmilk,4157005617,['almond'],almond
+244,Planet Oat Original Oatmilk,4410015618,['oat'],oat
+245,Silk Dark Chocolate Almondmilk,2529300119,"['almond', 'chocolate']",almond
+246,Silk Protein Original Soymilk,2529360039,['protein'],protein
+247,Simple Truth® Unsweetened Vanilla Almondmilk,1111089577,['almond'],almond
+248,Silk Organic Unsweetened Soymilk,2529360023,['organic'],organic
+249,Simple Truth Vanilla Almondmilk,1111089562,['almond'],almond
+250,Simple Truth Organic® Plain Soymilk,1111042950,['organic'],organic
+251,Simple Truth Organic™ Unsweetened Almondmilk,1111087980,"['almond', 'organic']",almond
+252,Almond Breeze Unsweetened Original Almondmilk,4157011019,['almond'],almond
+253,Silk Unsweet Coconutmilk,2529300228,['other'],other
+254,Simple Truth Coconutmilk,1111084597,['other'],other
+255,Planet Oat Vanilla Oatmilk,4410015621,['oat'],oat
+256,Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,4157011008,['almond'],almond
+257,Silk Protein Vanilla Soymilk,2529360027,['protein'],protein
+258,Almond Breeze Hint of Honey Vanilla Almondmilk,4157010993,['almond'],almond
+259,Califia Farms Pure Unsweetened Almondmilk,85290900330,['almond'],almond
+260,Silk Oat Yeah Plain Dairy-Free Oatmilk,3663207126,['oat'],oat
+261,Califia Farms Unsweetened Oatmilk,81363602188,['oat'],oat
+262,Simple Truth Organic™ Unsweetened Vanilla Almondmilk,1111087981,"['almond', 'organic']",almond
+263,Blue Diamond Almond Breeze Reduced Sugar Vanilla Almondmilk,4157010964,['almond'],almond
+264,Simple Truth® Chocolate Almondmilk,1111089578,"['almond', 'chocolate']",almond
+265,Silk Original Coconutmilk,2529300122,['other'],other
+266,Blue Diamond Almond Breeze Vanilla Almondmilk,4157005772,['almond'],almond
+267,Califia Farms Unsweetened Vanilla Almondmilk,85290900369,['almond'],almond
+268,Silk Oat Yeah Craveably Creamy Oatmilk,3663207459,['oat'],oat
+269,Blue Diamond Almond Breeze Unsweetened Original Almondmilk Coconutmilk Blend,4157009915,['almond'],almond
+270,Blue Diamond Almond Breeze Original Almondmilk,4157005770,['almond'],almond
+272,Blue Diamond Almond Breeze Almondmilk Blended with Real Bananas,4157050001,['almond'],almond
+273,Simple Truth Organic™ Unsweetened Soymilk,1111088806,['organic'],organic
+274,Almond Breeze Unsweetened Chocolate Almondmilk,4157005418,"['almond', 'chocolate']",almond
+279,Silk Very Vanilla Soymilk,2529300139,['other'],other
+281,Almond Breeze Original Unsweetened Almondmilk,4157005260,['almond'],almond
+282,Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,4157011097,['almond'],almond
+283,Silk Chocolate Soymilk,2529300137,['chocolate'],chocolate
+284,Blue Diamond Almond Breeze Chocolate Almondmilk,4157011095,"['almond', 'chocolate']",almond
+285,Silk Chocolate Soymilk 6 Count,2529300270,['chocolate'],chocolate
+300,Eden Soy Extra Organic Soymilk Original,2418202535,['organic'],organic
+304,Eden Foods  Organic EdenSoy® Soymilk Dairy Free   Original,2418202505,['organic'],organic
+305,Almond Breeze Unsweetened Vanilla Almondmilk Coconutmilk Blend,4157010991,['almond'],almond
+306,SO Delicious Dairy Free Organic Vanilla Coconutmilk,74447391234,['organic'],organic
+313,Planet Oat Extra Creamy Original Oatmilk,4410015619,['oat'],oat
+314,Simple Truth Original Oatmilk Non-Dairy Oat Beverage,1111003844,['oat'],oat
+316,Simple Truth Organic® Vanilla Soymilk,1111042952,['organic'],organic
+317,Simple Truth™ Original Oatmilk Non-Dairy Oat Beverage,1111003850,['oat'],oat
+323,Oatly Original Oatmilk,19064664101,['oat'],oat
+324,Silk Protein Unsweetened Organic Soymilk,2529360089,"['organic', 'protein']",organic
+325,Oatly Original Low Fat Oatmilk,19064664102,"['oat', 'fat']",oat
+326,Simple Truth™ Vanilla Probiotic Almondmilk,1111008234,['almond'],almond
+329,Mooala Organic Unsweetened Coconut Oatmilk,85539500704,"['oat', 'organic']",oat
+335,Califia Farms Oat Barista Blend Oatmilk,81363602161,['oat'],oat
+336,Califia Farms Unsweetened Vanilla Almondmilk,81363602233,['almond'],almond
+338,Eden Foods  Organic Edensoy Soymilk   Cocoa,2418202510,['organic'],organic
+364,Starbucks Almondmilk & Oatmilk Non-Dairy Caramel Macchiato Liquid Coffee Creamer,5000099334,"['almond', 'oat']",almond
+427,Califia Farms Better Half Vanilla Coconut Cream & Almondmilk,81363602083,['almond'],almond
+428,Califia Farms Better Half Original Coconut Cream & Almondmilk,81363602023,['almond'],almond
+440,Califia Farms Keto Unsweetened Vanilla Almondmilk & Coconut Creamer,81363602227,['almond'],almond
+441,Califia Farms Keto Unsweetened Almondmilk & Coconut Creamer,81363602226,['almond'],almond
+568,Kroger® Whole Milk Shredded Mozzarella Cheese,1111001798,['whole'],whole
+572,Cacique Ranchero Queso Fresco Part Skim Milk Cheese,7456200100,['other'],other
+579,Kroger®  Whole Milk Ricotta Cheese Tub,1111048888,['whole'],whole
+588,Kraft Singles 2% Milk Reduced Fat American Cheese Slices,2100002483,['fat'],fat
+589,Kroger® Whole Milk Ricotta Cheese,1111048987,['whole'],whole
+595,Silk Vanilla Almond Milk Yogurt Alternative,2529300397,['almond'],almond
+597,Galbani Whole Milk Ricotta Cheese,7403010300,['whole'],whole
+600,Sargento Off The Block Whole Milk Mozzarella Shredded Cheese,4610040010,['whole'],whole
+604,Stonyfield Organic Pear Spinach Mango Whole Milk Yogurt,5215970336,"['whole', 'organic']",whole
+606,Stonyfield Smooth & Creamy Whole Milk Plain Yogurt,5215900001,['whole'],whole
+609,Silk Strawberry Almond Milk Yogurt Alternative,2529300396,['almond'],almond
+615,SO Delicious Dairy-Free Coconut Milk Key Lime Yogurt Alternative,74447300046,['other'],other
+620,Stonyfield Organic Vanilla Whole Milk Probiotic Yogurt,5215900002,"['whole', 'organic']",whole
+623,Silk Dark Chocolate Coconut Almond Milk Yogurt Alternative,2529300399,"['almond', 'chocolate']",almond
+627,Stonyfield Organic Strawberry Beet Berry Whole Milk Yogurt,5215970107,"['whole', 'organic']",whole
+629,Kraft Sharp Cheddar Shredded Cheese Made with 2% Milk,2100005439,['other'],other
+633,Silk Peach Almond Milk Yogurt Alternative,2529300398,['almond'],almond
+650,Reddi Wip Non-Dairy Almond Milk Whipped Topping,7027249129,['almond'],almond
+656,Kroger® Whole Milk Plain Yogurt,1111050586,['whole'],whole
+663,Kroger® Plain Whole Milk Greek Yogurt,1111004587,['whole'],whole
+666,Kroger® Whole Milk Blended Vanilla Yogurt,1111050587,['whole'],whole
+677,Kraft Deli Deluxe 2% Milk American Cheese Slices,2100062566,['other'],other
+693,Good Culture Organic Whole Milk Cottage Cheese,85997700506,"['whole', 'organic']",whole
+696,Velveeta 2% Milk Cheese,2100061166,['other'],other
+700,Stonyfield Organic Kids Whole Milk Strawberry Banana Yogurt 6 Count,5215970119,"['whole', 'organic']",whole
+705,Stonyfield Organic YoBaby Apple & Blueberry Whole Milk Yogurt 6 Count,5215970115,"['whole', 'organic']",whole
+724,Kroger® Delight Original Moose Tracks Whole Milk Greek Yogurt,1111050444,['whole'],whole
+731,Stonyfield Organic YoBaby Peach & Pear Whole Milk Yogurt 6 Count,5215970116,"['whole', 'organic']",whole
+734,Lifeway Organic Mixed Berry Kefir Cultured Whole Milk,1707707432,"['whole', 'organic']",whole
+735,Kroger® Whole Milk Vanilla Greek Yogurt,1111004588,['whole'],whole
+748,Kroger® Natural Grated Queso Cotija Part Skim Milk Cheese,1111089511,['other'],other
+755,Lifeway Organic Plain Unsweetened Kefir Cultured Whole Milk,1707707232,"['whole', 'organic']",whole
+774,Kite Hill Strawberry Almond Milk Yogurt,85662400414,['almond'],almond
+775,Kite Hill Plain Unsweetened Almond Milk Yogurt,85662400436,['almond'],almond
+790,Kite Hill Blueberry Almond Milk Yogurt,85662400413,['almond'],almond
+791,Kite Hill Dairy Free Plain Almond Milk Cream Cheese Style Spread,85662400408,['almond'],almond
+819,Kite Hill Vanilla Almond Milk Yogurt,85662400437,['almond'],almond
+824,Simple Truth™ Strawberry Cultured Lowfat Milk Kefir,1111003823,['fat'],fat
+833,Brown Cow Cream Top Plain Whole Milk Yogurt,8819434060,['whole'],whole
+835,Brown Cow Cream Top Vanilla Whole Milk Yogurt,8819434061,['whole'],whole
+850,Brown Cow Cream Top Maple Whole Milk Yogurt,8819434062,['whole'],whole
+878,Kroger® Part Skim Milk Queso Panela Cheese,1111089507,['other'],other
+889,Kroger® Part Skim Milk Queso Cotija,1111089503,['other'],other
+915,Simple Truth™ Cultured Lowfat Plain Milk Kefir Bottle,1111003822,['fat'],fat
+918,Simple Truth™ Cultured Lowfat Vanilla Milk Kefir Bottle,1111003824,['fat'],fat
+925,Stonyfield Organic Strawberry Whole Milk Probiotic Yogurt,5215900013,"['whole', 'organic']",whole
