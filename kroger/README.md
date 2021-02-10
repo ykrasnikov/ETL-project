@@ -1,7 +1,7 @@
 ## ETL-project
 SmartMilk
 
-#Kroger Folder 
+### Kroger Folder 
 
 The Kroger folder contains all Kroger Milk Price and Location data used in our SmartMilk program
 
@@ -32,25 +32,25 @@ As we've opted not to include zipcode searching at this stage in our project, we
 
 For product and location APIs, we used pd.json_normalize to draw out and de-nest the JSON formatted results received. The dataframes were then converted to CSV format (df.to_csv) and saved to be used in our database.
 
-###Notebook File: Kroger_locations.ipynb
+### Notebook File: Kroger_locations.ipynb
 
-###Api authorization and run scripts to generate:
+#### Api authorization and run scripts to generate:
 
-JSON display within the file - ###milk_location
+JSON display within the file - milk_location
 
-Pandas Dataframe showing only required fields - ###df
+Pandas Dataframe showing only required fields - df
 
-CSV output of Pandas Dataframe - ###kroger_locations.csv
+CSV output of Pandas Dataframe - kroger_locations.csv
 
 
-###Notebook File: Kroger_milk_get_price.ipynb
+### Notebook File: Kroger_milk_get_price.ipynb
 
-###Content: Api authorization and run scripts to generate:
+#### Content: Api authorization and run scripts to generate:
 
-JSON display within the file - ###milk_price_list
+JSON display within the file - milk_price_list
 
-Pandas Dataframe showing only required fields - ###df
+Pandas Dataframe showing only required fields - df
 
-CSV output of Pandas Dataframe - ###kroger_milk_prices.csv
+CSV output of Pandas Dataframe - kroger_milk_prices.csv
 
 
