@@ -1,0 +1,344 @@
+productId,categories,brand,description,size,price.regular,price.promo,Date,Store_Id,image
+0,1111040101,['Dairy'],Kroger,Kroger® Vitamin D Whole Milk,1 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111040101
+1,1111041600,['Dairy'],Kroger,Kroger® 2% Reduced Fat Milk,1/2 gal,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041600
+2,1111041660,['Dairy'],Kroger,Kroger® 1% Lowfat Milk,1 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041660
+3,1111040601,['Dairy'],Kroger,Kroger® Vitamin D Whole Milk,1/2 gal,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111040601
+4,1111042315,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,1 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042315
+5,1111042852,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® 2% Reduced Fat Milk,0.5 gal,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042852
+6,1111041661,['Dairy'],Kroger,Kroger® 1% Lowfat Milk,1/2 gal,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041661
+7,1111042305,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,1/2 gal,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042305
+8,1111050323,['Dairy'],Kroger,Kroger® 2% Reduced Fat Milk,1 qt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050323
+9,85631200277,"['Natural & Organic', 'Dairy']",Fairlife,Fairlife 2% Reduced Fat Ultra Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085631200277
+10,1111042850,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Whole Milk,0.5 gal,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042850
+11,1111042854,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® 1% Low Fat Milk,0.5 gal,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042854
+12,1111042908,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic™ Whole Milk,1 gal,5.69,5.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042908
+13,81326702000,['Dairy'],A2 Milk,A2 Ultra-Pasteurized Whole Milk,59 fl oz,4.49,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081326702000
+14,81326702007,['Dairy'],A2 Milk,A2 Milk 2% Reduced Fat Milk,59 fl oz,4.49,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081326702007
+15,1111040121,['Dairy'],Springdale,Springdale® Vitamin D Whole Milk,1 gal,2.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111040121
+16,1111041720,['Dairy'],Springdale,Springdale 2% Reduced Fat Milk,1 gal,2.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041720
+17,1111050274,['Dairy'],Kroger,Kroger®  Vitamin D Whole Milk,1 pt,0.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050274
+18,1111050322,['Dairy'],Kroger,Kroger® Vitamin D Whole Milk,1 qt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050322
+19,1111050277,['Dairy'],Kroger,Kroger 2% Reduced Fat Milk,1 pt,0.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050277
+20,1111082556,['Dairy'],Kroger,Kroger® Lactose Free 2% Reduced Fat Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111082556
+21,85631200275,"['Dairy', 'Natural & Organic']",Fairlife,Fairlife Fat Free Ultra Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085631200275
+22,2800051575,['Dairy'],Nesquik,Nesquik Strawberry Lowfat Milk,14 fl oz,1.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002800051575
+23,4138309072,['Dairy'],Lactaid,Lactaid 100% Lactose Free 2% Reduced Fat Milk,96 fl oz,5.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309072
+24,85631200279,['Dairy'],Fairlife,Fairlife Chocolate 2% Reduced Fat Ultra-Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085631200279
+25,1111085333,['Dairy'],Kroger,Kroger® Lactose Free Vitamin D Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111085333
+26,1111081818,['Dairy'],Kroger,Kroger® Lactose Free Calcium Enriched 2% Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111081818
+27,81162002016,"['Natural & Organic', 'Dairy']",Fairlife,Fairlife Whole Ultra-Filtered Lactose Free Milk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002016
+28,4138309010,['Dairy'],Lactaid,Lactaid Lactose Free 2% Reduced Fat Milk,1/2 gal,4.29,3.59,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309010
+29,4138309036,['Dairy'],Lactaid,Lactaid 100% Lactose Free Whole Milk,1/2 gal,4.29,3.59,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309036
+30,4138309073,['Dairy'],Lactaid,Lactaid 100% Lactose Free Whole Milk,96 fl oz,5.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309073
+31,1111085314,['Dairy'],Kroger,Kroger® Lactose Free Calcium Enriched Fat Free Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111085314
+32,4138309022,['Dairy'],Lactaid,Lactaid 100% Lactose Free 1% Low Fat Milk,1/2 gal,4.29,3.59,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309022
+33,1111008303,['Dairy'],Kroger,Kroger® CARBmaster® Ultra Filtered Non-Fat Original Milk,59 fl oz,4.49,3.69,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008303
+34,1111089282,['Dairy'],Kroger,Kroger® Lactose Free 1% Low Fat Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089282
+35,1111041650,['Dairy'],Springdale,Springdale® 1% Lowfat Milk,1 gal,2.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111041650
+36,1111050325,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,1 qt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050325
+37,1111050324,['Dairy'],Kroger,Kroger® 1% Lowfat Milk,1 qt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050324
+38,81162002138,"['Natural & Organic', 'Dairy']",Fairlife,Fairlife DHA Omega-3 Ultra-Filtered Whole Milk,52 fl oz,4.59,4.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002138
+39,1111004989,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Whole Milk,1/2 gal,5.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004989
+40,1111042345,['Dairy'],Springdale,Springdale® Fat Free Skim Milk,1 gal,2.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042345
+41,1111079809,['Dairy'],Kroger,Kroger® Lactose Free 1% Chocolate Milk,0.5 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111079809
+42,4138309070,['Dairy'],Lactaid,Lactaid 100% Lactose Free Fat Free Milk,96 fl oz,5.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309070
+43,1111050278,['Dairy'],Kroger,Kroger® Fat Free Skim Milk Bottle,1 pt,0.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050278
+44,4138309043,['Dairy'],Lactaid,Lactaid 100% Lactose Free Fat Free Milk,1/2 gal,4.29,3.59,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004138309043
+45,85508800546,"['Dairy', 'Natural & Organic']",Maple Hill,Maple Hill Organic 100% Grassfed Whole Milk,1/2 gal,7.29,5.79,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085508800546
+46,1111004990,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® 100% Grass-Fed 2% Milk,64 fl oz,5.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004990
+47,76352800022,['Dairy'],Promised Land,Promised Land Dairy Very Berry Strawberry Whole Milk,28 fl oz,3.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800022
+48,81547301032,['Dairy'],Borden,Borden Whole Vitamin D Milk,1 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301032
+49,1111042111,['Dairy'],Kroger,Kroger®  .5% Low Fat Milk,1/2 gal,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042111
+50,81547301037,['Dairy'],Borden,Borden Whole Vitamin D Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301037
+51,68692400160,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400160
+52,68692400076,['Dairy'],Kroger,Kroger 1% Lowfat Milk,gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400076
+53,68692400071,['Dairy'],Kroger,Kroger 2% Reduced Fat Milk,half gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400071
+54,68692400037,['Dairy'],Kroger,Kroger Vitamin D Whole Milk,1/2 gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400037
+55,68692400077,['Dairy'],Kroger,Kroger 1% Low Fat Milk,half gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400077
+56,68692400005,['Dairy'],Kroger,Kroger Vitamin D Whole Milk,gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400005
+57,68692400157,['Dairy'],Kroger,Kroger® Fat Free Skim Milk,half gallon,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0068692400157
+58,81547301047,['Dairy'],Borden,Borden Whole Vitamin D Milk,1 pt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301047
+59,81547301042,['Dairy'],Borden,Borden Whole Vitamin D Milk,1 qt,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301042
+60,3663207112,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic Whole Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207112
+61,4190007986,['Dairy'],Dairy Pure,Dairy Pure 2% Reduced Fat Milk,32 fl oz,2.59,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004190007986
+62,3663207127,"['Beverages', 'Dairy']",Horizon Organic,Horizon Organic Whole Milk,8 oz,1.0,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207127
+63,1111042051,['Dairy'],Springdale,Springdale 1/2% Lowfat Milk,1 gal,2.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042051
+64,81547301038,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301038
+65,81547301033,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301033
+66,81547301043,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1 qt,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301043
+67,81547301048,['Dairy'],Borden,Borden 2% Reduced Fat Milk,1 pt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301048
+68,76352800006,['Dairy'],Promised Land,Promised Land Dairy Vitamin D Ultra-Pasteurized Whole Milk,52 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800006
+69,81162002205,"['Dairy', 'Beverages']",Fairlife,Fairlife 2% Reduced Fat Ultra-Filtered Milk,6 bottles / 8 fl oz,6.99,5.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002205
+70,76352800020,['Dairy'],Promised Land,Promised Land Dairy 2% Reduced Fat Milk,52 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800020
+71,81162002253,['Dairy'],Good Moo'd,Good Moo'd 2% Reduced Fat Milk,64 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002253
+72,81547301688,['Dairy'],Borden,Borden Hi-Protein 2% Reduced Fat Milk,1 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301688
+73,81162002254,['Dairy'],Good Moo'd,Good Moo'd Whole Milk,64 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002254
+74,81547301689,['Dairy'],Borden,Borden Hi-Protein 2% Reduced Fat Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301689
+75,88303800001,['Dairy'],LaLa,LALA Vitamin D Whole Milk,1 gal,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0088303800001
+76,81547301044,['Dairy'],Borden,Borden 1% Lowfat Milk,1 qt,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301044
+77,81547301045,['Dairy'],Borden,Borden Fat Free Skim Milk,1 qt,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301045
+78,88303800050,['Dairy'],,Lala 2% Milk,1 gal,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0088303800050
+79,81547301719,['Dairy'],Borden,Borden State Fair Banana Taffy Whole Milk,16 fl oz,1.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301719
+80,81003226002,['Dairy'],Sproud,Sproud Plant Based Barista Milk,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226002
+81,4164807985,"['Dairy', 'Natural & Organic']",Better Than Milk,Better Than Milk Organic Unsweetened Oat Drink,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807985
+82,4164807988,"['Dairy', 'Natural & Organic']",Better Than Milk,Better Than Milk Organic Unsweetened Almond Drink,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807988
+83,4164807986,"['Natural & Organic', 'Dairy']",Better Than Milk,Better Than Milk Organic Unsweetened Rice Drink,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807986
+84,4164807984,['Dairy'],Better Than Milk,Better Than Milk Organic Almond Drink,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807984
+85,4164807987,['Dairy'],Better Than Milk,Better Than Milk Hazelnut Organic Rice Drink,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004164807987
+86,1111042856,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Fat Free Milk,0.5 gal,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042856
+87,1111042902,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ 2% Reduced Fat Milk,1 gal,5.69,5.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042902
+88,1111042861,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ 2% Reduced Fat Milk with DHA Omega-3,1/2 gal,3.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042861
+89,1111042858,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Whole Milk with DHA Omega-3,1/2 gal,3.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042858
+90,74236526445,"['Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic Vitamin D Whole Milk,1/2 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526445
+91,1111050438,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Lactose Free 2% Reduced Fat Milk,1/2 gal,3.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050438
+92,74236526425,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic 2% Reduced Fat Milk,1/2 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526425
+93,1111050434,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Lactose Free Whole Milk,1/2 gal,3.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050434
+94,74236526447,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic DHA Omega-3 Whole Milk,1/2 gal,4.99,4.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526447
+95,7290400003,"['Dairy', 'Natural & Organic']",Meyenberg,Meyenberg Vitamin D Goat Milk,1 quart,4.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007290400003
+96,74236526435,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic DHA Omega-3 2% Reduced Fat Milk,1/2 gal,4.99,4.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526435
+97,74236500707,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Grassfed Whole Vitamin D Milk,1/2 gal,5.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500707
+98,74236526405,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Fat-Free Milk,1/2 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526405
+99,1111050075,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Whole Chocolate Milk,0.5 gal,3.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050075
+100,74236520885,"['Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic Chocolate Lowfat Milk,8 fl oz,1.0,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236520885
+101,74236500675,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Whole Milk,1 gal,6.09,5.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500675
+102,74236500708,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Grassfed 2% Reduced Fat Milk,1/2 gal,5.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500708
+103,1111042862,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® 1% Low Fat Chocolate Milk,1/2 gal,3.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042862
+104,1111042906,"['Dairy', 'Natural & Organic']",Simple Truth Organic,Simple Truth Organic® Fat Free Milk,1 gal,5.69,5.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042906
+105,74236520865,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Lowfat Strawberry Milk,8 fl oz,1.0,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236520865
+106,74236500416,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic 1% Chocolate Lowfat Milk 6 Count,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500416
+107,74236500674,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic 2% Reduced Fat Milk,1 gal,6.09,5.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500674
+108,74236526480,"['Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic DHA Omega-3 1% Chocolate Lowfat Milk,0.5 gal,4.99,4.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236526480
+109,74236500432,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic DHA Omega-3 Lowfat Chocolate Milk,6 ct / 8 fl oz,6.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500432
+110,74236500420,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,Horizon Organic 1% Lowfat Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500420
+111,74236500270,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic Lowfat Chocolate Milk 12 Count,12 ct / 8 fl oz,11.99,11.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500270
+112,85508800568,"['Natural & Organic', 'Dairy']",Maple Hill,Maple Hill Organic 100% Grassfed Reduced Fat Milk,1/2 gal,7.29,5.79,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085508800568
+113,74236500417,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,Horizon Organic 1% Vanilla Lowfat Milk 6 Count,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500417
+114,74236500421,"['Beverages', 'Dairy', 'Natural & Organic']",Horizon Organic,Horizon Organic Reduced Fat Strawberry Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500421
+115,74236500434,"['Dairy', 'Natural & Organic', 'Beverages']",Horizon Organic,Horizon Organic Lowfat Milk Boxes,12 ct / 8 fl oz,11.99,11.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500434
+116,3663207113,"['Natural & Organic', 'Dairy', 'Beverages']",Horizon Organic,Horizon Organic Whole Milk Cartons,12 ct / 8 fl oz,11.99,11.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207113
+117,74236500318,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic Lowfat Vanilla Milk 12 Count,12 ct / 8 fl oz,11.99,11.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500318
+118,74236500431,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic DHA Omega-3 Lowfat Vanilla Milk,6 ct / 8 fl oz,6.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500431
+119,74236500437,"['Beverages', 'Natural & Organic', 'Dairy']",Horizon Organic,Horizon Organic DHA Omega-3 Lowfat Chocolate Milk Boxes,12 ct / 8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074236500437
+120,2529300099,"['Natural & Organic', 'Dairy']",Silk,Silk Vanilla Almond Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300099
+121,1111089536,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth® Almond Milk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089536
+122,2529300275,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweetened Cashew Milk,64 fl oz,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300275
+123,4157005413,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Unsweetened Almond Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005413
+124,2529300242,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweetened Almond & Coconut Milk Blend,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300242
+125,85290900342,"['Dairy', 'Natural & Organic']",Califia Farms,Califia Farms Pure Toasted Coconut Almond Milk Blend,48 fl oz,4.49,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900342
+126,2529300451,"['Natural & Organic', 'Dairy']",Silk,Silk Chocolate Protein Almond & Cashew Milk,64 fl oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300451
+127,2529300380,"['Dairy', 'Natural & Organic']",Silk,Silk Original Almond & Cashew Protein Milk,64 fl oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300380
+128,2529300377,"['Natural & Organic', 'Dairy']",Silk,Silk Original Unsweetened Almond Milk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300377
+129,2529300379,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweetened Vanilla Almond Milk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300379
+130,4157005416,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Vanilla Unsweetened Almond Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005416
+131,1111084185,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth® Unsweetened Coconut Milk,32 fl oz,1.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084185
+132,4157006836,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Vanilla Almond Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157006836
+133,1111081557,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Almond Milk,32 fl oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111081557
+134,4157006827,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Original Almond Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157006827
+135,85564300604,"['Natural & Organic', 'Dairy']",Ripple,Ripple Original Unsweetened Plant-Based Milk,48 fl oz,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085564300604
+136,85564300605,"['Dairy', 'Natural & Organic']",Ripple,Ripple Original Dairy-Free Pea Milk,48 fl oz,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085564300605
+137,4157006837,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Chocolate Almond Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157006837
+138,1111083449,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth™ Unsweetened Vanilla Almond Milk,32 fl oz,1.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111083449
+139,1111081558,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Vanilla Almond Milk,32 fl oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111081558
+140,82946200117,"['Dairy', 'Natural & Organic']",Good Karma,Good Karma Unsweetened Flax Milk,1/2 gal,4.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0082946200117
+141,4157008977,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Vanilla Unsweetened Coconut Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157008977
+142,7487396015,"['Dairy', 'Natural & Organic']",WestSoy,WestSoy Organic Unsweetened Plain Soy Milk,32 fl oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007487396015
+143,4157008976,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Organic Unsweetened Almond Coconut Milk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157008976
+144,2529300272,"['Dairy', 'Natural & Organic']",Silk,Silk Dark Chocolate Almond Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300272
+145,5260306600,"['Dairy', 'Natural & Organic']",Pacific,Pacific Hemp Original Milk Beverage,32 fl oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306600
+146,2529300273,"['Natural & Organic', 'Dairy']",Silk,Silk Vanilla Almond Milk,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300273
+147,85788200801,"['Dairy', 'Natural & Organic']",Better Body Foods,Better Body Foods Oatsome Organic Original Oat Milk,1 l,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085788200801
+148,2529300169,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweetened Vanilla Almond Milk,32 fl oz,2.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300169
+149,2529300170,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweet Almond Milk,32 fl oz,2.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300170
+150,1894400102,['Dairy'],Elmhurst,Elmhurst Milked Unsweetened Almond Beverage,32 fl oz,5.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001894400102
+151,87538600040,"['Dairy', 'Natural & Organic']",Living Harvest,Living Harvest Unsweetened Original Hemp Milk,32 fl oz,3.59,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600040
+152,5260306503,"['Natural & Organic', 'Dairy']",Pacific,Pacific Unsweetened Almond Milk Beverage,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306503
+153,87538600032,"['Natural & Organic', 'Dairy']",Living Harvest,Living Harvest Vanilla Hemp Milk,32 fl oz,3.59,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600032
+154,87538600041,"['Dairy', 'Natural & Organic']",Living Harvest,Living Harvest Tempt Unsweetened Vanilla Hemp Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600041
+155,4157008974,"['Dairy', 'Natural & Organic']",Blue Diamond,Blue Diamond Almond Breeze Coconut Milk Blend,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157008974
+156,81363602024,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Unsweetened Almond Milk Creamer,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602024
+157,87538600030,"['Natural & Organic', 'Dairy']",Living Harvest,Living Harvest Tempt Original Hemp Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600030
+158,87538600031,"['Natural & Organic', 'Dairy']",Living Harvest,Living Harvest Chocolate Hemp Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0087538600031
+159,7487396025,"['Dairy', 'Natural & Organic']",Westsoy,WestSoy Organic Original Soy Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007487396025
+160,4157005791,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Vanilla Unsweetened Milk,1/2 gal,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005791
+161,74447391231,"['Dairy', 'Natural & Organic']",SO Delicious,SO Delicious Original Coconut Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074447391231
+162,85177000364,"['Dairy', 'Natural & Organic']",Orgain,Orgain Organic Protein Unsweetened Vanilla Almond Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085177000364
+163,7487396200,"['Dairy', 'Natural & Organic']",West Soy,West Soy Organic Plus Plain Soy Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007487396200
+164,8425326020,"['Natural & Organic', 'Dairy']",Dream,Soy Dream Original Soy Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0008425326020
+165,85290900377,['Dairy'],Califia Farms,Califia Farms Barista Blend Almond Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900377
+166,7487397083,"['Dairy', 'Natural & Organic']",WestSoy,WestSoy Unsweetened Vanilla Soy Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007487397083
+167,4318200206,"['Natural & Organic', 'Dairy']",Native Forest,Native Forest Organic Unsweetened Coconut Milk Simple,13.5 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004318200206
+168,5260306500,"['Dairy', 'Natural & Organic']",Pacific,Pacific Organic Almond Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005260306500
+169,1111050573,['Dairy'],Kroger,Kroger® 1% Low Fat Chocolate Milk Jug,1 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050573
+170,1111050574,['Dairy'],Kroger,Kroger® 1% Lowfat Chocolate Milk,0.5 gal,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050574
+171,2800077212,['Dairy'],Nesquik,Nesquik Chocolate Flavored Low Fat Milk,14 fl oz,1.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002800077212
+172,1111050279,['Dairy'],Kroger,Kroger® 1% Low Fat Chocolate Milk,1 pt,0.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050279
+173,1111043266,['Dairy'],Kroger,Kroger® Grade A Chocolate Milk,1/2 gal,2.59,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111043266
+174,76352800008,['Dairy'],Promised Land,Promised Land Dairy Midnight Chocolate Ultra-Pasteurized Whole Milk,28 fl oz,3.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800008
+175,1111008300,['Dairy'],Kroger,Kroger® CARBmaster® Ultra Filtered Non-Fat Chocolate Milk,59 fl oz,4.49,3.69,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008300
+176,76352800017,['Dairy'],Promised Land,Promised Land Dairy 2% Reduced Fat Midnight Chocolate Milk,28 fl oz,3.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0076352800017
+177,81547301041,['Dairy'],Borden,Borden Dutch Chocolate Whole Milk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301041
+178,81547301051,['Dairy'],Borden,Borden Dutch Chocolate Whole Milk,1 pt,1.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301051
+179,2800073309,['Dairy'],Nesquik,Nesquik Chocolate Low Fat Milk,6 bottles / 8 fl oz,5.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002800073309
+180,81162002206,"['Dairy', 'Beverages']",Fairlife,Fairlife 2% Reduced Fat Ultra-Filtered Chocolate Milk,6 bottles / 8 fl oz,6.99,5.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081162002206
+181,81547301046,['Dairy'],Borden,Borden Dutch Chocolate Whole Milk,1 qt,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301046
+182,81003226003,['Dairy'],Sproud,Sproud Chocolate Flavor Plant-Based Milk,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226003
+183,85804500429,['Dairy'],Milkadamia,Milkadamia Unsweetened Macadamia Milk,32 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085804500429
+184,85804500451,['Dairy'],Milkadamia,Milkadamia Unsweetened Vanilla Macadamia Milk,32 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085804500451
+185,85804500428,['Dairy'],Milkadamia,Milkadamia Original Macadamia Milk,32 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085804500428
+186,73762801150,"['International', 'Dairy']",Thai Kitchen,Thai Kitchen Unsweetened Coconut Milk,13.66 fl oz,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0073762801150
+187,81829001703,['Dairy'],Chobani,Chobani Oat Plain Extra Creamy Plant-Based Milk,52 fl oz,4.99,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001703
+188,1111090414,"['International', 'Dairy']",Kroger,Kroger® Premium Coconut Milk,13.5 fl oz,2.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111090414
+189,81829001698,['Dairy'],Chobani,Chobani Oat Plain Plant-Based Milk,52 fl oz,4.99,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081829001698
+190,4473801843,"['International', 'Dairy']",Chaokoh,Chaokoh Coconut Milk,13.5 fl oz,2.39,2.19,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004473801843
+191,1111078505,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Unsweetened Almond Milk,32 fl oz,1.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111078505
+192,3663207269,['Dairy'],Silk,Silk Protein Almond & Cashew Unsweetened Vanilla Milk,64 fl oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207269
+193,1111090415,"['International', 'Dairy']",Kroger,Kroger® Lite Coconut Milk,13.5 fl oz,2.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111090415
+194,2500012008,"['Natural & Organic', 'Dairy']",Simply,Simply Vanilla Almond Milk,46 fl oz,3.99,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002500012008
+195,4133102164,"['International', 'Dairy']",Goya,Goya Gluten Free Coconut Milk,13.5 fl oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004133102164
+196,73762801160,"['International', 'Dairy']",Thai Kitchen,Thai Kitchen Lite Coconut Milk,13.66 fl oz,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0073762801160
+197,2500012006,"['Natural & Organic', 'Dairy']",Simply,Simply Original Unsweetened Almond Milk,46 fl oz,3.99,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002500012006
+198,2500012004,"['Dairy', 'Natural & Organic']",Simply,Simply Original Almond Milk,46 fl oz,3.99,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002500012004
+199,3663207614,['Dairy'],Silk,Silk Original Almond Milk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207614
+200,1111009223,['Dairy'],Simple Truth,Simple Truth Chocolate Oat Milk,1.89 l,3.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111009223
+201,3663207615,['Dairy'],Silk,Silk Vanilla Almond Milk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207615
+202,7065006025,['Dairy'],Andre Prost,Andre Prost Dairy Free Unsweetened  Coconut Milk,13.5 fl oz,2.49,2.19,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007065006025
+203,7065080012,"['Dairy', 'International']",A Taste of Thai,A Taste of Thai Coconut Milk,13.5 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007065080012
+204,63919250152,['Dairy'],Laguna,Laguna Coconut Milk Drink,10.5 fl oz,1.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0063919250152
+205,2529360090,['Dairy'],Silk,Silk Original Soy Milk,32 fl oz,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360090
+207,1894400106,['Dairy'],Elmhurst,Elmhurst Unsweetened Milked Cashews Beverage,32 fl oz,5.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001894400106
+208,4133102165,"['International', 'Dairy']",Goya,Goya Light Coconut Milk,13.5 fl oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004133102165
+209,86452400010,['Dairy'],Mooala,Mooala Organic Original Almond Milk,48 fl oz,5.49,4.27,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0086452400010
+210,73762801094,"['International', 'Dairy', 'Natural & Organic']",Thai Kitchen,Thai Kitchen Organic Coconut Milk,13.66 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0073762801094
+211,2418202506,['Dairy'],Eden,Organic Edensoy Unsweetened Soy Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202506
+213,81363602164,['Dairy'],Califia Farms,Califia Farms No Sugar Added Better Half Coconut Cream & Almond Milk Dairy Free Half-n-Half,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602164
+214,2418202515,['Dairy'],Eden,Organic Edensoy Carob Soy Milk,33 oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202515
+215,2418202545,['Dairy'],Eden Foods,Eden Foods  Organic EdenSoy® Extra Soy Milk   Vanilla,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202545
+216,73762806050,"['Dairy', 'International']",Thai Kitchen,Thai Kitchen Unsweetened Coconut Milk,5.46 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0073762806050
+217,81003226007,['Dairy'],Sproud,Sproud Unsweetened Plant-Based Milk,33.8 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081003226007
+218,81363602165,['Dairy'],Califia Farms,Califia Farms Unsweetened Dairy Free Almond Milk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602165
+219,1111042712,['Dairy'],Kroger,Kroger® Cultured Whole Buttermilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042712
+220,1111042707,['Dairy'],Kroger,Kroger® Cultured Low Fat Buttermilk,1 pt,0.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042707
+221,1111042705,['Dairy'],Kroger,Kroger® Cultured Lowfat Buttermilk,32 fl oz,1.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042705
+222,1111042701,['Dairy'],Kroger,Kroger® Cultured Lowfat Buttermilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042701
+224,81547301402,['Dairy'],Borden,Borden Country Store Bulgarian Cultured Whole Buttermilk,1/2 gal,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301402
+225,81547301218,['Dairy'],Borden,Borden Cultured 1% Lowfat Buttermilk,1 qt,2.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301218
+226,81547301213,['Dairy'],Borden,Borden Cultured 1% Lowfat Buttermilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081547301213
+227,81363602044,['Dairy'],Califia Farms,Califia Farms Vanilla Almond Milk Creamer,25 fl oz,4.49,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602044
+228,74447394124,['Dairy'],SO Delicious,SO Delicious Dairy Free French Vanilla Coconut Milk Creamer,32 fl oz,4.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074447394124
+229,74447394120,['Dairy'],SO Delicious,SO Delicious Dairy Free Original Coconut Milk Creamer,32 fl oz,4.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074447394120
+230,81363602022,['Dairy'],Califia Farms,Califia Farms Dairy Free Better Half Unsweetened Coconut Cream & Almond Milk Creamer,16.9 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602022
+231,81363602090,['Dairy'],Califia Farms,Califia Farms Dairy Free Barista Blend Almond Milk Creamer,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602090
+232,1996270343,['Dairy'],Coconut Cloud,Coconut Cloud Dairy Free Vanilla Dried Coconut Milk Creamer,6 oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001996270343
+233,1996270333,['Dairy'],Coconut Cloud,Coconut Cloud Original Coconut Milk Creamer,6 oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001996270333
+234,81363602084,['Dairy'],Califia Farms,Califia Farms  Dairy Free Better Half Hazelnut Flavored Coconut Cream & Almond Milk,16.9 oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602084
+236,86452400013,"['Dairy', 'Natural & Organic']",Mooala,Mooala Organic Original Bananamilk,48 fl oz,5.49,4.27,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0086452400013
+237,2529300149,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweetened Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300149
+238,2529300136,"['Natural & Organic', 'Dairy']",Silk,Silk Unsweet Vanilla Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300136
+239,4157005670,"['Dairy', 'Natural & Organic']",Almond Breeze,Almond Breeze Unsweetened Original Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005670
+240,2529300098,"['Dairy', 'Natural & Organic']",Silk,Silk Original Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300098
+241,4157005618,"['Dairy', 'Natural & Organic']",Almond Breeze,Almond Breeze Unsweetened Vanilla Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005618
+242,1111089569,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth™ Unsweetened Almondmilk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089569
+243,4157005617,"['Natural & Organic', 'Dairy']",Almond Breeze,Blue Diamond Almond Breeze Original Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005617
+244,4410015618,"['Natural & Organic', 'Dairy']",Planet Oat,Planet Oat Original Oatmilk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004410015618
+245,2529300119,"['Natural & Organic', 'Dairy']",Silk,Silk Dark Chocolate Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300119
+246,2529360039,"['Dairy', 'Natural & Organic']",Silk,Silk Protein Original Soymilk,64 fl oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360039
+247,1111089577,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth® Unsweetened Vanilla Almondmilk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089577
+248,2529360023,"['Natural & Organic', 'Dairy']",Silk,Silk Organic Unsweetened Soymilk,0.5 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360023
+249,1111089562,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth Vanilla Almondmilk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089562
+250,1111042950,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Plain Soymilk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042950
+251,1111087980,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Almondmilk,1/2 gal,3.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087980
+252,4157011019,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Unsweetened Original Almondmilk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011019
+253,2529300228,"['Dairy', 'Natural & Organic']",Silk,Silk Unsweet Coconutmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300228
+254,1111084597,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth Coconutmilk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111084597
+255,4410015621,"['Dairy', 'Natural & Organic']",Planet Oat,Planet Oat Vanilla Oatmilk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004410015621
+256,4157011008,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011008
+257,2529360027,"['Dairy', 'Natural & Organic']",Silk,Silk Protein Vanilla Soymilk,64 fl oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360027
+258,4157010993,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Hint of Honey Vanilla Almondmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157010993
+259,85290900330,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Pure Unsweetened Almondmilk,48 fl oz,4.49,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900330
+260,3663207126,"['Dairy', 'Natural & Organic']",Silk,Silk Oat Yeah Plain Dairy-Free Oatmilk,64 fl oz,4.49,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207126
+261,81363602188,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Unsweetened Oatmilk,48 fl oz,4.49,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602188
+262,1111087981,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Vanilla Almondmilk,1/2 gal,3.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111087981
+263,4157010964,"['Natural & Organic', 'Dairy']",Almond Breeze,Blue Diamond Almond Breeze Reduced Sugar Vanilla Almondmilk,0.5 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157010964
+264,1111089578,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth® Chocolate Almondmilk,0.5 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089578
+265,2529300122,"['Dairy', 'Natural & Organic']",Silk,Silk Original Coconutmilk,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300122
+266,4157005772,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Vanilla Almondmilk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005772
+267,85290900369,"['Natural & Organic', 'Dairy']",Califia Farms,Califia Farms Unsweetened Vanilla Almondmilk,48 fl oz,4.49,3.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085290900369
+268,3663207459,"['Natural & Organic', 'Dairy']",Silk,Silk Oat Yeah Craveably Creamy Oatmilk,64 fl oz,4.49,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0003663207459
+269,4157009915,"['Dairy', 'Natural & Organic']",Almond Breeze,Blue Diamond Almond Breeze Unsweetened Original Almondmilk Coconutmilk Blend,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157009915
+270,4157005770,"['Natural & Organic', 'Dairy']",Almond Breeze,Blue Diamond Almond Breeze Original Almondmilk,96 fl oz,4.39,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005770
+272,4157050001,"['Dairy', 'Natural & Organic']",Blue Diamond,Blue Diamond Almond Breeze Almondmilk Blended with Real Bananas,1/2 gal,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157050001
+273,1111088806,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic™ Unsweetened Soymilk,32 fl oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111088806
+274,4157005418,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Unsweetened Chocolate Almondmilk,32 fl oz,2.19,1.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005418
+279,2529300139,"['Dairy', 'Natural & Organic']",Silk,Silk Very Vanilla Soymilk,8 fl oz,1.25,1.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300139
+281,4157005260,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Original Unsweetened Almondmilk,1/2 gal,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157005260
+282,4157011097,"['Natural & Organic', 'Dairy']",Blue Diamond,Blue Diamond Almond Breeze Unsweetened Vanilla Almondmilk,4 ct / 8 fl oz,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011097
+283,2529300137,"['Dairy', 'Natural & Organic']",Silk,Silk Chocolate Soymilk,8 fl oz,1.25,1.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300137
+284,4157011095,"['Natural & Organic', 'Dairy']",Blue Diamond,Blue Diamond Almond Breeze Chocolate Almondmilk,4 ct / 8 fl oz,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157011095
+285,2529300270,"['Natural & Organic', 'Dairy']",Silk,Silk Chocolate Soymilk 6 Count,6 ct / 8 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300270
+300,2418202535,"['Dairy', 'Natural & Organic']",Eden,Eden Soy Extra Organic Soymilk Original,32 fo,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202535
+304,2418202505,"['Dairy', 'Natural & Organic']",Eden Foods,Eden Foods  Organic EdenSoy® Soymilk Dairy Free   Original,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202505
+305,4157010991,"['Natural & Organic', 'Dairy']",Almond Breeze,Almond Breeze Unsweetened Vanilla Almondmilk Coconutmilk Blend,1/2 gal,2.99,2.84,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004157010991
+306,74447391234,"['Natural & Organic', 'Dairy', 'Beverages']",SO Delicious,SO Delicious Dairy Free Organic Vanilla Coconutmilk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074447391234
+313,4410015619,['Dairy'],Planet Oat,Planet Oat Extra Creamy Original Oatmilk,52 fl oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004410015619
+314,1111003844,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth Original Oatmilk Non-Dairy Oat Beverage,1/2 gal,3.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003844
+316,1111042952,"['Natural & Organic', 'Dairy']",Simple Truth Organic,Simple Truth Organic® Vanilla Soymilk,1/2 gal,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111042952
+317,1111003850,['Dairy'],Simple Truth,Simple Truth™ Original Oatmilk Non-Dairy Oat Beverage,32 fl oz,1.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003850
+323,19064664101,['Dairy'],Oatly,Oatly Original Oatmilk,1/2 gal,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0019064664101
+324,2529360089,['Dairy'],Silk,Silk Protein Unsweetened Organic Soymilk,32 fl oz,2.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529360089
+325,19064664102,['Dairy'],Oatly,Oatly Original Low Fat Oatmilk,1/2 gal,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0019064664102
+326,1111008234,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Vanilla Probiotic Almondmilk,6 bottles / 2.7 fl oz,2.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111008234
+329,85539500704,['Dairy'],Mooala,Mooala Organic Unsweetened Coconut Oatmilk,48 fl oz,5.49,4.27,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085539500704
+335,81363602161,['Dairy'],Califia Farms,Califia Farms Oat Barista Blend Oatmilk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602161
+336,81363602233,['Dairy'],Califia Farms,Califia Farms Unsweetened Vanilla Almondmilk,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602233
+338,2418202510,['Dairy'],Eden Foods,Eden Foods  Organic Edensoy Soymilk   Cocoa,32 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002418202510
+364,5000099334,['Dairy'],Starbucks,Starbucks Almondmilk & Oatmilk Non-Dairy Caramel Macchiato Liquid Coffee Creamer,28 fl oz,4.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005000099334
+427,81363602083,['Dairy'],Califia Farms,Califia Farms Better Half Vanilla Coconut Cream & Almondmilk,16.9 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602083
+428,81363602023,['Dairy'],Califia Farms,Califia Farms Better Half Original Coconut Cream & Almondmilk,16.9 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602023
+440,81363602227,['Dairy'],Califia Farms,Califia Farms Keto Unsweetened Vanilla Almondmilk & Coconut Creamer,16.9 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602227
+441,81363602226,['Dairy'],Califia Farms,Califia Farms Keto Unsweetened Almondmilk & Coconut Creamer,16.9 fl oz,,,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0081363602226
+568,1111001798,['Dairy'],Kroger,Kroger® Whole Milk Shredded Mozzarella Cheese,8 oz,2.69,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111001798
+572,7456200100,"['Dairy', 'International']",Cacique,Cacique Ranchero Queso Fresco Part Skim Milk Cheese,10 oz,2.99,2.5,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007456200100
+579,1111048888,['Dairy'],Kroger,Kroger®  Whole Milk Ricotta Cheese Tub,15 oz,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111048888
+588,2100002483,['Dairy'],Kraft,Kraft Singles 2% Milk Reduced Fat American Cheese Slices,16 ct / 10.7 oz,3.79,3.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002100002483
+589,1111048987,['Dairy'],Kroger,Kroger® Whole Milk Ricotta Cheese,30 oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111048987
+595,2529300397,"['Dairy', 'Breakfast', 'Natural & Organic']",Silk,Silk Vanilla Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300397
+597,7403010300,['Dairy'],Galbani,Galbani Whole Milk Ricotta Cheese,15 oz,3.89,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007403010300
+600,4610040010,['Dairy'],Sargento,Sargento Off The Block Whole Milk Mozzarella Shredded Cheese,8 oz,3.99,3.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0004610040010
+604,5215970336,"['Natural & Organic', 'Dairy']",Stonyfield Organic,Stonyfield Organic Pear Spinach Mango Whole Milk Yogurt,3.5 oz,1.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970336
+606,5215900001,"['Natural & Organic', 'Dairy']",Stonyfield Organic,Stonyfield Smooth & Creamy Whole Milk Plain Yogurt,32 oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215900001
+609,2529300396,"['Dairy', 'Natural & Organic']",Silk,Silk Strawberry Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300396
+615,74447300046,"['Dairy', 'Natural & Organic']",SO Delicious,SO Delicious Dairy-Free Coconut Milk Key Lime Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0074447300046
+620,5215900002,"['Dairy', 'Natural & Organic']",Stonyfield Organic,Stonyfield Organic Vanilla Whole Milk Probiotic Yogurt,32 oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215900002
+623,2529300399,"['Dairy', 'Natural & Organic']",Silk,Silk Dark Chocolate Coconut Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300399
+627,5215970107,"['Dairy', 'Natural & Organic']",Stonyfield Organic,Stonyfield Organic Strawberry Beet Berry Whole Milk Yogurt,3.5 oz,1.19,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970107
+629,2100005439,['Dairy'],Kraft,Kraft Sharp Cheddar Shredded Cheese Made with 2% Milk,7 oz,3.59,3.49,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002100005439
+633,2529300398,"['Dairy', 'Natural & Organic']",Silk,Silk Peach Almond Milk Yogurt Alternative,5.3 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002529300398
+650,7027249129,['Dairy'],Reddi Wip,Reddi Wip Non-Dairy Almond Milk Whipped Topping,6 oz,4.29,3.79,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0007027249129
+656,1111050586,['Dairy'],Kroger,Kroger® Whole Milk Plain Yogurt,32 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050586
+663,1111004587,['Dairy'],Kroger,Kroger® Plain Whole Milk Greek Yogurt,32 oz,4.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004587
+666,1111050587,['Dairy'],Kroger,Kroger® Whole Milk Blended Vanilla Yogurt,32 oz,1.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050587
+677,2100062566,['Dairy'],Kraft,Kraft Deli Deluxe 2% Milk American Cheese Slices,24 ct / 16 oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002100062566
+693,85997700506,"['Natural & Organic', 'Dairy']",Good Culture,Good Culture Organic Whole Milk Cottage Cheese,16 oz,4.99,4.59,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085997700506
+696,2100061166,['Dairy'],Velveeta,Velveeta 2% Milk Cheese,32 oz,7.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0002100061166
+700,5215970119,"['Natural & Organic', 'Dairy']",Stonyfield Organic,Stonyfield Organic Kids Whole Milk Strawberry Banana Yogurt 6 Count,6 ct / 4 oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970119
+705,5215970115,"['Natural & Organic', 'Baby', 'Dairy']",Stonyfield Organic,Stonyfield Organic YoBaby Apple & Blueberry Whole Milk Yogurt 6 Count,6 ct / 4 oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970115
+724,1111050444,['Dairy'],Kroger,Kroger® Delight Original Moose Tracks Whole Milk Greek Yogurt,5.3 oz,0.89,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111050444
+731,5215970116,"['Natural & Organic', 'Dairy', 'Baby']",Stonyfield Organic,Stonyfield Organic YoBaby Peach & Pear Whole Milk Yogurt 6 Count,6 ct / 4 oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215970116
+734,1707707432,"['Breakfast', 'Dairy', 'Natural & Organic']",Lifeway,Lifeway Organic Mixed Berry Kefir Cultured Whole Milk,32 fl oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001707707432
+735,1111004588,['Dairy'],Kroger,Kroger® Whole Milk Vanilla Greek Yogurt,32 oz,4.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111004588
+748,1111089511,['Dairy'],Kroger,Kroger® Natural Grated Queso Cotija Part Skim Milk Cheese,8 oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089511
+755,1707707232,"['Dairy', 'Natural & Organic', 'Breakfast']",Lifeway,Lifeway Organic Plain Unsweetened Kefir Cultured Whole Milk,32 fl oz,4.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001707707232
+774,85662400414,"['Dairy', 'Natural & Organic']",Kite Hill,Kite Hill Strawberry Almond Milk Yogurt,5.3 oz,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400414
+775,85662400436,"['Dairy', 'Natural & Organic']",Kite Hill,Kite Hill Plain Unsweetened Almond Milk Yogurt,16 fl oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400436
+790,85662400413,"['Natural & Organic', 'Dairy']",Kite Hill,Kite Hill Blueberry Almond Milk Yogurt,5.3 oz,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400413
+791,85662400408,"['Natural & Organic', 'Dairy']",Kite Hill,Kite Hill Dairy Free Plain Almond Milk Cream Cheese Style Spread,8 oz,6.49,4.99,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400408
+819,85662400437,"['Natural & Organic', 'Dairy']",Kite Hill,Kite Hill Vanilla Almond Milk Yogurt,16 oz,6.49,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0085662400437
+824,1111003823,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Strawberry Cultured Lowfat Milk Kefir,32 fl oz,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003823
+833,8819434060,"['Dairy', 'Natural & Organic']",Brown Cow,Brown Cow Cream Top Plain Whole Milk Yogurt,2 lb,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0008819434060
+835,8819434061,"['Dairy', 'Natural & Organic']",Brown Cow,Brown Cow Cream Top Vanilla Whole Milk Yogurt,2 lb,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0008819434061
+850,8819434062,"['Dairy', 'Natural & Organic']",Brown Cow,Brown Cow Cream Top Maple Whole Milk Yogurt,2 lb,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0008819434062
+878,1111089507,['Dairy'],Kroger,Kroger® Part Skim Milk Queso Panela Cheese,10 oz,2.79,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089507
+889,1111089503,['Dairy'],Kroger,Kroger® Part Skim Milk Queso Cotija,10 oz,2.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111089503
+915,1111003822,"['Natural & Organic', 'Dairy']",Simple Truth,Simple Truth™ Cultured Lowfat Plain Milk Kefir Bottle,32 fl oz,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003822
+918,1111003824,"['Dairy', 'Natural & Organic']",Simple Truth,Simple Truth™ Cultured Lowfat Vanilla Milk Kefir Bottle,32 fl oz,3.29,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0001111003824
+925,5215900013,"['Dairy', 'Natural & Organic']",Stonyfield Organic,Stonyfield Organic Strawberry Whole Milk Probiotic Yogurt,32 oz,3.99,0.0,02/08/2021,3400312,https://www.kroger.com/product/images/xlarge/front/0005215900013
