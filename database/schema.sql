@@ -29,7 +29,7 @@ CREATE TABLE "Milk" (
     "product_id" float   NOT NULL,
     "Brand" varchar  ,
 	"features" varchar  ,
-    "size" varchar   NOT NULL,
+    "size" varchar,
     "category" varchar   NOT NULL,
     "image" varchar   NOT NULL,
 	"Store_ID" int ,
