@@ -45,7 +45,7 @@ def return_string(string, start_after_word,stop_before_word):
     except Exception as e:
         # handle error
         error=f"STRING _exception_: {type(e).__name__},</br> _arguments_: {e.args}"
-        #print(error)
+        print(error)
         my_string=None
     return my_string
 
@@ -60,11 +60,11 @@ def heb_filter(soup_find):
     transforms it to dataframe """
     my_result=soup_find
     scrap_df=pd.DataFrame()
-    try:
-#       my_result=soup.body.find_all('a',id=re.compile('product-'))
+#   my_result=soup.body.find_all('a',id=re.compile('product-'))
        
-        i=0
-        for record in my_result:
+    i=0
+    for record in my_result:
+        try:
             name=record.find('span',class_=re.compile('responsive')).text.strip()
             size=return_string(name,"Milk","")
             json=eval(record.find('script',type="application/ld+json").string)
@@ -82,9 +82,9 @@ def heb_filter(soup_find):
             else:
                 coupon=1
             #debug prints
-            #print(i) 
-            #print (f'{name} \n{size}\n{json}\n{id}\n{brand}\n{category}\n{price}\n{features}\n{coupon}\n{uomSalePrice}\n{image}')
-            #print('___________________')
+            print(i) 
+            print (f'{name} \n{size}\n{json}\n{id}\n{brand}\n{category}\n{price}\n{features}\n{coupon}\n{uomSalePrice}\n{image}')
+            print('___________________')
             i+=1
             scrap_df = scrap_df.append({'id':id,
                                 'name': name,
@@ -97,12 +97,11 @@ def heb_filter(soup_find):
                                 'uomSalePrice':uomSalePrice,
                                 'image':image,
                                }, ignore_index=True)
-        null_df=scrap_df[scrap_df.isna().any(axis=1)]
-    except Exception as e:
+        except Exception as e:
         # handle error
-        print (f'{name} \n{size}\n{json}\n{id}\n{brand}\n{category}\n{price}\n{features}\n{coupon}\n{uomSalePrice}\n{image}')
-        error=f"_exception_: {type(e).__name__},</br> _arguments_: {e.args}"
-        print(error)
+            print (f'{name} \n{size}\n{json}\n{id}\n{brand}\n{category}\n{price}\n{features}\n{coupon}\n{uomSalePrice}\n{image}')
+            error=f"MAIN_exception_: {type(e).__name__},</br> _arguments_: {e.args}"
+            print(error)
         
     return scrap_df
     
