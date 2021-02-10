@@ -28,7 +28,7 @@ CREATE TABLE "Milk" (
     
     "product_id" float   NOT NULL,
     "Brand" varchar  ,
---     "features" varchar array ,
+	"features" varchar  ,
     "size" varchar   NOT NULL,
     "category" varchar   NOT NULL,
     "image" varchar   NOT NULL,
@@ -43,7 +43,7 @@ CREATE TABLE "Price_History" (
     "product_id" int ,
     "date" timestamp   NOT NULL,
     "saleprice" float   ,
-    "price" float   NOT NULL,
+    "price" float   ,
     CONSTRAINT "pk_Price_History" PRIMARY KEY (
         "product_id","date"
      )
