@@ -1,7 +1,7 @@
 ## ETL-project
 SmartMilk
 
-### Kroger Folder 
+#Kroger Folder 
 
 The Kroger folder contains all Kroger Milk Price and Location data used in our SmartMilk program
 
@@ -22,7 +22,7 @@ The product api had a max limit per page of 50 so a "get_milk_price" function wa
 
 The max records allowed for a product api run was 1000, so the "get_milk_price" funtion was coded to stop after 20 passes (20*50 = 1000).   
 
-1000 records allowed for a complete run on dairy related milk products. The search feature appears to take relavance into consideration as we noted after 4 to 5 hundred "dairy" related responses, products containing the work "milk" went on to dog biscuits (Milk bones), candy (Milk Chocolate), and comsmetics (milk shampoos). For the purpose of our exercise, non dairy "milk" termed products are being excluded.  
+1000 records allowed for a complete run on dairy related milk products. The search feature appears to take relavance into consideration as we noted after 4 to 5 hundred "dairy" related responses, products containing the word "milk" went on to dog biscuits (Milk bones), candy (Milk Chocolate), and cosmetics (milk shampoos). For the purpose of our exercise, non dairy "milk" termed products are being excluded.  
 
 The location api allowed for a search-near zip code filter so center of Houston zip code 77002 was used to find stores within a radius of 50 miles of that code. The record limit of this api is 200 so no paging or looping was required. 
 
@@ -32,9 +32,9 @@ As we've opted not to include zipcode searching at this stage in our project, we
 
 For product and location APIs, we used pd.json_normalize to draw out and de-nest the JSON formatted results received. The dataframes were then converted to CSV format (df.to_csv) and saved to be used in our database.
 
-### Notebook File: Kroger_locations.ipynb
+#Notebook File: Kroger_locations.ipynb
 
-#### Api authorization and run scripts to generate:
+#Api authorization and run scripts to generate:
 
 JSON display within the file - milk_location
 
@@ -42,10 +42,9 @@ Pandas Dataframe showing only required fields - df
 
 CSV output of Pandas Dataframe - kroger_locations.csv
 
+#Notebook File: Kroger_milk_get_price.ipynb
 
-### Notebook File: Kroger_milk_get_price.ipynb
-
-#### Content: Api authorization and run scripts to generate:
+#Content: Api authorization and run scripts to generate:
 
 JSON display within the file - milk_price_list
 
