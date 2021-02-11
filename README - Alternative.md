@@ -15,14 +15,14 @@ _______________________
 
 ## 1.1 Scrape Kroger milk API 
 
-[Kroger_location scrape code](kroger/kroger_locations.ipynb)
+[Kroger_location scrape code](kroger/kroger_location.ipynb)
 
 [Kroger_milk scrape code](kroger/kroger_milk_get_price.ipynb)
 
 __________________________
 ## 1.2 Scrape HEB webpages
 
-[HEB scrape code](NEW _scraping_HEB.ipynb)
+[HEB scrape code](NEW_scraping_HEB.ipynb)
 
 _________________________
 ## 2. Stage area filters
