@@ -27,7 +27,7 @@ CREATE TABLE "Store" (
 CREATE TABLE "Milk" (
     "id" serial   NOT NULL,
     
-    "product_id" float   NOT NULL,
+    "product_id" bigint   NOT NULL,
     "Brand" varchar  ,
 	"features" varchar  ,
     "size" varchar,
