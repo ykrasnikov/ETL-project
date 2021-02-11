@@ -1,13 +1,15 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/gYJ0aK
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
 -- physical ERD
-Drop Table "Price_History" , "Milk", "Store", "Milk_Type";
+Drop Table IF EXISTS "Price_History", "Milk" , "Store" ,"Milk_Type" ;
+
 
 CREATE TABLE "Milk_Type" (
     "id" serial   NOT NULL,
-    "Type" varchar   NOT NULL,
+    type varchar   NOT NULL,
+	"Full_Name" varchar ,
+	"count" int,
     CONSTRAINT "pk_Milk_Type" PRIMARY KEY (
         "id"
      )
@@ -26,7 +28,7 @@ CREATE TABLE "Store" (
 CREATE TABLE "Milk" (
     "id" serial   NOT NULL,
     
-    "product_id" float   NOT NULL,
+    "product_id" bigint   NOT NULL,
     "Brand" varchar  ,
 	"features" varchar  ,
     "size" varchar,
@@ -34,6 +36,7 @@ CREATE TABLE "Milk" (
     "image" varchar   NOT NULL,
 	"Store_ID" int ,
 	"Type_ID" int ,
+	"name" varchar,
     CONSTRAINT "pk_Milk" PRIMARY KEY (
         "id"
      )
