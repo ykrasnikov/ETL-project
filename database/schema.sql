@@ -2,7 +2,8 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/gYJ0aK
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 -- physical ERD
-Drop Table "Price_History" , "Milk", "Store", "Milk_Type";
+Drop Table IF EXISTS "Price_History", "Milk" , "Store" ,"Milk_Type" ;
+
 
 CREATE TABLE "Milk_Type" (
     "id" serial   NOT NULL,
