@@ -136,6 +136,7 @@ dmypy.json
 
 #secret file
 secrets.py
+secret.py
 
 #config
 config.py
