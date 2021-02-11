@@ -1,4 +1,5 @@
 # ETL-project
+![alt text](https://www.kroger.com/product/images/medium/front/0019181735007)
 SmartMilk
 
 For our group ETL project we’d like to look at the price of milk at different stores in different zip codes.
@@ -23,3 +24,6 @@ Charles will be using the Kroger API to build the Kroger database.
 Alex will be scraping the HEB website and set up the GitHub.
 Jacob will handle string manipulation to clean up the HEB results.
 Justin will take care of building the database and the ERD.
+
+For HEB the first file is NEW_scraping_HEB.ipynb. Next is the kroger_locations.ipynb file, and then kroger_get_milk_prices.ipynb. These generate the csv files used in the filter notebooks in the staging_area directory. After that csv's are saved in the data folder and used to build the database.
+Next the ERD diagram in the database folder. The next file for creating the schema of the database and populating the database is data_etl.ipynb.
