@@ -1,4 +1,5 @@
 # ETL-project
+https://www.kroger.com/product/images/medium/front/0019181735007
 SmartMilk
 
 For our group ETL project we’d like to look at the price of milk at different stores in different zip codes.
