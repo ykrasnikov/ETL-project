@@ -22,7 +22,7 @@ _______________________
 __________________________
 ## 1.2 Scrape HEB webpages
 
-[HEB scrape code](NEW_scraping_HEB.ipynb)
+[HEB scrape code](/NEW_scraping_HEB.ipynb)
 
 _________________________
 ## 2. Stage area filters
