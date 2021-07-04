@@ -9,6 +9,11 @@
 
 
 <br> </br>
+* Extract, Transform, and Load pipeline project for Smart Milk Web Application: python
+web scraping, python data processing, PostgreSQL database CRUD
+* Tools/libraries: Python: pandas, re, BeautifulSoup, splinter, selenium, sqlalchemy;
+PostgreSQL: pgAdmin
+* Team of 4 people, lead contributor
 
 _______________________
 <br> </br>
